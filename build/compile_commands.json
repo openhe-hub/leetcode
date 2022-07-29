@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\leetcode.dir\\main.cpp.obj -c D:\\program\\cpp\\leetcode\\main.cpp",
+  "file": "D:/program/cpp/leetcode/main.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\49-group-anagrams.dir\\src\\sort\\49-group-anagrams.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sort\\49-group-anagrams.cpp",
+  "file": "D:/program/cpp/leetcode/src/sort/49-group-anagrams.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\75-color-sort.dir\\src\\sort\\75-sort-color.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sort\\75-sort-color.cpp",
+  "file": "D:/program/cpp/leetcode/src/sort/75-sort-color.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\179-largest-num.dir\\src\\sort\\179-largest-num.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sort\\179-largest-num.cpp",
+  "file": "D:/program/cpp/leetcode/src/sort/179-largest-num.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\378-kth-smallest.dir\\src\\sort\\378-kth-smallest.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sort\\378-kth-smallest.cpp",
+  "file": "D:/program/cpp/leetcode/src/sort/378-kth-smallest.cpp"
+}
+]
