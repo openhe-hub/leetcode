@@ -11,6 +11,7 @@ bool operator<(Data d1, Data d2) {
     return d1.data>d2.data;
 }
 
+
 class Solution {
    public:
     int kthSmallest(vector<vector<int>>& matrix, int k) {
