@@ -210,6 +210,175 @@ leetcode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\378-kth-smallest.dir\build.make CMakeFiles/378-kth-smallest.dir/build
 .PHONY : 378-kth-smallest/fast
 
+#=============================================================================
+# Target rules for targets named 98-verify-bst
+
+# Build rule for target.
+98-verify-bst: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 98-verify-bst
+.PHONY : 98-verify-bst
+
+# fast build rule for target.
+98-verify-bst/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/build
+.PHONY : 98-verify-bst/fast
+
+#=============================================================================
+# Target rules for targets named 419-count-ships
+
+# Build rule for target.
+419-count-ships: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 419-count-ships
+.PHONY : 419-count-ships
+
+# fast build rule for target.
+419-count-ships/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/build
+.PHONY : 419-count-ships/fast
+
+#=============================================================================
+# Target rules for targets named 307-range-sum-query
+
+# Build rule for target.
+307-range-sum-query: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 307-range-sum-query
+.PHONY : 307-range-sum-query
+
+# fast build rule for target.
+307-range-sum-query/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/build
+.PHONY : 307-range-sum-query/fast
+
+#=============================================================================
+# Target rules for targets named 315-count-smaller
+
+# Build rule for target.
+315-count-smaller: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 315-count-smaller
+.PHONY : 315-count-smaller
+
+# fast build rule for target.
+315-count-smaller/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/build
+.PHONY : 315-count-smaller/fast
+
+#=============================================================================
+# Target rules for targets named 327-count-range-sum
+
+# Build rule for target.
+327-count-range-sum: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 327-count-range-sum
+.PHONY : 327-count-range-sum
+
+# fast build rule for target.
+327-count-range-sum/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/build
+.PHONY : 327-count-range-sum/fast
+
+#=============================================================================
+# Target rules for targets named 1331-array-rank
+
+# Build rule for target.
+1331-array-rank: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1331-array-rank
+.PHONY : 1331-array-rank
+
+# fast build rule for target.
+1331-array-rank/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/build
+.PHONY : 1331-array-rank/fast
+
+#=============================================================================
+# Target rules for targets named 493-reverse-pair
+
+# Build rule for target.
+493-reverse-pair: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 493-reverse-pair
+.PHONY : 493-reverse-pair
+
+# fast build rule for target.
+493-reverse-pair/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/build
+.PHONY : 493-reverse-pair/fast
+
+#=============================================================================
+# Target rules for targets named offer51-reverse-pair
+
+# Build rule for target.
+offer51-reverse-pair: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 offer51-reverse-pair
+.PHONY : offer51-reverse-pair
+
+# fast build rule for target.
+offer51-reverse-pair/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/build
+.PHONY : offer51-reverse-pair/fast
+
+#=============================================================================
+# Target rules for targets named 1450-busy-student
+
+# Build rule for target.
+1450-busy-student: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1450-busy-student
+.PHONY : 1450-busy-student
+
+# fast build rule for target.
+1450-busy-student/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/build
+.PHONY : 1450-busy-student/fast
+
+#=============================================================================
+# Target rules for targets named bit-template
+
+# Build rule for target.
+bit-template: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 bit-template
+.PHONY : bit-template
+
+# fast build rule for target.
+bit-template/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/build
+.PHONY : bit-template/fast
+
+#=============================================================================
+# Target rules for targets named 307-range
+
+# Build rule for target.
+307-range: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 307-range
+.PHONY : 307-range
+
+# fast build rule for target.
+307-range/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/build
+.PHONY : 307-range/fast
+
+#=============================================================================
+# Target rules for targets named 1450-busy-student-2
+
+# Build rule for target.
+1450-busy-student-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1450-busy-student-2
+.PHONY : 1450-busy-student-2
+
+# fast build rule for target.
+1450-busy-student-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/build
+.PHONY : 1450-busy-student-2/fast
+
+#=============================================================================
+# Target rules for targets named 1090-largest-num
+
+# Build rule for target.
+1090-largest-num: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1090-largest-num
+.PHONY : 1090-largest-num
+
+# fast build rule for target.
+1090-largest-num/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/build
+.PHONY : 1090-largest-num/fast
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -233,6 +402,318 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+src/bit/307-range-sum-query.obj: src/bit/307-range-sum-query.cpp.obj
+.PHONY : src/bit/307-range-sum-query.obj
+
+# target to build an object file
+src/bit/307-range-sum-query.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj
+.PHONY : src/bit/307-range-sum-query.cpp.obj
+
+src/bit/307-range-sum-query.i: src/bit/307-range-sum-query.cpp.i
+.PHONY : src/bit/307-range-sum-query.i
+
+# target to preprocess a source file
+src/bit/307-range-sum-query.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.i
+.PHONY : src/bit/307-range-sum-query.cpp.i
+
+src/bit/307-range-sum-query.s: src/bit/307-range-sum-query.cpp.s
+.PHONY : src/bit/307-range-sum-query.s
+
+# target to generate assembly for a file
+src/bit/307-range-sum-query.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.s
+.PHONY : src/bit/307-range-sum-query.cpp.s
+
+src/bit/315-count-smaller.obj: src/bit/315-count-smaller.cpp.obj
+.PHONY : src/bit/315-count-smaller.obj
+
+# target to build an object file
+src/bit/315-count-smaller.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj
+.PHONY : src/bit/315-count-smaller.cpp.obj
+
+src/bit/315-count-smaller.i: src/bit/315-count-smaller.cpp.i
+.PHONY : src/bit/315-count-smaller.i
+
+# target to preprocess a source file
+src/bit/315-count-smaller.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.i
+.PHONY : src/bit/315-count-smaller.cpp.i
+
+src/bit/315-count-smaller.s: src/bit/315-count-smaller.cpp.s
+.PHONY : src/bit/315-count-smaller.s
+
+# target to generate assembly for a file
+src/bit/315-count-smaller.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.s
+.PHONY : src/bit/315-count-smaller.cpp.s
+
+src/bit/327-count-range-sum.obj: src/bit/327-count-range-sum.cpp.obj
+.PHONY : src/bit/327-count-range-sum.obj
+
+# target to build an object file
+src/bit/327-count-range-sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj
+.PHONY : src/bit/327-count-range-sum.cpp.obj
+
+src/bit/327-count-range-sum.i: src/bit/327-count-range-sum.cpp.i
+.PHONY : src/bit/327-count-range-sum.i
+
+# target to preprocess a source file
+src/bit/327-count-range-sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.i
+.PHONY : src/bit/327-count-range-sum.cpp.i
+
+src/bit/327-count-range-sum.s: src/bit/327-count-range-sum.cpp.s
+.PHONY : src/bit/327-count-range-sum.s
+
+# target to generate assembly for a file
+src/bit/327-count-range-sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.s
+.PHONY : src/bit/327-count-range-sum.cpp.s
+
+src/bit/493-reverse-pair.obj: src/bit/493-reverse-pair.cpp.obj
+.PHONY : src/bit/493-reverse-pair.obj
+
+# target to build an object file
+src/bit/493-reverse-pair.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj
+.PHONY : src/bit/493-reverse-pair.cpp.obj
+
+src/bit/493-reverse-pair.i: src/bit/493-reverse-pair.cpp.i
+.PHONY : src/bit/493-reverse-pair.i
+
+# target to preprocess a source file
+src/bit/493-reverse-pair.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.i
+.PHONY : src/bit/493-reverse-pair.cpp.i
+
+src/bit/493-reverse-pair.s: src/bit/493-reverse-pair.cpp.s
+.PHONY : src/bit/493-reverse-pair.s
+
+# target to generate assembly for a file
+src/bit/493-reverse-pair.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.s
+.PHONY : src/bit/493-reverse-pair.cpp.s
+
+src/bit/bit-template.obj: src/bit/bit-template.cpp.obj
+.PHONY : src/bit/bit-template.obj
+
+# target to build an object file
+src/bit/bit-template.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj
+.PHONY : src/bit/bit-template.cpp.obj
+
+src/bit/bit-template.i: src/bit/bit-template.cpp.i
+.PHONY : src/bit/bit-template.i
+
+# target to preprocess a source file
+src/bit/bit-template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.i
+.PHONY : src/bit/bit-template.cpp.i
+
+src/bit/bit-template.s: src/bit/bit-template.cpp.s
+.PHONY : src/bit/bit-template.s
+
+# target to generate assembly for a file
+src/bit/bit-template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.s
+.PHONY : src/bit/bit-template.cpp.s
+
+src/bit/offer51-reverse-pair.obj: src/bit/offer51-reverse-pair.cpp.obj
+.PHONY : src/bit/offer51-reverse-pair.obj
+
+# target to build an object file
+src/bit/offer51-reverse-pair.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj
+.PHONY : src/bit/offer51-reverse-pair.cpp.obj
+
+src/bit/offer51-reverse-pair.i: src/bit/offer51-reverse-pair.cpp.i
+.PHONY : src/bit/offer51-reverse-pair.i
+
+# target to preprocess a source file
+src/bit/offer51-reverse-pair.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.i
+.PHONY : src/bit/offer51-reverse-pair.cpp.i
+
+src/bit/offer51-reverse-pair.s: src/bit/offer51-reverse-pair.cpp.s
+.PHONY : src/bit/offer51-reverse-pair.s
+
+# target to generate assembly for a file
+src/bit/offer51-reverse-pair.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.s
+.PHONY : src/bit/offer51-reverse-pair.cpp.s
+
+src/dfs/419-count-ships.obj: src/dfs/419-count-ships.cpp.obj
+.PHONY : src/dfs/419-count-ships.obj
+
+# target to build an object file
+src/dfs/419-count-ships.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/src/dfs/419-count-ships.cpp.obj
+.PHONY : src/dfs/419-count-ships.cpp.obj
+
+src/dfs/419-count-ships.i: src/dfs/419-count-ships.cpp.i
+.PHONY : src/dfs/419-count-ships.i
+
+# target to preprocess a source file
+src/dfs/419-count-ships.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/src/dfs/419-count-ships.cpp.i
+.PHONY : src/dfs/419-count-ships.cpp.i
+
+src/dfs/419-count-ships.s: src/dfs/419-count-ships.cpp.s
+.PHONY : src/dfs/419-count-ships.s
+
+# target to generate assembly for a file
+src/dfs/419-count-ships.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/src/dfs/419-count-ships.cpp.s
+.PHONY : src/dfs/419-count-ships.cpp.s
+
+src/dfs/98-verify-bst.obj: src/dfs/98-verify-bst.cpp.obj
+.PHONY : src/dfs/98-verify-bst.obj
+
+# target to build an object file
+src/dfs/98-verify-bst.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/src/dfs/98-verify-bst.cpp.obj
+.PHONY : src/dfs/98-verify-bst.cpp.obj
+
+src/dfs/98-verify-bst.i: src/dfs/98-verify-bst.cpp.i
+.PHONY : src/dfs/98-verify-bst.i
+
+# target to preprocess a source file
+src/dfs/98-verify-bst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/src/dfs/98-verify-bst.cpp.i
+.PHONY : src/dfs/98-verify-bst.cpp.i
+
+src/dfs/98-verify-bst.s: src/dfs/98-verify-bst.cpp.s
+.PHONY : src/dfs/98-verify-bst.s
+
+# target to generate assembly for a file
+src/dfs/98-verify-bst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/src/dfs/98-verify-bst.cpp.s
+.PHONY : src/dfs/98-verify-bst.cpp.s
+
+src/diff/1450-busy-student.obj: src/diff/1450-busy-student.cpp.obj
+.PHONY : src/diff/1450-busy-student.obj
+
+# target to build an object file
+src/diff/1450-busy-student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/src/diff/1450-busy-student.cpp.obj
+.PHONY : src/diff/1450-busy-student.cpp.obj
+
+src/diff/1450-busy-student.i: src/diff/1450-busy-student.cpp.i
+.PHONY : src/diff/1450-busy-student.i
+
+# target to preprocess a source file
+src/diff/1450-busy-student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/src/diff/1450-busy-student.cpp.i
+.PHONY : src/diff/1450-busy-student.cpp.i
+
+src/diff/1450-busy-student.s: src/diff/1450-busy-student.cpp.s
+.PHONY : src/diff/1450-busy-student.s
+
+# target to generate assembly for a file
+src/diff/1450-busy-student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/src/diff/1450-busy-student.cpp.s
+.PHONY : src/diff/1450-busy-student.cpp.s
+
+src/discretization/1331-array-rank.obj: src/discretization/1331-array-rank.cpp.obj
+.PHONY : src/discretization/1331-array-rank.obj
+
+# target to build an object file
+src/discretization/1331-array-rank.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/src/discretization/1331-array-rank.cpp.obj
+.PHONY : src/discretization/1331-array-rank.cpp.obj
+
+src/discretization/1331-array-rank.i: src/discretization/1331-array-rank.cpp.i
+.PHONY : src/discretization/1331-array-rank.i
+
+# target to preprocess a source file
+src/discretization/1331-array-rank.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/src/discretization/1331-array-rank.cpp.i
+.PHONY : src/discretization/1331-array-rank.cpp.i
+
+src/discretization/1331-array-rank.s: src/discretization/1331-array-rank.cpp.s
+.PHONY : src/discretization/1331-array-rank.s
+
+# target to generate assembly for a file
+src/discretization/1331-array-rank.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/src/discretization/1331-array-rank.cpp.s
+.PHONY : src/discretization/1331-array-rank.cpp.s
+
+src/sigment-tree/1450-busy-student-2.obj: src/sigment-tree/1450-busy-student-2.cpp.obj
+.PHONY : src/sigment-tree/1450-busy-student-2.obj
+
+# target to build an object file
+src/sigment-tree/1450-busy-student-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj
+.PHONY : src/sigment-tree/1450-busy-student-2.cpp.obj
+
+src/sigment-tree/1450-busy-student-2.i: src/sigment-tree/1450-busy-student-2.cpp.i
+.PHONY : src/sigment-tree/1450-busy-student-2.i
+
+# target to preprocess a source file
+src/sigment-tree/1450-busy-student-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.i
+.PHONY : src/sigment-tree/1450-busy-student-2.cpp.i
+
+src/sigment-tree/1450-busy-student-2.s: src/sigment-tree/1450-busy-student-2.cpp.s
+.PHONY : src/sigment-tree/1450-busy-student-2.s
+
+# target to generate assembly for a file
+src/sigment-tree/1450-busy-student-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.s
+.PHONY : src/sigment-tree/1450-busy-student-2.cpp.s
+
+src/sigment-tree/307-range.obj: src/sigment-tree/307-range.cpp.obj
+.PHONY : src/sigment-tree/307-range.obj
+
+# target to build an object file
+src/sigment-tree/307-range.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj
+.PHONY : src/sigment-tree/307-range.cpp.obj
+
+src/sigment-tree/307-range.i: src/sigment-tree/307-range.cpp.i
+.PHONY : src/sigment-tree/307-range.i
+
+# target to preprocess a source file
+src/sigment-tree/307-range.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.i
+.PHONY : src/sigment-tree/307-range.cpp.i
+
+src/sigment-tree/307-range.s: src/sigment-tree/307-range.cpp.s
+.PHONY : src/sigment-tree/307-range.s
+
+# target to generate assembly for a file
+src/sigment-tree/307-range.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.s
+.PHONY : src/sigment-tree/307-range.cpp.s
+
+src/sort/1090-largest-num.obj: src/sort/1090-largest-num.cpp.obj
+.PHONY : src/sort/1090-largest-num.obj
+
+# target to build an object file
+src/sort/1090-largest-num.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/src/sort/1090-largest-num.cpp.obj
+.PHONY : src/sort/1090-largest-num.cpp.obj
+
+src/sort/1090-largest-num.i: src/sort/1090-largest-num.cpp.i
+.PHONY : src/sort/1090-largest-num.i
+
+# target to preprocess a source file
+src/sort/1090-largest-num.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/src/sort/1090-largest-num.cpp.i
+.PHONY : src/sort/1090-largest-num.cpp.i
+
+src/sort/1090-largest-num.s: src/sort/1090-largest-num.cpp.s
+.PHONY : src/sort/1090-largest-num.s
+
+# target to generate assembly for a file
+src/sort/1090-largest-num.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/src/sort/1090-largest-num.cpp.s
+.PHONY : src/sort/1090-largest-num.cpp.s
 
 src/sort/179-largest-num.obj: src/sort/179-largest-num.cpp.obj
 .PHONY : src/sort/179-largest-num.obj
@@ -341,14 +822,66 @@ help:
 	@echo ... package_source
 	@echo ... rebuild_cache
 	@echo ... test
+	@echo ... 1090-largest-num
+	@echo ... 1331-array-rank
+	@echo ... 1450-busy-student
+	@echo ... 1450-busy-student-2
 	@echo ... 179-largest-num
+	@echo ... 307-range
+	@echo ... 307-range-sum-query
+	@echo ... 315-count-smaller
+	@echo ... 327-count-range-sum
 	@echo ... 378-kth-smallest
+	@echo ... 419-count-ships
 	@echo ... 49-group-anagrams
+	@echo ... 493-reverse-pair
 	@echo ... 75-color-sort
+	@echo ... 98-verify-bst
+	@echo ... bit-template
 	@echo ... leetcode
+	@echo ... offer51-reverse-pair
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... src/bit/307-range-sum-query.obj
+	@echo ... src/bit/307-range-sum-query.i
+	@echo ... src/bit/307-range-sum-query.s
+	@echo ... src/bit/315-count-smaller.obj
+	@echo ... src/bit/315-count-smaller.i
+	@echo ... src/bit/315-count-smaller.s
+	@echo ... src/bit/327-count-range-sum.obj
+	@echo ... src/bit/327-count-range-sum.i
+	@echo ... src/bit/327-count-range-sum.s
+	@echo ... src/bit/493-reverse-pair.obj
+	@echo ... src/bit/493-reverse-pair.i
+	@echo ... src/bit/493-reverse-pair.s
+	@echo ... src/bit/bit-template.obj
+	@echo ... src/bit/bit-template.i
+	@echo ... src/bit/bit-template.s
+	@echo ... src/bit/offer51-reverse-pair.obj
+	@echo ... src/bit/offer51-reverse-pair.i
+	@echo ... src/bit/offer51-reverse-pair.s
+	@echo ... src/dfs/419-count-ships.obj
+	@echo ... src/dfs/419-count-ships.i
+	@echo ... src/dfs/419-count-ships.s
+	@echo ... src/dfs/98-verify-bst.obj
+	@echo ... src/dfs/98-verify-bst.i
+	@echo ... src/dfs/98-verify-bst.s
+	@echo ... src/diff/1450-busy-student.obj
+	@echo ... src/diff/1450-busy-student.i
+	@echo ... src/diff/1450-busy-student.s
+	@echo ... src/discretization/1331-array-rank.obj
+	@echo ... src/discretization/1331-array-rank.i
+	@echo ... src/discretization/1331-array-rank.s
+	@echo ... src/sigment-tree/1450-busy-student-2.obj
+	@echo ... src/sigment-tree/1450-busy-student-2.i
+	@echo ... src/sigment-tree/1450-busy-student-2.s
+	@echo ... src/sigment-tree/307-range.obj
+	@echo ... src/sigment-tree/307-range.i
+	@echo ... src/sigment-tree/307-range.s
+	@echo ... src/sort/1090-largest-num.obj
+	@echo ... src/sort/1090-largest-num.i
+	@echo ... src/sort/1090-largest-num.s
 	@echo ... src/sort/179-largest-num.obj
 	@echo ... src/sort/179-largest-num.i
 	@echo ... src/sort/179-largest-num.s

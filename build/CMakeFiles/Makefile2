@@ -67,6 +67,19 @@ all: CMakeFiles/49-group-anagrams.dir/all
 all: CMakeFiles/75-color-sort.dir/all
 all: CMakeFiles/179-largest-num.dir/all
 all: CMakeFiles/378-kth-smallest.dir/all
+all: CMakeFiles/98-verify-bst.dir/all
+all: CMakeFiles/419-count-ships.dir/all
+all: CMakeFiles/307-range-sum-query.dir/all
+all: CMakeFiles/315-count-smaller.dir/all
+all: CMakeFiles/327-count-range-sum.dir/all
+all: CMakeFiles/1331-array-rank.dir/all
+all: CMakeFiles/493-reverse-pair.dir/all
+all: CMakeFiles/offer51-reverse-pair.dir/all
+all: CMakeFiles/1450-busy-student.dir/all
+all: CMakeFiles/bit-template.dir/all
+all: CMakeFiles/307-range.dir/all
+all: CMakeFiles/1450-busy-student-2.dir/all
+all: CMakeFiles/1090-largest-num.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -79,6 +92,19 @@ clean: CMakeFiles/49-group-anagrams.dir/clean
 clean: CMakeFiles/75-color-sort.dir/clean
 clean: CMakeFiles/179-largest-num.dir/clean
 clean: CMakeFiles/378-kth-smallest.dir/clean
+clean: CMakeFiles/98-verify-bst.dir/clean
+clean: CMakeFiles/419-count-ships.dir/clean
+clean: CMakeFiles/307-range-sum-query.dir/clean
+clean: CMakeFiles/315-count-smaller.dir/clean
+clean: CMakeFiles/327-count-range-sum.dir/clean
+clean: CMakeFiles/1331-array-rank.dir/clean
+clean: CMakeFiles/493-reverse-pair.dir/clean
+clean: CMakeFiles/offer51-reverse-pair.dir/clean
+clean: CMakeFiles/1450-busy-student.dir/clean
+clean: CMakeFiles/bit-template.dir/clean
+clean: CMakeFiles/307-range.dir/clean
+clean: CMakeFiles/1450-busy-student-2.dir/clean
+clean: CMakeFiles/1090-largest-num.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -88,7 +114,7 @@ clean: CMakeFiles/378-kth-smallest.dir/clean
 CMakeFiles/leetcode.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=9,10 "Built target leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=33,34 "Built target leetcode"
 .PHONY : CMakeFiles/leetcode.dir/all
 
 # Build rule for subdir invocation for target.
@@ -114,7 +140,7 @@ CMakeFiles/leetcode.dir/clean:
 CMakeFiles/49-group-anagrams.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\49-group-anagrams.dir\build.make CMakeFiles/49-group-anagrams.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\49-group-anagrams.dir\build.make CMakeFiles/49-group-anagrams.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=5,6 "Built target 49-group-anagrams"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=23,24 "Built target 49-group-anagrams"
 .PHONY : CMakeFiles/49-group-anagrams.dir/all
 
 # Build rule for subdir invocation for target.
@@ -140,7 +166,7 @@ CMakeFiles/49-group-anagrams.dir/clean:
 CMakeFiles/75-color-sort.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\75-color-sort.dir\build.make CMakeFiles/75-color-sort.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\75-color-sort.dir\build.make CMakeFiles/75-color-sort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=7,8 "Built target 75-color-sort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=27,28 "Built target 75-color-sort"
 .PHONY : CMakeFiles/75-color-sort.dir/all
 
 # Build rule for subdir invocation for target.
@@ -166,7 +192,7 @@ CMakeFiles/75-color-sort.dir/clean:
 CMakeFiles/179-largest-num.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\179-largest-num.dir\build.make CMakeFiles/179-largest-num.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\179-largest-num.dir\build.make CMakeFiles/179-largest-num.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=1,2 "Built target 179-largest-num"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=9,10 "Built target 179-largest-num"
 .PHONY : CMakeFiles/179-largest-num.dir/all
 
 # Build rule for subdir invocation for target.
@@ -192,7 +218,7 @@ CMakeFiles/179-largest-num.dir/clean:
 CMakeFiles/378-kth-smallest.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\378-kth-smallest.dir\build.make CMakeFiles/378-kth-smallest.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\378-kth-smallest.dir\build.make CMakeFiles/378-kth-smallest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=3,4 "Built target 378-kth-smallest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=19,20 "Built target 378-kth-smallest"
 .PHONY : CMakeFiles/378-kth-smallest.dir/all
 
 # Build rule for subdir invocation for target.
@@ -210,6 +236,344 @@ CMakeFiles/378-kth-smallest.dir/rule: cmake_check_build_system
 CMakeFiles/378-kth-smallest.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\378-kth-smallest.dir\build.make CMakeFiles/378-kth-smallest.dir/clean
 .PHONY : CMakeFiles/378-kth-smallest.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/98-verify-bst.dir
+
+# All Build rule for target.
+CMakeFiles/98-verify-bst.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=29,30 "Built target 98-verify-bst"
+.PHONY : CMakeFiles/98-verify-bst.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/98-verify-bst.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/98-verify-bst.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/98-verify-bst.dir/rule
+
+# Convenience name for target.
+98-verify-bst: CMakeFiles/98-verify-bst.dir/rule
+.PHONY : 98-verify-bst
+
+# clean rule for target.
+CMakeFiles/98-verify-bst.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/clean
+.PHONY : CMakeFiles/98-verify-bst.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/419-count-ships.dir
+
+# All Build rule for target.
+CMakeFiles/419-count-ships.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=21,22 "Built target 419-count-ships"
+.PHONY : CMakeFiles/419-count-ships.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/419-count-ships.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/419-count-ships.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/419-count-ships.dir/rule
+
+# Convenience name for target.
+419-count-ships: CMakeFiles/419-count-ships.dir/rule
+.PHONY : 419-count-ships
+
+# clean rule for target.
+CMakeFiles/419-count-ships.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/clean
+.PHONY : CMakeFiles/419-count-ships.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/307-range-sum-query.dir
+
+# All Build rule for target.
+CMakeFiles/307-range-sum-query.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=13,14 "Built target 307-range-sum-query"
+.PHONY : CMakeFiles/307-range-sum-query.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/307-range-sum-query.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/307-range-sum-query.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/307-range-sum-query.dir/rule
+
+# Convenience name for target.
+307-range-sum-query: CMakeFiles/307-range-sum-query.dir/rule
+.PHONY : 307-range-sum-query
+
+# clean rule for target.
+CMakeFiles/307-range-sum-query.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/clean
+.PHONY : CMakeFiles/307-range-sum-query.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/315-count-smaller.dir
+
+# All Build rule for target.
+CMakeFiles/315-count-smaller.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=15,16 "Built target 315-count-smaller"
+.PHONY : CMakeFiles/315-count-smaller.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/315-count-smaller.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/315-count-smaller.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/315-count-smaller.dir/rule
+
+# Convenience name for target.
+315-count-smaller: CMakeFiles/315-count-smaller.dir/rule
+.PHONY : 315-count-smaller
+
+# clean rule for target.
+CMakeFiles/315-count-smaller.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/clean
+.PHONY : CMakeFiles/315-count-smaller.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/327-count-range-sum.dir
+
+# All Build rule for target.
+CMakeFiles/327-count-range-sum.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=17,18 "Built target 327-count-range-sum"
+.PHONY : CMakeFiles/327-count-range-sum.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/327-count-range-sum.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/327-count-range-sum.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/327-count-range-sum.dir/rule
+
+# Convenience name for target.
+327-count-range-sum: CMakeFiles/327-count-range-sum.dir/rule
+.PHONY : 327-count-range-sum
+
+# clean rule for target.
+CMakeFiles/327-count-range-sum.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/clean
+.PHONY : CMakeFiles/327-count-range-sum.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1331-array-rank.dir
+
+# All Build rule for target.
+CMakeFiles/1331-array-rank.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=3,4 "Built target 1331-array-rank"
+.PHONY : CMakeFiles/1331-array-rank.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1331-array-rank.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1331-array-rank.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/1331-array-rank.dir/rule
+
+# Convenience name for target.
+1331-array-rank: CMakeFiles/1331-array-rank.dir/rule
+.PHONY : 1331-array-rank
+
+# clean rule for target.
+CMakeFiles/1331-array-rank.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/clean
+.PHONY : CMakeFiles/1331-array-rank.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/493-reverse-pair.dir
+
+# All Build rule for target.
+CMakeFiles/493-reverse-pair.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=25,26 "Built target 493-reverse-pair"
+.PHONY : CMakeFiles/493-reverse-pair.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/493-reverse-pair.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/493-reverse-pair.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/493-reverse-pair.dir/rule
+
+# Convenience name for target.
+493-reverse-pair: CMakeFiles/493-reverse-pair.dir/rule
+.PHONY : 493-reverse-pair
+
+# clean rule for target.
+CMakeFiles/493-reverse-pair.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/clean
+.PHONY : CMakeFiles/493-reverse-pair.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/offer51-reverse-pair.dir
+
+# All Build rule for target.
+CMakeFiles/offer51-reverse-pair.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=35,36 "Built target offer51-reverse-pair"
+.PHONY : CMakeFiles/offer51-reverse-pair.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/offer51-reverse-pair.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/offer51-reverse-pair.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/offer51-reverse-pair.dir/rule
+
+# Convenience name for target.
+offer51-reverse-pair: CMakeFiles/offer51-reverse-pair.dir/rule
+.PHONY : offer51-reverse-pair
+
+# clean rule for target.
+CMakeFiles/offer51-reverse-pair.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/clean
+.PHONY : CMakeFiles/offer51-reverse-pair.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1450-busy-student.dir
+
+# All Build rule for target.
+CMakeFiles/1450-busy-student.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=5,6 "Built target 1450-busy-student"
+.PHONY : CMakeFiles/1450-busy-student.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1450-busy-student.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1450-busy-student.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/1450-busy-student.dir/rule
+
+# Convenience name for target.
+1450-busy-student: CMakeFiles/1450-busy-student.dir/rule
+.PHONY : 1450-busy-student
+
+# clean rule for target.
+CMakeFiles/1450-busy-student.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student.dir\build.make CMakeFiles/1450-busy-student.dir/clean
+.PHONY : CMakeFiles/1450-busy-student.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/bit-template.dir
+
+# All Build rule for target.
+CMakeFiles/bit-template.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=31,32 "Built target bit-template"
+.PHONY : CMakeFiles/bit-template.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/bit-template.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/bit-template.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/bit-template.dir/rule
+
+# Convenience name for target.
+bit-template: CMakeFiles/bit-template.dir/rule
+.PHONY : bit-template
+
+# clean rule for target.
+CMakeFiles/bit-template.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/clean
+.PHONY : CMakeFiles/bit-template.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/307-range.dir
+
+# All Build rule for target.
+CMakeFiles/307-range.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=11,12 "Built target 307-range"
+.PHONY : CMakeFiles/307-range.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/307-range.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/307-range.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/307-range.dir/rule
+
+# Convenience name for target.
+307-range: CMakeFiles/307-range.dir/rule
+.PHONY : 307-range
+
+# clean rule for target.
+CMakeFiles/307-range.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/clean
+.PHONY : CMakeFiles/307-range.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1450-busy-student-2.dir
+
+# All Build rule for target.
+CMakeFiles/1450-busy-student-2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=7,8 "Built target 1450-busy-student-2"
+.PHONY : CMakeFiles/1450-busy-student-2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1450-busy-student-2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1450-busy-student-2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/1450-busy-student-2.dir/rule
+
+# Convenience name for target.
+1450-busy-student-2: CMakeFiles/1450-busy-student-2.dir/rule
+.PHONY : 1450-busy-student-2
+
+# clean rule for target.
+CMakeFiles/1450-busy-student-2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/clean
+.PHONY : CMakeFiles/1450-busy-student-2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/1090-largest-num.dir
+
+# All Build rule for target.
+CMakeFiles/1090-largest-num.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=1,2 "Built target 1090-largest-num"
+.PHONY : CMakeFiles/1090-largest-num.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/1090-largest-num.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/1090-largest-num.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/1090-largest-num.dir/rule
+
+# Convenience name for target.
+1090-largest-num: CMakeFiles/1090-largest-num.dir/rule
+.PHONY : 1090-largest-num
+
+# clean rule for target.
+CMakeFiles/1090-largest-num.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/clean
+.PHONY : CMakeFiles/1090-largest-num.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

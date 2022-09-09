@@ -1,56 +1,74 @@
 #include <bits/stdc++.h>
-#define LOWBIT(x) x&(~x+1)
-using namespace std;
-typedef long long ll;
+using  namespace std;
 
-//TODO:UNSOLVED
-
-class Solution {
+class BIT {
 private:
-    vector<ll> tree;
-    int size;
-    void add(int index,ll num){
-        while(index<=size){
-            tree[index]+=num;
-            index+= LOWBIT(index);
-        }
-    }
-
-    ll query(int index){
-        ll res=0;
-        while(index>=1){
-            res+=tree[index];
-            index-= LOWBIT(index);
-        }
-        return res;
-    }
-
-    ll queryRange(int low,int high){
-        return query(high)- query(low-1);
-    }
-
+    vector<int> tree;
+    int n;
 
 public:
+    BIT(int _n): n(_n), tree(_n + 1) {}
+
+    static constexpr int lowbit(int x) {
+        return x & (-x);
+    }
+
+    void update(int x, int d) {
+        while (x <= n) {
+            tree[x] += d;
+            x += lowbit(x);
+        }
+    }
+
+    int query(int x) const {
+        int ans = 0;
+        while (x) {
+            ans += tree[x];
+            x -= lowbit(x);
+        }
+        return ans;
+    }
+};
+
+class Solution {
+public:
     int countRangeSum(vector<int>& nums, int lower, int upper) {
-        size=nums.size();
-        tree.resize(size+1);
-        int cnt=0;
-
-        for (int i = 0; i < size; ++i) {
-            add(i+1,(ll)nums[i]);
+        long long sum = 0;
+        vector<long long> preSum = {0};
+        for (int v: nums) {
+            sum += v;
+            preSum.push_back(sum);
         }
 
-        for (int i = 0; i < size; ++i) {
-            for (int j = i; j < size; ++j) {
-                ll tmp= queryRange(i+1,j+1);
-                if(tmp>=(ll)lower&&tmp<=(ll)upper) cnt++;
-            }
+        set<long long> allNumbers;
+        for (long long x: preSum) {
+            allNumbers.insert(x);
+            allNumbers.insert(x - lower);
+            allNumbers.insert(x - upper);
         }
-        return cnt;
+        // 利用哈希表进行离散化
+        unordered_map<long long, int> values;
+        int idx = 0;
+        for (long long x: allNumbers) {
+            values[x] = idx;
+            idx++;
+        }
+
+        int ret = 0;
+        BIT bit(values.size());
+        for (int i = 0; i < preSum.size(); i++) {
+            int left = values[preSum[i] - upper], right = values[preSum[i] - lower];
+            ret += bit.query(right + 1) - bit.query(left);
+            bit.update(values[preSum[i]] + 1, 1);
+        }
+        return ret;
     }
 };
 
 int main(){
-
-    return 0;
+    vector<int> nums={-2,5,-1};
+    int lower=-2;
+    int upper=2;
+    Solution sol;
+    cout<<sol.countRangeSum(nums,lower,upper)<<endl;
 }

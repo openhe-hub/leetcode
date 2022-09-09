@@ -23,5 +23,70 @@
   "directory": "D:/program/cpp/leetcode/build",
   "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\378-kth-smallest.dir\\src\\sort\\378-kth-smallest.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sort\\378-kth-smallest.cpp",
   "file": "D:/program/cpp/leetcode/src/sort/378-kth-smallest.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\98-verify-bst.dir\\src\\dfs\\98-verify-bst.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\dfs\\98-verify-bst.cpp",
+  "file": "D:/program/cpp/leetcode/src/dfs/98-verify-bst.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\419-count-ships.dir\\src\\dfs\\419-count-ships.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\dfs\\419-count-ships.cpp",
+  "file": "D:/program/cpp/leetcode/src/dfs/419-count-ships.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\307-range-sum-query.dir\\src\\bit\\307-range-sum-query.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\bit\\307-range-sum-query.cpp",
+  "file": "D:/program/cpp/leetcode/src/bit/307-range-sum-query.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\315-count-smaller.dir\\src\\bit\\315-count-smaller.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\bit\\315-count-smaller.cpp",
+  "file": "D:/program/cpp/leetcode/src/bit/315-count-smaller.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\327-count-range-sum.dir\\src\\bit\\327-count-range-sum.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\bit\\327-count-range-sum.cpp",
+  "file": "D:/program/cpp/leetcode/src/bit/327-count-range-sum.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\1331-array-rank.dir\\src\\discretization\\1331-array-rank.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\discretization\\1331-array-rank.cpp",
+  "file": "D:/program/cpp/leetcode/src/discretization/1331-array-rank.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\493-reverse-pair.dir\\src\\bit\\493-reverse-pair.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\bit\\493-reverse-pair.cpp",
+  "file": "D:/program/cpp/leetcode/src/bit/493-reverse-pair.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\offer51-reverse-pair.dir\\src\\bit\\offer51-reverse-pair.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\bit\\offer51-reverse-pair.cpp",
+  "file": "D:/program/cpp/leetcode/src/bit/offer51-reverse-pair.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\1450-busy-student.dir\\src\\diff\\1450-busy-student.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\diff\\1450-busy-student.cpp",
+  "file": "D:/program/cpp/leetcode/src/diff/1450-busy-student.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\bit-template.dir\\src\\bit\\bit-template.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\bit\\bit-template.cpp",
+  "file": "D:/program/cpp/leetcode/src/bit/bit-template.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\307-range.dir\\src\\sigment-tree\\307-range.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sigment-tree\\307-range.cpp",
+  "file": "D:/program/cpp/leetcode/src/sigment-tree/307-range.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\1450-busy-student-2.dir\\src\\sigment-tree\\1450-busy-student-2.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sigment-tree\\1450-busy-student-2.cpp",
+  "file": "D:/program/cpp/leetcode/src/sigment-tree/1450-busy-student-2.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\1090-largest-num.dir\\src\\sort\\1090-largest-num.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sort\\1090-largest-num.cpp",
+  "file": "D:/program/cpp/leetcode/src/sort/1090-largest-num.cpp"
 }
 ]
