@@ -216,7 +216,7 @@ build cmake_object_order_depends_target_98-verify-bst: phony || CMakeFiles/98-ve
 
 build CMakeFiles/98-verify-bst.dir/src/dfs/98-verify-bst.cpp.obj: CXX_COMPILER__98-verify-bst_Debug D$:/program/cpp/leetcode/src/dfs/98-verify-bst.cpp || cmake_object_order_depends_target_98-verify-bst
   DEP_FILE = CMakeFiles\98-verify-bst.dir\src\dfs\98-verify-bst.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\98-verify-bst.dir
   OBJECT_FILE_DIR = CMakeFiles\98-verify-bst.dir\src\dfs
 
@@ -249,7 +249,7 @@ build cmake_object_order_depends_target_419-count-ships: phony || CMakeFiles/419
 
 build CMakeFiles/419-count-ships.dir/src/dfs/419-count-ships.cpp.obj: CXX_COMPILER__419-count-ships_Debug D$:/program/cpp/leetcode/src/dfs/419-count-ships.cpp || cmake_object_order_depends_target_419-count-ships
   DEP_FILE = CMakeFiles\419-count-ships.dir\src\dfs\419-count-ships.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\419-count-ships.dir
   OBJECT_FILE_DIR = CMakeFiles\419-count-ships.dir\src\dfs
 
@@ -282,7 +282,7 @@ build cmake_object_order_depends_target_307-range-sum-query: phony || CMakeFiles
 
 build CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj: CXX_COMPILER__307-range-sum-query_Debug D$:/program/cpp/leetcode/src/bit/307-range-sum-query.cpp || cmake_object_order_depends_target_307-range-sum-query
   DEP_FILE = CMakeFiles\307-range-sum-query.dir\src\bit\307-range-sum-query.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\307-range-sum-query.dir
   OBJECT_FILE_DIR = CMakeFiles\307-range-sum-query.dir\src\bit
 
@@ -315,7 +315,7 @@ build cmake_object_order_depends_target_315-count-smaller: phony || CMakeFiles/3
 
 build CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj: CXX_COMPILER__315-count-smaller_Debug D$:/program/cpp/leetcode/src/bit/315-count-smaller.cpp || cmake_object_order_depends_target_315-count-smaller
   DEP_FILE = CMakeFiles\315-count-smaller.dir\src\bit\315-count-smaller.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\315-count-smaller.dir
   OBJECT_FILE_DIR = CMakeFiles\315-count-smaller.dir\src\bit
 
@@ -348,7 +348,7 @@ build cmake_object_order_depends_target_327-count-range-sum: phony || CMakeFiles
 
 build CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj: CXX_COMPILER__327-count-range-sum_Debug D$:/program/cpp/leetcode/src/bit/327-count-range-sum.cpp || cmake_object_order_depends_target_327-count-range-sum
   DEP_FILE = CMakeFiles\327-count-range-sum.dir\src\bit\327-count-range-sum.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\327-count-range-sum.dir
   OBJECT_FILE_DIR = CMakeFiles\327-count-range-sum.dir\src\bit
 
@@ -381,7 +381,7 @@ build cmake_object_order_depends_target_1331-array-rank: phony || CMakeFiles/133
 
 build CMakeFiles/1331-array-rank.dir/src/discretization/1331-array-rank.cpp.obj: CXX_COMPILER__1331-array-rank_Debug D$:/program/cpp/leetcode/src/discretization/1331-array-rank.cpp || cmake_object_order_depends_target_1331-array-rank
   DEP_FILE = CMakeFiles\1331-array-rank.dir\src\discretization\1331-array-rank.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1331-array-rank.dir
   OBJECT_FILE_DIR = CMakeFiles\1331-array-rank.dir\src\discretization
 
@@ -414,7 +414,7 @@ build cmake_object_order_depends_target_493-reverse-pair: phony || CMakeFiles/49
 
 build CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj: CXX_COMPILER__493-reverse-pair_Debug D$:/program/cpp/leetcode/src/bit/493-reverse-pair.cpp || cmake_object_order_depends_target_493-reverse-pair
   DEP_FILE = CMakeFiles\493-reverse-pair.dir\src\bit\493-reverse-pair.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\493-reverse-pair.dir
   OBJECT_FILE_DIR = CMakeFiles\493-reverse-pair.dir\src\bit
 
@@ -447,7 +447,7 @@ build cmake_object_order_depends_target_offer51-reverse-pair: phony || CMakeFile
 
 build CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj: CXX_COMPILER__offer51-reverse-pair_Debug D$:/program/cpp/leetcode/src/bit/offer51-reverse-pair.cpp || cmake_object_order_depends_target_offer51-reverse-pair
   DEP_FILE = CMakeFiles\offer51-reverse-pair.dir\src\bit\offer51-reverse-pair.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\offer51-reverse-pair.dir
   OBJECT_FILE_DIR = CMakeFiles\offer51-reverse-pair.dir\src\bit
 
@@ -480,7 +480,7 @@ build cmake_object_order_depends_target_1450-busy-student: phony || CMakeFiles/1
 
 build CMakeFiles/1450-busy-student.dir/src/diff/1450-busy-student.cpp.obj: CXX_COMPILER__1450-busy-student_Debug D$:/program/cpp/leetcode/src/diff/1450-busy-student.cpp || cmake_object_order_depends_target_1450-busy-student
   DEP_FILE = CMakeFiles\1450-busy-student.dir\src\diff\1450-busy-student.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1450-busy-student.dir
   OBJECT_FILE_DIR = CMakeFiles\1450-busy-student.dir\src\diff
 
@@ -513,7 +513,7 @@ build cmake_object_order_depends_target_bit-template: phony || CMakeFiles/bit-te
 
 build CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj: CXX_COMPILER__bit-template_Debug D$:/program/cpp/leetcode/src/bit/bit-template.cpp || cmake_object_order_depends_target_bit-template
   DEP_FILE = CMakeFiles\bit-template.dir\src\bit\bit-template.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\bit-template.dir
   OBJECT_FILE_DIR = CMakeFiles\bit-template.dir\src\bit
 
@@ -546,7 +546,7 @@ build cmake_object_order_depends_target_307-range: phony || CMakeFiles/307-range
 
 build CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj: CXX_COMPILER__307-range_Debug D$:/program/cpp/leetcode/src/sigment-tree/307-range.cpp || cmake_object_order_depends_target_307-range
   DEP_FILE = CMakeFiles\307-range.dir\src\sigment-tree\307-range.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\307-range.dir
   OBJECT_FILE_DIR = CMakeFiles\307-range.dir\src\sigment-tree
 
@@ -579,7 +579,7 @@ build cmake_object_order_depends_target_1450-busy-student-2: phony || CMakeFiles
 
 build CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj: CXX_COMPILER__1450-busy-student-2_Debug D$:/program/cpp/leetcode/src/sigment-tree/1450-busy-student-2.cpp || cmake_object_order_depends_target_1450-busy-student-2
   DEP_FILE = CMakeFiles\1450-busy-student-2.dir\src\sigment-tree\1450-busy-student-2.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1450-busy-student-2.dir
   OBJECT_FILE_DIR = CMakeFiles\1450-busy-student-2.dir\src\sigment-tree
 
@@ -612,7 +612,7 @@ build cmake_object_order_depends_target_1090-largest-num: phony || CMakeFiles/10
 
 build CMakeFiles/1090-largest-num.dir/src/sort/1090-largest-num.cpp.obj: CXX_COMPILER__1090-largest-num_Debug D$:/program/cpp/leetcode/src/sort/1090-largest-num.cpp || cmake_object_order_depends_target_1090-largest-num
   DEP_FILE = CMakeFiles\1090-largest-num.dir\src\sort\1090-largest-num.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1090-largest-num.dir
   OBJECT_FILE_DIR = CMakeFiles\1090-largest-num.dir\src\sort
 
@@ -645,7 +645,7 @@ build cmake_object_order_depends_target_1598-folder: phony || CMakeFiles/1598-fo
 
 build CMakeFiles/1598-folder.dir/src/simulation/1598-folder.cpp.obj: CXX_COMPILER__1598-folder_Debug D$:/program/cpp/leetcode/src/simulation/1598-folder.cpp || cmake_object_order_depends_target_1598-folder
   DEP_FILE = CMakeFiles\1598-folder.dir\src\simulation\1598-folder.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1598-folder.dir
   OBJECT_FILE_DIR = CMakeFiles\1598-folder.dir\src\simulation
 
@@ -678,7 +678,7 @@ build cmake_object_order_depends_target_667-construct-array: phony || CMakeFiles
 
 build CMakeFiles/667-construct-array.dir/src/array/667-construct-array.cpp.obj: CXX_COMPILER__667-construct-array_Debug D$:/program/cpp/leetcode/src/array/667-construct-array.cpp || cmake_object_order_depends_target_667-construct-array
   DEP_FILE = CMakeFiles\667-construct-array.dir\src\array\667-construct-array.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\667-construct-array.dir
   OBJECT_FILE_DIR = CMakeFiles\667-construct-array.dir\src\array
 
@@ -711,7 +711,7 @@ build cmake_object_order_depends_target_16-closest-sum: phony || CMakeFiles/16-c
 
 build CMakeFiles/16-closest-sum.dir/src/array/16-closest-sum.cpp.obj: CXX_COMPILER__16-closest-sum_Debug D$:/program/cpp/leetcode/src/array/16-closest-sum.cpp || cmake_object_order_depends_target_16-closest-sum
   DEP_FILE = CMakeFiles\16-closest-sum.dir\src\array\16-closest-sum.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\16-closest-sum.dir
   OBJECT_FILE_DIR = CMakeFiles\16-closest-sum.dir\src\array
 
@@ -744,7 +744,7 @@ build cmake_object_order_depends_target_1582-min-cost: phony || CMakeFiles/1582-
 
 build CMakeFiles/1582-min-cost.dir/src/graph/1582-min-cost.cpp.obj: CXX_COMPILER__1582-min-cost_Debug D$:/program/cpp/leetcode/src/graph/1582-min-cost.cpp || cmake_object_order_depends_target_1582-min-cost
   DEP_FILE = CMakeFiles\1582-min-cost.dir\src\graph\1582-min-cost.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1582-min-cost.dir
   OBJECT_FILE_DIR = CMakeFiles\1582-min-cost.dir\src\graph
 
@@ -777,7 +777,7 @@ build cmake_object_order_depends_target_669-trim-bst: phony || CMakeFiles/669-tr
 
 build CMakeFiles/669-trim-bst.dir/src/tree/669-trim-bst.cpp.obj: CXX_COMPILER__669-trim-bst_Debug D$:/program/cpp/leetcode/src/tree/669-trim-bst.cpp || cmake_object_order_depends_target_669-trim-bst
   DEP_FILE = CMakeFiles\669-trim-bst.dir\src\tree\669-trim-bst.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\669-trim-bst.dir
   OBJECT_FILE_DIR = CMakeFiles\669-trim-bst.dir\src\tree
 
@@ -810,7 +810,7 @@ build cmake_object_order_depends_target_743-net-delay: phony || CMakeFiles/743-n
 
 build CMakeFiles/743-net-delay.dir/src/tree/743-net-delay.cpp.obj: CXX_COMPILER__743-net-delay_Debug D$:/program/cpp/leetcode/src/tree/743-net-delay.cpp || cmake_object_order_depends_target_743-net-delay
   DEP_FILE = CMakeFiles\743-net-delay.dir\src\tree\743-net-delay.cpp.obj.d
-  FLAGS = -g
+  FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\743-net-delay.dir
   OBJECT_FILE_DIR = CMakeFiles\743-net-delay.dir\src\tree
 
@@ -831,6 +831,105 @@ build 743-net-delay.exe: CXX_EXECUTABLE_LINKER__743-net-delay_Debug CMakeFiles/7
   TARGET_FILE = 743-net-delay.exe
   TARGET_IMPLIB = lib743-net-delay.dll.a
   TARGET_PDB = 743-net-delay.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 857-min-cost
+
+
+#############################################
+# Order-only phony target for 857-min-cost
+
+build cmake_object_order_depends_target_857-min-cost: phony || CMakeFiles/857-min-cost.dir
+
+build CMakeFiles/857-min-cost.dir/src/greedy/857-min-cost.cpp.obj: CXX_COMPILER__857-min-cost_Debug D$:/program/cpp/leetcode/src/greedy/857-min-cost.cpp || cmake_object_order_depends_target_857-min-cost
+  DEP_FILE = CMakeFiles\857-min-cost.dir\src\greedy\857-min-cost.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\857-min-cost.dir
+  OBJECT_FILE_DIR = CMakeFiles\857-min-cost.dir\src\greedy
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 857-min-cost
+
+
+#############################################
+# Link the executable 857-min-cost.exe
+
+build 857-min-cost.exe: CXX_EXECUTABLE_LINKER__857-min-cost_Debug CMakeFiles/857-min-cost.dir/src/greedy/857-min-cost.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\857-min-cost.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 857-min-cost.exe
+  TARGET_IMPLIB = lib857-min-cost.dll.a
+  TARGET_PDB = 857-min-cost.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 207-curricular
+
+
+#############################################
+# Order-only phony target for 207-curricular
+
+build cmake_object_order_depends_target_207-curricular: phony || CMakeFiles/207-curricular.dir
+
+build CMakeFiles/207-curricular.dir/src/graph/207-curricular.cpp.obj: CXX_COMPILER__207-curricular_Debug D$:/program/cpp/leetcode/src/graph/207-curricular.cpp || cmake_object_order_depends_target_207-curricular
+  DEP_FILE = CMakeFiles\207-curricular.dir\src\graph\207-curricular.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\207-curricular.dir
+  OBJECT_FILE_DIR = CMakeFiles\207-curricular.dir\src\graph
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 207-curricular
+
+
+#############################################
+# Link the executable 207-curricular.exe
+
+build 207-curricular.exe: CXX_EXECUTABLE_LINKER__207-curricular_Debug CMakeFiles/207-curricular.dir/src/graph/207-curricular.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\207-curricular.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 207-curricular.exe
+  TARGET_IMPLIB = lib207-curricular.dll.a
+  TARGET_PDB = 207-curricular.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 210-curricular
+
+
+#############################################
+# Order-only phony target for 210-curricular
+
+build cmake_object_order_depends_target_210-curricular: phony || CMakeFiles/210-curricular.dir
+
+build CMakeFiles/210-curricular.dir/src/graph/210-curricular.cpp.obj: CXX_COMPILER__210-curricular_Debug D$:/program/cpp/leetcode/src/graph/210-curricular.cpp || cmake_object_order_depends_target_210-curricular
+  DEP_FILE = CMakeFiles\210-curricular.dir\src\graph\210-curricular.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\210-curricular.dir
+  OBJECT_FILE_DIR = CMakeFiles\210-curricular.dir\src\graph
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 210-curricular
+
+
+#############################################
+# Link the executable 210-curricular.exe
+
+build 210-curricular.exe: CXX_EXECUTABLE_LINKER__210-curricular_Debug CMakeFiles/210-curricular.dir/src/graph/210-curricular.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\210-curricular.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 210-curricular.exe
+  TARGET_IMPLIB = lib210-curricular.dll.a
+  TARGET_PDB = 210-curricular.exe.dbg
 
 
 #############################################
@@ -910,6 +1009,10 @@ build 16-closest-sum: phony 16-closest-sum.exe
 
 build 179-largest-num: phony 179-largest-num.exe
 
+build 207-curricular: phony 207-curricular.exe
+
+build 210-curricular: phony 210-curricular.exe
+
 build 307-range: phony 307-range.exe
 
 build 307-range-sum-query: phony 307-range-sum-query.exe
@@ -934,6 +1037,8 @@ build 743-net-delay: phony 743-net-delay.exe
 
 build 75-color-sort: phony 75-color-sort.exe
 
+build 857-min-cost: phony 857-min-cost.exe
+
 build 98-verify-bst: phony 98-verify-bst.exe
 
 build bit-template: phony bit-template.exe
@@ -950,7 +1055,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
