@@ -3,6 +3,7 @@
 1240	1315	6822699526845350	307-range-sum-query.exe	13cb6b68161e457c
 3	1457	6823242790876666	CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj	9c73234822edce0d
 2	1446	6823196900250704	CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj	f84865848dcc2c41
+1138	1253	6846562190855448	684-redundant-connection.exe	403e8924190fa5da
 1450	1545	6823196901224043	315-count-smaller.exe	6f20547745d6ee0b
 1458	1563	6823242791897484	327-count-range-sum.exe	5898564dca61845b
 2	1410	6823288125425125	CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj	30d05a2717f733eb
@@ -21,3 +22,6 @@
 1507	1609	6845877441542300	857-min-cost.exe	689dba07eb66c146
 2	1126	6845903332543411	CMakeFiles/207-curricular.dir/src/graph/207-curricular.cpp.obj	6d3a42a50783bdc2
 1126	1224	6845903333505674	207-curricular.exe	b975484d28a0fb1f
+3	1137	6846562189731701	CMakeFiles/684-redundant-connection.dir/src/graph/684-redundant-connection.cpp.obj	a7e5ce1f69d7824c
+1	1416	6846567622531853	CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.obj	cf12aa96258c2774
+1416	1519	6846567623537801	684-redundant-connection-2.exe	9085851c4c478f79

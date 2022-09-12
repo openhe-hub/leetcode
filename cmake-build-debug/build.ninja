@@ -931,6 +931,105 @@ build 210-curricular.exe: CXX_EXECUTABLE_LINKER__210-curricular_Debug CMakeFiles
   TARGET_IMPLIB = lib210-curricular.dll.a
   TARGET_PDB = 210-curricular.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 1608-special-val
+
+
+#############################################
+# Order-only phony target for 1608-special-val
+
+build cmake_object_order_depends_target_1608-special-val: phony || CMakeFiles/1608-special-val.dir
+
+build CMakeFiles/1608-special-val.dir/src/array/1608-special-val.cpp.obj: CXX_COMPILER__1608-special-val_Debug D$:/program/cpp/leetcode/src/array/1608-special-val.cpp || cmake_object_order_depends_target_1608-special-val
+  DEP_FILE = CMakeFiles\1608-special-val.dir\src\array\1608-special-val.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1608-special-val.dir
+  OBJECT_FILE_DIR = CMakeFiles\1608-special-val.dir\src\array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1608-special-val
+
+
+#############################################
+# Link the executable 1608-special-val.exe
+
+build 1608-special-val.exe: CXX_EXECUTABLE_LINKER__1608-special-val_Debug CMakeFiles/1608-special-val.dir/src/array/1608-special-val.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1608-special-val.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1608-special-val.exe
+  TARGET_IMPLIB = lib1608-special-val.dll.a
+  TARGET_PDB = 1608-special-val.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 684-redundant-connection
+
+
+#############################################
+# Order-only phony target for 684-redundant-connection
+
+build cmake_object_order_depends_target_684-redundant-connection: phony || CMakeFiles/684-redundant-connection.dir
+
+build CMakeFiles/684-redundant-connection.dir/src/graph/684-redundant-connection.cpp.obj: CXX_COMPILER__684-redundant-connection_Debug D$:/program/cpp/leetcode/src/graph/684-redundant-connection.cpp || cmake_object_order_depends_target_684-redundant-connection
+  DEP_FILE = CMakeFiles\684-redundant-connection.dir\src\graph\684-redundant-connection.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\684-redundant-connection.dir
+  OBJECT_FILE_DIR = CMakeFiles\684-redundant-connection.dir\src\graph
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 684-redundant-connection
+
+
+#############################################
+# Link the executable 684-redundant-connection.exe
+
+build 684-redundant-connection.exe: CXX_EXECUTABLE_LINKER__684-redundant-connection_Debug CMakeFiles/684-redundant-connection.dir/src/graph/684-redundant-connection.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\684-redundant-connection.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 684-redundant-connection.exe
+  TARGET_IMPLIB = lib684-redundant-connection.dll.a
+  TARGET_PDB = 684-redundant-connection.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 684-redundant-connection-2
+
+
+#############################################
+# Order-only phony target for 684-redundant-connection-2
+
+build cmake_object_order_depends_target_684-redundant-connection-2: phony || CMakeFiles/684-redundant-connection-2.dir
+
+build CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.obj: CXX_COMPILER__684-redundant-connection-2_Debug D$:/program/cpp/leetcode/src/graph/684-redundant-connection-2.cpp || cmake_object_order_depends_target_684-redundant-connection-2
+  DEP_FILE = CMakeFiles\684-redundant-connection-2.dir\src\graph\684-redundant-connection-2.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\684-redundant-connection-2.dir
+  OBJECT_FILE_DIR = CMakeFiles\684-redundant-connection-2.dir\src\graph
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 684-redundant-connection-2
+
+
+#############################################
+# Link the executable 684-redundant-connection-2.exe
+
+build 684-redundant-connection-2.exe: CXX_EXECUTABLE_LINKER__684-redundant-connection-2_Debug CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\684-redundant-connection-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 684-redundant-connection-2.exe
+  TARGET_IMPLIB = lib684-redundant-connection-2.dll.a
+  TARGET_PDB = 684-redundant-connection-2.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -1007,6 +1106,8 @@ build 1598-folder: phony 1598-folder.exe
 
 build 16-closest-sum: phony 16-closest-sum.exe
 
+build 1608-special-val: phony 1608-special-val.exe
+
 build 179-largest-num: phony 179-largest-num.exe
 
 build 207-curricular: phony 207-curricular.exe
@@ -1033,6 +1134,10 @@ build 667-construct-array: phony 667-construct-array.exe
 
 build 669-trim-bst: phony 669-trim-bst.exe
 
+build 684-redundant-connection: phony 684-redundant-connection.exe
+
+build 684-redundant-connection-2: phony 684-redundant-connection-2.exe
+
 build 743-net-delay: phony 743-net-delay.exe
 
 build 75-color-sort: phony 75-color-sort.exe
@@ -1055,7 +1160,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
