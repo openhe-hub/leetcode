@@ -43,3 +43,7 @@ add_executable(684-redundant-connection-2 src/graph/684-redundant-connection-2.c
 add_executable(1636-frequency src/array/1636-frequency.cpp)
 add_executable(785-is-bipartite src/graph/785-is-bipartite.cpp)
 add_executable(1334-find-city src/graph/1334-find-city.cpp)
+add_executable(797-possible-paths src/graph/797-possible-paths.cpp)
+add_executable(2283-min-time src/contest/307/2283-min-time.cpp)
+add_executable(2384-max-num src/contest/307/2384-max-num.cpp)
+add_executable(2385-tree src/contest/307/2385-tree.cpp)

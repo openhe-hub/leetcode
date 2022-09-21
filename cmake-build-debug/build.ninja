@@ -1129,6 +1129,138 @@ build 1334-find-city.exe: CXX_EXECUTABLE_LINKER__1334-find-city_Debug CMakeFiles
   TARGET_IMPLIB = lib1334-find-city.dll.a
   TARGET_PDB = 1334-find-city.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 797-possible-paths
+
+
+#############################################
+# Order-only phony target for 797-possible-paths
+
+build cmake_object_order_depends_target_797-possible-paths: phony || CMakeFiles/797-possible-paths.dir
+
+build CMakeFiles/797-possible-paths.dir/src/graph/797-possible-paths.cpp.obj: CXX_COMPILER__797-possible-paths_Debug D$:/program/cpp/leetcode/src/graph/797-possible-paths.cpp || cmake_object_order_depends_target_797-possible-paths
+  DEP_FILE = CMakeFiles\797-possible-paths.dir\src\graph\797-possible-paths.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\797-possible-paths.dir
+  OBJECT_FILE_DIR = CMakeFiles\797-possible-paths.dir\src\graph
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 797-possible-paths
+
+
+#############################################
+# Link the executable 797-possible-paths.exe
+
+build 797-possible-paths.exe: CXX_EXECUTABLE_LINKER__797-possible-paths_Debug CMakeFiles/797-possible-paths.dir/src/graph/797-possible-paths.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\797-possible-paths.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 797-possible-paths.exe
+  TARGET_IMPLIB = lib797-possible-paths.dll.a
+  TARGET_PDB = 797-possible-paths.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2283-min-time
+
+
+#############################################
+# Order-only phony target for 2283-min-time
+
+build cmake_object_order_depends_target_2283-min-time: phony || CMakeFiles/2283-min-time.dir
+
+build CMakeFiles/2283-min-time.dir/src/contest/307/2283-min-time.cpp.obj: CXX_COMPILER__2283-min-time_Debug D$:/program/cpp/leetcode/src/contest/307/2283-min-time.cpp || cmake_object_order_depends_target_2283-min-time
+  DEP_FILE = CMakeFiles\2283-min-time.dir\src\contest\307\2283-min-time.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2283-min-time.dir
+  OBJECT_FILE_DIR = CMakeFiles\2283-min-time.dir\src\contest\307
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2283-min-time
+
+
+#############################################
+# Link the executable 2283-min-time.exe
+
+build 2283-min-time.exe: CXX_EXECUTABLE_LINKER__2283-min-time_Debug CMakeFiles/2283-min-time.dir/src/contest/307/2283-min-time.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2283-min-time.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2283-min-time.exe
+  TARGET_IMPLIB = lib2283-min-time.dll.a
+  TARGET_PDB = 2283-min-time.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2384-max-num
+
+
+#############################################
+# Order-only phony target for 2384-max-num
+
+build cmake_object_order_depends_target_2384-max-num: phony || CMakeFiles/2384-max-num.dir
+
+build CMakeFiles/2384-max-num.dir/src/contest/307/2384-max-num.cpp.obj: CXX_COMPILER__2384-max-num_Debug D$:/program/cpp/leetcode/src/contest/307/2384-max-num.cpp || cmake_object_order_depends_target_2384-max-num
+  DEP_FILE = CMakeFiles\2384-max-num.dir\src\contest\307\2384-max-num.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2384-max-num.dir
+  OBJECT_FILE_DIR = CMakeFiles\2384-max-num.dir\src\contest\307
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2384-max-num
+
+
+#############################################
+# Link the executable 2384-max-num.exe
+
+build 2384-max-num.exe: CXX_EXECUTABLE_LINKER__2384-max-num_Debug CMakeFiles/2384-max-num.dir/src/contest/307/2384-max-num.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2384-max-num.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2384-max-num.exe
+  TARGET_IMPLIB = lib2384-max-num.dll.a
+  TARGET_PDB = 2384-max-num.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2385-tree
+
+
+#############################################
+# Order-only phony target for 2385-tree
+
+build cmake_object_order_depends_target_2385-tree: phony || CMakeFiles/2385-tree.dir
+
+build CMakeFiles/2385-tree.dir/src/contest/307/2385-tree.cpp.obj: CXX_COMPILER__2385-tree_Debug D$:/program/cpp/leetcode/src/contest/307/2385-tree.cpp || cmake_object_order_depends_target_2385-tree
+  DEP_FILE = CMakeFiles\2385-tree.dir\src\contest\307\2385-tree.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2385-tree.dir
+  OBJECT_FILE_DIR = CMakeFiles\2385-tree.dir\src\contest\307
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2385-tree
+
+
+#############################################
+# Link the executable 2385-tree.exe
+
+build 2385-tree.exe: CXX_EXECUTABLE_LINKER__2385-tree_Debug CMakeFiles/2385-tree.dir/src/contest/307/2385-tree.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2385-tree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2385-tree.exe
+  TARGET_IMPLIB = lib2385-tree.dll.a
+  TARGET_PDB = 2385-tree.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -1217,6 +1349,12 @@ build 207-curricular: phony 207-curricular.exe
 
 build 210-curricular: phony 210-curricular.exe
 
+build 2283-min-time: phony 2283-min-time.exe
+
+build 2384-max-num: phony 2384-max-num.exe
+
+build 2385-tree: phony 2385-tree.exe
+
 build 307-range: phony 307-range.exe
 
 build 307-range-sum-query: phony 307-range-sum-query.exe
@@ -1247,6 +1385,8 @@ build 75-color-sort: phony 75-color-sort.exe
 
 build 785-is-bipartite: phony 785-is-bipartite.exe
 
+build 797-possible-paths: phony 797-possible-paths.exe
+
 build 857-min-cost: phony 857-min-cost.exe
 
 build 98-verify-bst: phony 98-verify-bst.exe
@@ -1265,7 +1405,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
