@@ -328,7 +328,7 @@ offer51-reverse-pair/fast:
 .PHONY : 1450-busy-student/fast
 
 #=============================================================================
-# Target rules for targets named bit-template
+# Target rules for targets named binary-index-tree-template
 
 # Build rule for target.
 bit-template: cmake_check_build_system

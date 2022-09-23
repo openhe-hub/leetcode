@@ -1,13 +1,14 @@
 #include <bits/stdc++.h>
 #define LOWBIT(x) x&(~x+1)
 using namespace std;
+typedef long long ll;
 
 class Solution {
 private:
     vector<int> tree;
 
     void update(int index,int num){
-        while (index<tree.size()){
+        while(index<=tree.size()-1){
             tree[index]+=num;
             index+= LOWBIT(index);
         }
@@ -24,30 +25,34 @@ private:
 
 public:
     int reversePairs(vector<int>& nums) {
+        int size=nums.size();
         //discretization
-        set<int> _set;
+        set<ll> allNums;
         for(int num:nums){
-            _set.insert(num);
+            allNums.insert(num);
+            allNums.insert((ll)2*num);
         }
+        unordered_map<ll,int> map;
         int cnt=0;
-        unordered_map<int,int> map;
-        for(int num:_set){
+        for(ll num:allNums){
             map[num]=++cnt;
         }
-        //bit
+        //binary-index-tree
         tree.resize(map.size()+1);
-        int ret=0;
-        for (int i = 0; i < nums.size(); ++i) {
-            int low=map[nums[i]];
+        int ans=0;
+        for (int i = 0; i <size; ++i) {
+            int low=map[(ll)2*nums[i]];
             int high=map.size();
-            ret+= query(high)- query(low);
+            ans+= query(high) - query(low);
             update(map[nums[i]],1);
         }
-        return ret;
+        return ans;
     }
 };
 
 int main(){
-
+    vector<int> vec={1,2,1,2,1};
+    Solution sol;
+    cout<<sol.reversePairs(vec)<<endl;
     return 0;
 }

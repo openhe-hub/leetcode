@@ -1,23 +1,19 @@
 # ninja log v5
-3	1240	6822699526127086	CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj	dd22c9cc3a90ea4b
 1240	1315	6822699526845350	307-range-sum-query.exe	13cb6b68161e457c
-3	1457	6823242790876666	CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj	9c73234822edce0d
-2	1446	6823196900250704	CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj	f84865848dcc2c41
 2	541	6852596911564069	CMakeFiles/1636-frequency.dir/src/array/1636-frequency.cpp.obj	75d134c57c2cf3eb
 1138	1253	6846562190855448	684-redundant-connection.exe	403e8924190fa5da
 1450	1545	6823196901224043	315-count-smaller.exe	6f20547745d6ee0b
-1458	1563	6823242791897484	327-count-range-sum.exe	5898564dca61845b
 2	409	6852624015574812	CMakeFiles/1782-count-pairs.dir/src/graph/1782-count-pairs.cpp.obj	797f5f4cc3041549
-2	1410	6823288125425125	CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj	30d05a2717f733eb
-1410	1507	6823288126374841	493-reverse-pair.exe	c300c38489bb09b6
+1458	1563	6823242791897484	327-count-range-sum.exe	5898564dca61845b
 1	1416	6846567622531853	CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.obj	cf12aa96258c2774
-2	360	6825912682029560	CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj	55cd7cae36958766
+1410	1507	6823288126374841	493-reverse-pair.exe	c300c38489bb09b6
 361	442	6825912682815418	1450-busy-student-2.exe	eba462ccfd2d2f3b
 3	1385	6844275963912471	CMakeFiles/667-construct-array.dir/src/array/667-construct-array.cpp.obj	98f178d39247fca8
 591	725	6852705206509227	785-is-bipartite.exe	bf032030f2ac9aa4
 1385	1488	6844275964920974	667-construct-array.exe	c12d7abe78386954
 2	1442	6845030893894683	CMakeFiles/1582-min-cost.dir/src/graph/1582-min-cost.cpp.obj	1f44cf8258659e87
 1442	1532	6845030894767762	1582-min-cost.exe	5204c6072911f012
+2	279	6856367968252744	CMakeFiles/707_linked_list.dir/src/linked-list/707_linked_list.cpp.obj	26c918fab90fea27
 1	2111	6845047514351394	CMakeFiles/669-trim-bst.dir/src/tree/669-trim-bst.cpp.obj	5c4d51195d07363
 2111	2253	6845047515745344	669-trim-bst.exe	6f9664adb0e8036b
 4	1418	6845063603836516	CMakeFiles/743-net-delay.dir/src/tree/743-net-delay.cpp.obj	1b4505d9830152b7
@@ -39,3 +35,4 @@
 519	668	6854490708338575	797-possible-paths.exe	ab0441612a57bf3f
 2	326	6854509069814930	CMakeFiles/2283-min-time.dir/src/contest/307/2283-min-time.cpp.obj	fc4edeb8f29de86d
 695	819	6854533257286818	2384-max-num.exe	26dcd8f18328b74f
+279	354	6856367968970502	707_linked_list.exe	dccf3f0f92c0f8f

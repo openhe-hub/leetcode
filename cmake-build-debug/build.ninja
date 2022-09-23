@@ -280,11 +280,11 @@ build 419-count-ships.exe: CXX_EXECUTABLE_LINKER__419-count-ships_Debug CMakeFil
 
 build cmake_object_order_depends_target_307-range-sum-query: phony || CMakeFiles/307-range-sum-query.dir
 
-build CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj: CXX_COMPILER__307-range-sum-query_Debug D$:/program/cpp/leetcode/src/bit/307-range-sum-query.cpp || cmake_object_order_depends_target_307-range-sum-query
-  DEP_FILE = CMakeFiles\307-range-sum-query.dir\src\bit\307-range-sum-query.cpp.obj.d
+build CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj: CXX_COMPILER__307-range-sum-query_Debug D$:/program/cpp/leetcode/src/binary-index-tree/307-range-sum-query.cpp || cmake_object_order_depends_target_307-range-sum-query
+  DEP_FILE = CMakeFiles\307-range-sum-query.dir\src\binary-index-tree\307-range-sum-query.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\307-range-sum-query.dir
-  OBJECT_FILE_DIR = CMakeFiles\307-range-sum-query.dir\src\bit
+  OBJECT_FILE_DIR = CMakeFiles\307-range-sum-query.dir\src\binary-index-tree
 
 
 # =============================================================================
@@ -294,7 +294,7 @@ build CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj: CX
 #############################################
 # Link the executable 307-range-sum-query.exe
 
-build 307-range-sum-query.exe: CXX_EXECUTABLE_LINKER__307-range-sum-query_Debug CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj
+build 307-range-sum-query.exe: CXX_EXECUTABLE_LINKER__307-range-sum-query_Debug CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\307-range-sum-query.dir
@@ -313,11 +313,11 @@ build 307-range-sum-query.exe: CXX_EXECUTABLE_LINKER__307-range-sum-query_Debug 
 
 build cmake_object_order_depends_target_315-count-smaller: phony || CMakeFiles/315-count-smaller.dir
 
-build CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj: CXX_COMPILER__315-count-smaller_Debug D$:/program/cpp/leetcode/src/bit/315-count-smaller.cpp || cmake_object_order_depends_target_315-count-smaller
-  DEP_FILE = CMakeFiles\315-count-smaller.dir\src\bit\315-count-smaller.cpp.obj.d
+build CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj: CXX_COMPILER__315-count-smaller_Debug D$:/program/cpp/leetcode/src/binary-index-tree/315-count-smaller.cpp || cmake_object_order_depends_target_315-count-smaller
+  DEP_FILE = CMakeFiles\315-count-smaller.dir\src\binary-index-tree\315-count-smaller.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\315-count-smaller.dir
-  OBJECT_FILE_DIR = CMakeFiles\315-count-smaller.dir\src\bit
+  OBJECT_FILE_DIR = CMakeFiles\315-count-smaller.dir\src\binary-index-tree
 
 
 # =============================================================================
@@ -327,7 +327,7 @@ build CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj: CXX_CO
 #############################################
 # Link the executable 315-count-smaller.exe
 
-build 315-count-smaller.exe: CXX_EXECUTABLE_LINKER__315-count-smaller_Debug CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj
+build 315-count-smaller.exe: CXX_EXECUTABLE_LINKER__315-count-smaller_Debug CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\315-count-smaller.dir
@@ -346,11 +346,11 @@ build 315-count-smaller.exe: CXX_EXECUTABLE_LINKER__315-count-smaller_Debug CMak
 
 build cmake_object_order_depends_target_327-count-range-sum: phony || CMakeFiles/327-count-range-sum.dir
 
-build CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj: CXX_COMPILER__327-count-range-sum_Debug D$:/program/cpp/leetcode/src/bit/327-count-range-sum.cpp || cmake_object_order_depends_target_327-count-range-sum
-  DEP_FILE = CMakeFiles\327-count-range-sum.dir\src\bit\327-count-range-sum.cpp.obj.d
+build CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj: CXX_COMPILER__327-count-range-sum_Debug D$:/program/cpp/leetcode/src/binary-index-tree/327-count-range-sum.cpp || cmake_object_order_depends_target_327-count-range-sum
+  DEP_FILE = CMakeFiles\327-count-range-sum.dir\src\binary-index-tree\327-count-range-sum.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\327-count-range-sum.dir
-  OBJECT_FILE_DIR = CMakeFiles\327-count-range-sum.dir\src\bit
+  OBJECT_FILE_DIR = CMakeFiles\327-count-range-sum.dir\src\binary-index-tree
 
 
 # =============================================================================
@@ -360,7 +360,7 @@ build CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj: CX
 #############################################
 # Link the executable 327-count-range-sum.exe
 
-build 327-count-range-sum.exe: CXX_EXECUTABLE_LINKER__327-count-range-sum_Debug CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj
+build 327-count-range-sum.exe: CXX_EXECUTABLE_LINKER__327-count-range-sum_Debug CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\327-count-range-sum.dir
@@ -412,11 +412,11 @@ build 1331-array-rank.exe: CXX_EXECUTABLE_LINKER__1331-array-rank_Debug CMakeFil
 
 build cmake_object_order_depends_target_493-reverse-pair: phony || CMakeFiles/493-reverse-pair.dir
 
-build CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj: CXX_COMPILER__493-reverse-pair_Debug D$:/program/cpp/leetcode/src/bit/493-reverse-pair.cpp || cmake_object_order_depends_target_493-reverse-pair
-  DEP_FILE = CMakeFiles\493-reverse-pair.dir\src\bit\493-reverse-pair.cpp.obj.d
+build CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj: CXX_COMPILER__493-reverse-pair_Debug D$:/program/cpp/leetcode/src/binary-index-tree/493-reverse-pair.cpp || cmake_object_order_depends_target_493-reverse-pair
+  DEP_FILE = CMakeFiles\493-reverse-pair.dir\src\binary-index-tree\493-reverse-pair.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\493-reverse-pair.dir
-  OBJECT_FILE_DIR = CMakeFiles\493-reverse-pair.dir\src\bit
+  OBJECT_FILE_DIR = CMakeFiles\493-reverse-pair.dir\src\binary-index-tree
 
 
 # =============================================================================
@@ -426,7 +426,7 @@ build CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj: CXX_COMP
 #############################################
 # Link the executable 493-reverse-pair.exe
 
-build 493-reverse-pair.exe: CXX_EXECUTABLE_LINKER__493-reverse-pair_Debug CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj
+build 493-reverse-pair.exe: CXX_EXECUTABLE_LINKER__493-reverse-pair_Debug CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\493-reverse-pair.dir
@@ -445,11 +445,11 @@ build 493-reverse-pair.exe: CXX_EXECUTABLE_LINKER__493-reverse-pair_Debug CMakeF
 
 build cmake_object_order_depends_target_offer51-reverse-pair: phony || CMakeFiles/offer51-reverse-pair.dir
 
-build CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj: CXX_COMPILER__offer51-reverse-pair_Debug D$:/program/cpp/leetcode/src/bit/offer51-reverse-pair.cpp || cmake_object_order_depends_target_offer51-reverse-pair
-  DEP_FILE = CMakeFiles\offer51-reverse-pair.dir\src\bit\offer51-reverse-pair.cpp.obj.d
+build CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj: CXX_COMPILER__offer51-reverse-pair_Debug D$:/program/cpp/leetcode/src/binary-index-tree/offer51-reverse-pair.cpp || cmake_object_order_depends_target_offer51-reverse-pair
+  DEP_FILE = CMakeFiles\offer51-reverse-pair.dir\src\binary-index-tree\offer51-reverse-pair.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\offer51-reverse-pair.dir
-  OBJECT_FILE_DIR = CMakeFiles\offer51-reverse-pair.dir\src\bit
+  OBJECT_FILE_DIR = CMakeFiles\offer51-reverse-pair.dir\src\binary-index-tree
 
 
 # =============================================================================
@@ -459,7 +459,7 @@ build CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj: 
 #############################################
 # Link the executable offer51-reverse-pair.exe
 
-build offer51-reverse-pair.exe: CXX_EXECUTABLE_LINKER__offer51-reverse-pair_Debug CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj
+build offer51-reverse-pair.exe: CXX_EXECUTABLE_LINKER__offer51-reverse-pair_Debug CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\offer51-reverse-pair.dir
@@ -511,11 +511,11 @@ build 1450-busy-student.exe: CXX_EXECUTABLE_LINKER__1450-busy-student_Debug CMak
 
 build cmake_object_order_depends_target_bit-template: phony || CMakeFiles/bit-template.dir
 
-build CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj: CXX_COMPILER__bit-template_Debug D$:/program/cpp/leetcode/src/bit/bit-template.cpp || cmake_object_order_depends_target_bit-template
-  DEP_FILE = CMakeFiles\bit-template.dir\src\bit\bit-template.cpp.obj.d
+build CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj: CXX_COMPILER__bit-template_Debug D$:/program/cpp/leetcode/src/binary-index-tree/bit-template.cpp || cmake_object_order_depends_target_bit-template
+  DEP_FILE = CMakeFiles\bit-template.dir\src\binary-index-tree\bit-template.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\bit-template.dir
-  OBJECT_FILE_DIR = CMakeFiles\bit-template.dir\src\bit
+  OBJECT_FILE_DIR = CMakeFiles\bit-template.dir\src\binary-index-tree
 
 
 # =============================================================================
@@ -525,7 +525,7 @@ build CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj: CXX_COMPILER__bi
 #############################################
 # Link the executable bit-template.exe
 
-build bit-template.exe: CXX_EXECUTABLE_LINKER__bit-template_Debug CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj
+build bit-template.exe: CXX_EXECUTABLE_LINKER__bit-template_Debug CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\bit-template.dir
@@ -544,11 +544,11 @@ build bit-template.exe: CXX_EXECUTABLE_LINKER__bit-template_Debug CMakeFiles/bit
 
 build cmake_object_order_depends_target_307-range: phony || CMakeFiles/307-range.dir
 
-build CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj: CXX_COMPILER__307-range_Debug D$:/program/cpp/leetcode/src/sigment-tree/307-range.cpp || cmake_object_order_depends_target_307-range
-  DEP_FILE = CMakeFiles\307-range.dir\src\sigment-tree\307-range.cpp.obj.d
+build CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj: CXX_COMPILER__307-range_Debug D$:/program/cpp/leetcode/src/segment-tree/307-range.cpp || cmake_object_order_depends_target_307-range
+  DEP_FILE = CMakeFiles\307-range.dir\src\segment-tree\307-range.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\307-range.dir
-  OBJECT_FILE_DIR = CMakeFiles\307-range.dir\src\sigment-tree
+  OBJECT_FILE_DIR = CMakeFiles\307-range.dir\src\segment-tree
 
 
 # =============================================================================
@@ -558,7 +558,7 @@ build CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable 307-range.exe
 
-build 307-range.exe: CXX_EXECUTABLE_LINKER__307-range_Debug CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj
+build 307-range.exe: CXX_EXECUTABLE_LINKER__307-range_Debug CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\307-range.dir
@@ -577,11 +577,11 @@ build 307-range.exe: CXX_EXECUTABLE_LINKER__307-range_Debug CMakeFiles/307-range
 
 build cmake_object_order_depends_target_1450-busy-student-2: phony || CMakeFiles/1450-busy-student-2.dir
 
-build CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj: CXX_COMPILER__1450-busy-student-2_Debug D$:/program/cpp/leetcode/src/sigment-tree/1450-busy-student-2.cpp || cmake_object_order_depends_target_1450-busy-student-2
-  DEP_FILE = CMakeFiles\1450-busy-student-2.dir\src\sigment-tree\1450-busy-student-2.cpp.obj.d
+build CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj: CXX_COMPILER__1450-busy-student-2_Debug D$:/program/cpp/leetcode/src/segment-tree/1450-busy-student-2.cpp || cmake_object_order_depends_target_1450-busy-student-2
+  DEP_FILE = CMakeFiles\1450-busy-student-2.dir\src\segment-tree\1450-busy-student-2.cpp.obj.d
   FLAGS = -g -std=gnu++11
   OBJECT_DIR = CMakeFiles\1450-busy-student-2.dir
-  OBJECT_FILE_DIR = CMakeFiles\1450-busy-student-2.dir\src\sigment-tree
+  OBJECT_FILE_DIR = CMakeFiles\1450-busy-student-2.dir\src\segment-tree
 
 
 # =============================================================================
@@ -591,7 +591,7 @@ build CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cp
 #############################################
 # Link the executable 1450-busy-student-2.exe
 
-build 1450-busy-student-2.exe: CXX_EXECUTABLE_LINKER__1450-busy-student-2_Debug CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj
+build 1450-busy-student-2.exe: CXX_EXECUTABLE_LINKER__1450-busy-student-2_Debug CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\1450-busy-student-2.dir
@@ -1261,6 +1261,39 @@ build 2385-tree.exe: CXX_EXECUTABLE_LINKER__2385-tree_Debug CMakeFiles/2385-tree
   TARGET_IMPLIB = lib2385-tree.dll.a
   TARGET_PDB = 2385-tree.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 707_linked_list
+
+
+#############################################
+# Order-only phony target for 707_linked_list
+
+build cmake_object_order_depends_target_707_linked_list: phony || CMakeFiles/707_linked_list.dir
+
+build CMakeFiles/707_linked_list.dir/src/linked-list/707_linked_list.cpp.obj: CXX_COMPILER__707_linked_list_Debug D$:/program/cpp/leetcode/src/linked-list/707_linked_list.cpp || cmake_object_order_depends_target_707_linked_list
+  DEP_FILE = CMakeFiles\707_linked_list.dir\src\linked-list\707_linked_list.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\707_linked_list.dir
+  OBJECT_FILE_DIR = CMakeFiles\707_linked_list.dir\src\linked-list
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 707_linked_list
+
+
+#############################################
+# Link the executable 707_linked_list.exe
+
+build 707_linked_list.exe: CXX_EXECUTABLE_LINKER__707_linked_list_Debug CMakeFiles/707_linked_list.dir/src/linked-list/707_linked_list.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\707_linked_list.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 707_linked_list.exe
+  TARGET_IMPLIB = lib707_linked_list.dll.a
+  TARGET_PDB = 707_linked_list.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -1379,6 +1412,8 @@ build 684-redundant-connection: phony 684-redundant-connection.exe
 
 build 684-redundant-connection-2: phony 684-redundant-connection-2.exe
 
+build 707_linked_list: phony 707_linked_list.exe
+
 build 743-net-delay: phony 743-net-delay.exe
 
 build 75-color-sort: phony 75-color-sort.exe
@@ -1405,7 +1440,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
