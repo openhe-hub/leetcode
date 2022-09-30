@@ -1294,6 +1294,237 @@ build 707_linked_list.exe: CXX_EXECUTABLE_LINKER__707_linked_list_Debug CMakeFil
   TARGET_IMPLIB = lib707_linked_list.dll.a
   TARGET_PDB = 707_linked_list.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 886-possible-bipartition
+
+
+#############################################
+# Order-only phony target for 886-possible-bipartition
+
+build cmake_object_order_depends_target_886-possible-bipartition: phony || CMakeFiles/886-possible-bipartition.dir
+
+build CMakeFiles/886-possible-bipartition.dir/src/graph/886-possible-bipartition.cpp.obj: CXX_COMPILER__886-possible-bipartition_Debug D$:/program/cpp/leetcode/src/graph/886-possible-bipartition.cpp || cmake_object_order_depends_target_886-possible-bipartition
+  DEP_FILE = CMakeFiles\886-possible-bipartition.dir\src\graph\886-possible-bipartition.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\886-possible-bipartition.dir
+  OBJECT_FILE_DIR = CMakeFiles\886-possible-bipartition.dir\src\graph
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 886-possible-bipartition
+
+
+#############################################
+# Link the executable 886-possible-bipartition.exe
+
+build 886-possible-bipartition.exe: CXX_EXECUTABLE_LINKER__886-possible-bipartition_Debug CMakeFiles/886-possible-bipartition.dir/src/graph/886-possible-bipartition.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\886-possible-bipartition.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 886-possible-bipartition.exe
+  TARGET_IMPLIB = lib886-possible-bipartition.dll.a
+  TARGET_PDB = 886-possible-bipartition.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1020-num-enclaves
+
+
+#############################################
+# Order-only phony target for 1020-num-enclaves
+
+build cmake_object_order_depends_target_1020-num-enclaves: phony || CMakeFiles/1020-num-enclaves.dir
+
+build CMakeFiles/1020-num-enclaves.dir/src/dfs/1020-num-enclaves.cpp.obj: CXX_COMPILER__1020-num-enclaves_Debug D$:/program/cpp/leetcode/src/dfs/1020-num-enclaves.cpp || cmake_object_order_depends_target_1020-num-enclaves
+  DEP_FILE = CMakeFiles\1020-num-enclaves.dir\src\dfs\1020-num-enclaves.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1020-num-enclaves.dir
+  OBJECT_FILE_DIR = CMakeFiles\1020-num-enclaves.dir\src\dfs
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1020-num-enclaves
+
+
+#############################################
+# Link the executable 1020-num-enclaves.exe
+
+build 1020-num-enclaves.exe: CXX_EXECUTABLE_LINKER__1020-num-enclaves_Debug CMakeFiles/1020-num-enclaves.dir/src/dfs/1020-num-enclaves.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1020-num-enclaves.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1020-num-enclaves.exe
+  TARGET_IMPLIB = lib1020-num-enclaves.dll.a
+  TARGET_PDB = 1020-num-enclaves.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target circulating-decimal
+
+
+#############################################
+# Order-only phony target for circulating-decimal
+
+build cmake_object_order_depends_target_circulating-decimal: phony || CMakeFiles/circulating-decimal.dir
+
+build CMakeFiles/circulating-decimal.dir/src/simulation/circulating-decimal.cpp.obj: CXX_COMPILER__circulating-decimal_Debug D$:/program/cpp/leetcode/src/simulation/circulating-decimal.cpp || cmake_object_order_depends_target_circulating-decimal
+  DEP_FILE = CMakeFiles\circulating-decimal.dir\src\simulation\circulating-decimal.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\circulating-decimal.dir
+  OBJECT_FILE_DIR = CMakeFiles\circulating-decimal.dir\src\simulation
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target circulating-decimal
+
+
+#############################################
+# Link the executable circulating-decimal.exe
+
+build circulating-decimal.exe: CXX_EXECUTABLE_LINKER__circulating-decimal_Debug CMakeFiles/circulating-decimal.dir/src/simulation/circulating-decimal.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\circulating-decimal.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = circulating-decimal.exe
+  TARGET_IMPLIB = libcirculating-decimal.dll.a
+  TARGET_PDB = circulating-decimal.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2367-three-diff
+
+
+#############################################
+# Order-only phony target for 2367-three-diff
+
+build cmake_object_order_depends_target_2367-three-diff: phony || CMakeFiles/2367-three-diff.dir
+
+build CMakeFiles/2367-three-diff.dir/src/contest/305/2367-three-diff.cpp.obj: CXX_COMPILER__2367-three-diff_Debug D$:/program/cpp/leetcode/src/contest/305/2367-three-diff.cpp || cmake_object_order_depends_target_2367-three-diff
+  DEP_FILE = CMakeFiles\2367-three-diff.dir\src\contest\305\2367-three-diff.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2367-three-diff.dir
+  OBJECT_FILE_DIR = CMakeFiles\2367-three-diff.dir\src\contest\305
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2367-three-diff
+
+
+#############################################
+# Link the executable 2367-three-diff.exe
+
+build 2367-three-diff.exe: CXX_EXECUTABLE_LINKER__2367-three-diff_Debug CMakeFiles/2367-three-diff.dir/src/contest/305/2367-three-diff.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2367-three-diff.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2367-three-diff.exe
+  TARGET_IMPLIB = lib2367-three-diff.dll.a
+  TARGET_PDB = 2367-three-diff.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2368-nums-node
+
+
+#############################################
+# Order-only phony target for 2368-nums-node
+
+build cmake_object_order_depends_target_2368-nums-node: phony || CMakeFiles/2368-nums-node.dir
+
+build CMakeFiles/2368-nums-node.dir/src/contest/305/2368-nums-node.cpp.obj: CXX_COMPILER__2368-nums-node_Debug D$:/program/cpp/leetcode/src/contest/305/2368-nums-node.cpp || cmake_object_order_depends_target_2368-nums-node
+  DEP_FILE = CMakeFiles\2368-nums-node.dir\src\contest\305\2368-nums-node.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2368-nums-node.dir
+  OBJECT_FILE_DIR = CMakeFiles\2368-nums-node.dir\src\contest\305
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2368-nums-node
+
+
+#############################################
+# Link the executable 2368-nums-node.exe
+
+build 2368-nums-node.exe: CXX_EXECUTABLE_LINKER__2368-nums-node_Debug CMakeFiles/2368-nums-node.dir/src/contest/305/2368-nums-node.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2368-nums-node.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2368-nums-node.exe
+  TARGET_IMPLIB = lib2368-nums-node.dll.a
+  TARGET_PDB = 2368-nums-node.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2369-legal-partition
+
+
+#############################################
+# Order-only phony target for 2369-legal-partition
+
+build cmake_object_order_depends_target_2369-legal-partition: phony || CMakeFiles/2369-legal-partition.dir
+
+build CMakeFiles/2369-legal-partition.dir/src/contest/305/2369-legal-partition.cpp.obj: CXX_COMPILER__2369-legal-partition_Debug D$:/program/cpp/leetcode/src/contest/305/2369-legal-partition.cpp || cmake_object_order_depends_target_2369-legal-partition
+  DEP_FILE = CMakeFiles\2369-legal-partition.dir\src\contest\305\2369-legal-partition.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2369-legal-partition.dir
+  OBJECT_FILE_DIR = CMakeFiles\2369-legal-partition.dir\src\contest\305
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2369-legal-partition
+
+
+#############################################
+# Link the executable 2369-legal-partition.exe
+
+build 2369-legal-partition.exe: CXX_EXECUTABLE_LINKER__2369-legal-partition_Debug CMakeFiles/2369-legal-partition.dir/src/contest/305/2369-legal-partition.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2369-legal-partition.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2369-legal-partition.exe
+  TARGET_IMPLIB = lib2369-legal-partition.dll.a
+  TARGET_PDB = 2369-legal-partition.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2370-longest-ideal-sequence
+
+
+#############################################
+# Order-only phony target for 2370-longest-ideal-sequence
+
+build cmake_object_order_depends_target_2370-longest-ideal-sequence: phony || CMakeFiles/2370-longest-ideal-sequence.dir
+
+build CMakeFiles/2370-longest-ideal-sequence.dir/src/contest/305/2370-longest-ideal-sequence.cpp.obj: CXX_COMPILER__2370-longest-ideal-sequence_Debug D$:/program/cpp/leetcode/src/contest/305/2370-longest-ideal-sequence.cpp || cmake_object_order_depends_target_2370-longest-ideal-sequence
+  DEP_FILE = CMakeFiles\2370-longest-ideal-sequence.dir\src\contest\305\2370-longest-ideal-sequence.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\2370-longest-ideal-sequence.dir
+  OBJECT_FILE_DIR = CMakeFiles\2370-longest-ideal-sequence.dir\src\contest\305
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2370-longest-ideal-sequence
+
+
+#############################################
+# Link the executable 2370-longest-ideal-sequence.exe
+
+build 2370-longest-ideal-sequence.exe: CXX_EXECUTABLE_LINKER__2370-longest-ideal-sequence_Debug CMakeFiles/2370-longest-ideal-sequence.dir/src/contest/305/2370-longest-ideal-sequence.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2370-longest-ideal-sequence.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2370-longest-ideal-sequence.exe
+  TARGET_IMPLIB = lib2370-longest-ideal-sequence.dll.a
+  TARGET_PDB = 2370-longest-ideal-sequence.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -1356,6 +1587,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build 1020-num-enclaves: phony 1020-num-enclaves.exe
+
 build 1090-largest-num: phony 1090-largest-num.exe
 
 build 1331-array-rank: phony 1331-array-rank.exe
@@ -1383,6 +1616,14 @@ build 207-curricular: phony 207-curricular.exe
 build 210-curricular: phony 210-curricular.exe
 
 build 2283-min-time: phony 2283-min-time.exe
+
+build 2367-three-diff: phony 2367-three-diff.exe
+
+build 2368-nums-node: phony 2368-nums-node.exe
+
+build 2369-legal-partition: phony 2369-legal-partition.exe
+
+build 2370-longest-ideal-sequence: phony 2370-longest-ideal-sequence.exe
 
 build 2384-max-num: phony 2384-max-num.exe
 
@@ -1424,9 +1665,13 @@ build 797-possible-paths: phony 797-possible-paths.exe
 
 build 857-min-cost: phony 857-min-cost.exe
 
+build 886-possible-bipartition: phony 886-possible-bipartition.exe
+
 build 98-verify-bst: phony 98-verify-bst.exe
 
 build bit-template: phony bit-template.exe
+
+build circulating-decimal: phony circulating-decimal.exe
 
 build leetcode: phony leetcode.exe
 
@@ -1440,7 +1685,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

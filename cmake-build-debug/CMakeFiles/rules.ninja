@@ -734,6 +734,139 @@ rule CXX_EXECUTABLE_LINKER__707_linked_list_Debug
 
 
 #############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__886-possible-bipartition_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__886-possible-bipartition_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__1020-num-enclaves_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__1020-num-enclaves_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__circulating-decimal_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__circulating-decimal_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2367-three-diff_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2367-three-diff_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2368-nums-node_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2368-nums-node_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2369-legal-partition_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2369-legal-partition_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling CXX files.
+
+rule CXX_COMPILER__2370-longest-ideal-sequence_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building CXX object $out
+
+
+#############################################
+# Rule for linking CXX executable.
+
+rule CXX_EXECUTABLE_LINKER__2370-longest-ideal-sequence_Debug
+  command = cmd.exe /C "$PRE_LINK && D:\software\jetbrains-app\apps\CLion\ch-0\222.4167.35\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking CXX executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
 # Rule for running custom commands.
 
 rule CUSTOM_COMMAND
