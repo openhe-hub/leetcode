@@ -223,5 +223,10 @@
   "directory": "D:/program/cpp/leetcode/build",
   "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\2370-longest-ideal-sequence.dir\\src\\contest\\305\\2370-longest-ideal-sequence.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\contest\\305\\2370-longest-ideal-sequence.cpp",
   "file": "D:/program/cpp/leetcode/src/contest/305/2370-longest-ideal-sequence.cpp"
+},
+{
+  "directory": "D:/program/cpp/leetcode/build",
+  "command": "D:\\software\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\187-duplicated-sequence.dir\\src\\sliding-window\\187-duplicated-sequence.cpp.obj -c D:\\program\\cpp\\leetcode\\src\\sliding-window\\187-duplicated-sequence.cpp",
+  "file": "D:/program/cpp/leetcode/src/sliding-window/187-duplicated-sequence.cpp"
 }
 ]

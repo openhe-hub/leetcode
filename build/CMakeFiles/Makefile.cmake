@@ -98,4 +98,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/2368-nums-node.dir/DependInfo.cmake"
   "CMakeFiles/2369-legal-partition.dir/DependInfo.cmake"
   "CMakeFiles/2370-longest-ideal-sequence.dir/DependInfo.cmake"
+  "CMakeFiles/187-duplicated-sequence.dir/DependInfo.cmake"
   )

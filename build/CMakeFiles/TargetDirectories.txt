@@ -43,6 +43,7 @@ D:/program/cpp/leetcode/build/CMakeFiles/2367-three-diff.dir
 D:/program/cpp/leetcode/build/CMakeFiles/2368-nums-node.dir
 D:/program/cpp/leetcode/build/CMakeFiles/2369-legal-partition.dir
 D:/program/cpp/leetcode/build/CMakeFiles/2370-longest-ideal-sequence.dir
+D:/program/cpp/leetcode/build/CMakeFiles/187-duplicated-sequence.dir
 D:/program/cpp/leetcode/build/CMakeFiles/package.dir
 D:/program/cpp/leetcode/build/CMakeFiles/package_source.dir
 D:/program/cpp/leetcode/build/CMakeFiles/test.dir

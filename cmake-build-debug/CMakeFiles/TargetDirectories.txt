@@ -43,6 +43,13 @@ D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/2367-three-diff.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/2368-nums-node.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/2369-legal-partition.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/2370-longest-ideal-sequence.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/187-duplicated-sequence.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/777-move-string.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1876-good-substring.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/3-longest-substr.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1695-max-subarray.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/219-duplicated-element.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/220-duplicated-elements-3.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/package.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/package_source.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/test.dir

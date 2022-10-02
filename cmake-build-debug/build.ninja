@@ -1525,6 +1525,237 @@ build 2370-longest-ideal-sequence.exe: CXX_EXECUTABLE_LINKER__2370-longest-ideal
   TARGET_IMPLIB = lib2370-longest-ideal-sequence.dll.a
   TARGET_PDB = 2370-longest-ideal-sequence.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 187-duplicated-sequence
+
+
+#############################################
+# Order-only phony target for 187-duplicated-sequence
+
+build cmake_object_order_depends_target_187-duplicated-sequence: phony || CMakeFiles/187-duplicated-sequence.dir
+
+build CMakeFiles/187-duplicated-sequence.dir/src/sliding-window/187-duplicated-sequence.cpp.obj: CXX_COMPILER__187-duplicated-sequence_Debug D$:/program/cpp/leetcode/src/sliding-window/187-duplicated-sequence.cpp || cmake_object_order_depends_target_187-duplicated-sequence
+  DEP_FILE = CMakeFiles\187-duplicated-sequence.dir\src\sliding-window\187-duplicated-sequence.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\187-duplicated-sequence.dir
+  OBJECT_FILE_DIR = CMakeFiles\187-duplicated-sequence.dir\src\sliding-window
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 187-duplicated-sequence
+
+
+#############################################
+# Link the executable 187-duplicated-sequence.exe
+
+build 187-duplicated-sequence.exe: CXX_EXECUTABLE_LINKER__187-duplicated-sequence_Debug CMakeFiles/187-duplicated-sequence.dir/src/sliding-window/187-duplicated-sequence.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\187-duplicated-sequence.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 187-duplicated-sequence.exe
+  TARGET_IMPLIB = lib187-duplicated-sequence.dll.a
+  TARGET_PDB = 187-duplicated-sequence.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 777-move-string
+
+
+#############################################
+# Order-only phony target for 777-move-string
+
+build cmake_object_order_depends_target_777-move-string: phony || CMakeFiles/777-move-string.dir
+
+build CMakeFiles/777-move-string.dir/src/pointer/777-move-string.cpp.obj: CXX_COMPILER__777-move-string_Debug D$:/program/cpp/leetcode/src/pointer/777-move-string.cpp || cmake_object_order_depends_target_777-move-string
+  DEP_FILE = CMakeFiles\777-move-string.dir\src\pointer\777-move-string.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\777-move-string.dir
+  OBJECT_FILE_DIR = CMakeFiles\777-move-string.dir\src\pointer
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 777-move-string
+
+
+#############################################
+# Link the executable 777-move-string.exe
+
+build 777-move-string.exe: CXX_EXECUTABLE_LINKER__777-move-string_Debug CMakeFiles/777-move-string.dir/src/pointer/777-move-string.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\777-move-string.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 777-move-string.exe
+  TARGET_IMPLIB = lib777-move-string.dll.a
+  TARGET_PDB = 777-move-string.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1876-good-substring
+
+
+#############################################
+# Order-only phony target for 1876-good-substring
+
+build cmake_object_order_depends_target_1876-good-substring: phony || CMakeFiles/1876-good-substring.dir
+
+build CMakeFiles/1876-good-substring.dir/src/sliding-window/1876-good-substring.cpp.obj: CXX_COMPILER__1876-good-substring_Debug D$:/program/cpp/leetcode/src/sliding-window/1876-good-substring.cpp || cmake_object_order_depends_target_1876-good-substring
+  DEP_FILE = CMakeFiles\1876-good-substring.dir\src\sliding-window\1876-good-substring.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1876-good-substring.dir
+  OBJECT_FILE_DIR = CMakeFiles\1876-good-substring.dir\src\sliding-window
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1876-good-substring
+
+
+#############################################
+# Link the executable 1876-good-substring.exe
+
+build 1876-good-substring.exe: CXX_EXECUTABLE_LINKER__1876-good-substring_Debug CMakeFiles/1876-good-substring.dir/src/sliding-window/1876-good-substring.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1876-good-substring.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1876-good-substring.exe
+  TARGET_IMPLIB = lib1876-good-substring.dll.a
+  TARGET_PDB = 1876-good-substring.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 3-longest-substr
+
+
+#############################################
+# Order-only phony target for 3-longest-substr
+
+build cmake_object_order_depends_target_3-longest-substr: phony || CMakeFiles/3-longest-substr.dir
+
+build CMakeFiles/3-longest-substr.dir/src/sliding-window/3-longest-substr.cpp.obj: CXX_COMPILER__3-longest-substr_Debug D$:/program/cpp/leetcode/src/sliding-window/3-longest-substr.cpp || cmake_object_order_depends_target_3-longest-substr
+  DEP_FILE = CMakeFiles\3-longest-substr.dir\src\sliding-window\3-longest-substr.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\3-longest-substr.dir
+  OBJECT_FILE_DIR = CMakeFiles\3-longest-substr.dir\src\sliding-window
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 3-longest-substr
+
+
+#############################################
+# Link the executable 3-longest-substr.exe
+
+build 3-longest-substr.exe: CXX_EXECUTABLE_LINKER__3-longest-substr_Debug CMakeFiles/3-longest-substr.dir/src/sliding-window/3-longest-substr.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\3-longest-substr.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 3-longest-substr.exe
+  TARGET_IMPLIB = lib3-longest-substr.dll.a
+  TARGET_PDB = 3-longest-substr.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1695-max-subarray
+
+
+#############################################
+# Order-only phony target for 1695-max-subarray
+
+build cmake_object_order_depends_target_1695-max-subarray: phony || CMakeFiles/1695-max-subarray.dir
+
+build CMakeFiles/1695-max-subarray.dir/src/sliding-window/1695-max-subarray.cpp.obj: CXX_COMPILER__1695-max-subarray_Debug D$:/program/cpp/leetcode/src/sliding-window/1695-max-subarray.cpp || cmake_object_order_depends_target_1695-max-subarray
+  DEP_FILE = CMakeFiles\1695-max-subarray.dir\src\sliding-window\1695-max-subarray.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1695-max-subarray.dir
+  OBJECT_FILE_DIR = CMakeFiles\1695-max-subarray.dir\src\sliding-window
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1695-max-subarray
+
+
+#############################################
+# Link the executable 1695-max-subarray.exe
+
+build 1695-max-subarray.exe: CXX_EXECUTABLE_LINKER__1695-max-subarray_Debug CMakeFiles/1695-max-subarray.dir/src/sliding-window/1695-max-subarray.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1695-max-subarray.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1695-max-subarray.exe
+  TARGET_IMPLIB = lib1695-max-subarray.dll.a
+  TARGET_PDB = 1695-max-subarray.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 219-duplicated-element
+
+
+#############################################
+# Order-only phony target for 219-duplicated-element
+
+build cmake_object_order_depends_target_219-duplicated-element: phony || CMakeFiles/219-duplicated-element.dir
+
+build CMakeFiles/219-duplicated-element.dir/src/sliding-window/219-duplicated-element.cpp.obj: CXX_COMPILER__219-duplicated-element_Debug D$:/program/cpp/leetcode/src/sliding-window/219-duplicated-element.cpp || cmake_object_order_depends_target_219-duplicated-element
+  DEP_FILE = CMakeFiles\219-duplicated-element.dir\src\sliding-window\219-duplicated-element.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\219-duplicated-element.dir
+  OBJECT_FILE_DIR = CMakeFiles\219-duplicated-element.dir\src\sliding-window
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 219-duplicated-element
+
+
+#############################################
+# Link the executable 219-duplicated-element.exe
+
+build 219-duplicated-element.exe: CXX_EXECUTABLE_LINKER__219-duplicated-element_Debug CMakeFiles/219-duplicated-element.dir/src/sliding-window/219-duplicated-element.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\219-duplicated-element.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 219-duplicated-element.exe
+  TARGET_IMPLIB = lib219-duplicated-element.dll.a
+  TARGET_PDB = 219-duplicated-element.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 220-duplicated-elements-3
+
+
+#############################################
+# Order-only phony target for 220-duplicated-elements-3
+
+build cmake_object_order_depends_target_220-duplicated-elements-3: phony || CMakeFiles/220-duplicated-elements-3.dir
+
+build CMakeFiles/220-duplicated-elements-3.dir/src/sliding-window/220-duplicated-elements-3.cpp.obj: CXX_COMPILER__220-duplicated-elements-3_Debug D$:/program/cpp/leetcode/src/sliding-window/220-duplicated-elements-3.cpp || cmake_object_order_depends_target_220-duplicated-elements-3
+  DEP_FILE = CMakeFiles\220-duplicated-elements-3.dir\src\sliding-window\220-duplicated-elements-3.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\220-duplicated-elements-3.dir
+  OBJECT_FILE_DIR = CMakeFiles\220-duplicated-elements-3.dir\src\sliding-window
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 220-duplicated-elements-3
+
+
+#############################################
+# Link the executable 220-duplicated-elements-3.exe
+
+build 220-duplicated-elements-3.exe: CXX_EXECUTABLE_LINKER__220-duplicated-elements-3_Debug CMakeFiles/220-duplicated-elements-3.dir/src/sliding-window/220-duplicated-elements-3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\220-duplicated-elements-3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 220-duplicated-elements-3.exe
+  TARGET_IMPLIB = lib220-duplicated-elements-3.dll.a
+  TARGET_PDB = 220-duplicated-elements-3.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -1609,11 +1840,21 @@ build 1608-special-val: phony 1608-special-val.exe
 
 build 1636-frequency: phony 1636-frequency.exe
 
+build 1695-max-subarray: phony 1695-max-subarray.exe
+
 build 179-largest-num: phony 179-largest-num.exe
+
+build 187-duplicated-sequence: phony 187-duplicated-sequence.exe
+
+build 1876-good-substring: phony 1876-good-substring.exe
 
 build 207-curricular: phony 207-curricular.exe
 
 build 210-curricular: phony 210-curricular.exe
+
+build 219-duplicated-element: phony 219-duplicated-element.exe
+
+build 220-duplicated-elements-3: phony 220-duplicated-elements-3.exe
 
 build 2283-min-time: phony 2283-min-time.exe
 
@@ -1628,6 +1869,8 @@ build 2370-longest-ideal-sequence: phony 2370-longest-ideal-sequence.exe
 build 2384-max-num: phony 2384-max-num.exe
 
 build 2385-tree: phony 2385-tree.exe
+
+build 3-longest-substr: phony 3-longest-substr.exe
 
 build 307-range: phony 307-range.exe
 
@@ -1659,6 +1902,8 @@ build 743-net-delay: phony 743-net-delay.exe
 
 build 75-color-sort: phony 75-color-sort.exe
 
+build 777-move-string: phony 777-move-string.exe
+
 build 785-is-bipartite: phony 785-is-bipartite.exe
 
 build 797-possible-paths: phony 797-possible-paths.exe
@@ -1685,7 +1930,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe 187-duplicated-sequence.exe 777-move-string.exe 1876-good-substring.exe 3-longest-substr.exe 1695-max-subarray.exe 219-duplicated-element.exe 220-duplicated-elements-3.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

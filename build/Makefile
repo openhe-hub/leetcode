@@ -730,6 +730,19 @@ circulating-decimal/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/build
 .PHONY : 2370-longest-ideal-sequence/fast
 
+#=============================================================================
+# Target rules for targets named 187-duplicated-sequence
+
+# Build rule for target.
+187-duplicated-sequence: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 187-duplicated-sequence
+.PHONY : 187-duplicated-sequence
+
+# fast build rule for target.
+187-duplicated-sequence/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/build
+.PHONY : 187-duplicated-sequence/fast
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -1642,6 +1655,30 @@ src/simulation/circulating-decimal.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/src/simulation/circulating-decimal.cpp.s
 .PHONY : src/simulation/circulating-decimal.cpp.s
 
+src/sliding-window/187-duplicated-sequence.obj: src/sliding-window/187-duplicated-sequence.cpp.obj
+.PHONY : src/sliding-window/187-duplicated-sequence.obj
+
+# target to build an object file
+src/sliding-window/187-duplicated-sequence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/src/sliding-window/187-duplicated-sequence.cpp.obj
+.PHONY : src/sliding-window/187-duplicated-sequence.cpp.obj
+
+src/sliding-window/187-duplicated-sequence.i: src/sliding-window/187-duplicated-sequence.cpp.i
+.PHONY : src/sliding-window/187-duplicated-sequence.i
+
+# target to preprocess a source file
+src/sliding-window/187-duplicated-sequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/src/sliding-window/187-duplicated-sequence.cpp.i
+.PHONY : src/sliding-window/187-duplicated-sequence.cpp.i
+
+src/sliding-window/187-duplicated-sequence.s: src/sliding-window/187-duplicated-sequence.cpp.s
+.PHONY : src/sliding-window/187-duplicated-sequence.s
+
+# target to generate assembly for a file
+src/sliding-window/187-duplicated-sequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/src/sliding-window/187-duplicated-sequence.cpp.s
+.PHONY : src/sliding-window/187-duplicated-sequence.cpp.s
+
 src/sort/1090-largest-num.obj: src/sort/1090-largest-num.cpp.obj
 .PHONY : src/sort/1090-largest-num.obj
 
@@ -1833,6 +1870,7 @@ help:
 	@echo ... 1608-special-val
 	@echo ... 1636-frequency
 	@echo ... 179-largest-num
+	@echo ... 187-duplicated-sequence
 	@echo ... 207-curricular
 	@echo ... 210-curricular
 	@echo ... 2283-min-time
@@ -1980,6 +2018,9 @@ help:
 	@echo ... src/simulation/circulating-decimal.obj
 	@echo ... src/simulation/circulating-decimal.i
 	@echo ... src/simulation/circulating-decimal.s
+	@echo ... src/sliding-window/187-duplicated-sequence.obj
+	@echo ... src/sliding-window/187-duplicated-sequence.i
+	@echo ... src/sliding-window/187-duplicated-sequence.s
 	@echo ... src/sort/1090-largest-num.obj
 	@echo ... src/sort/1090-largest-num.i
 	@echo ... src/sort/1090-largest-num.s

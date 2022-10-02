@@ -107,6 +107,7 @@ all: CMakeFiles/2367-three-diff.dir/all
 all: CMakeFiles/2368-nums-node.dir/all
 all: CMakeFiles/2369-legal-partition.dir/all
 all: CMakeFiles/2370-longest-ideal-sequence.dir/all
+all: CMakeFiles/187-duplicated-sequence.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -159,6 +160,7 @@ clean: CMakeFiles/2367-three-diff.dir/clean
 clean: CMakeFiles/2368-nums-node.dir/clean
 clean: CMakeFiles/2369-legal-partition.dir/clean
 clean: CMakeFiles/2370-longest-ideal-sequence.dir/clean
+clean: CMakeFiles/187-duplicated-sequence.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -168,7 +170,7 @@ clean: CMakeFiles/2370-longest-ideal-sequence.dir/clean
 CMakeFiles/leetcode.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=87,88 "Built target leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=89,90 "Built target leetcode"
 .PHONY : CMakeFiles/leetcode.dir/all
 
 # Build rule for subdir invocation for target.
@@ -194,7 +196,7 @@ CMakeFiles/leetcode.dir/clean:
 CMakeFiles/49-group-anagrams.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\49-group-anagrams.dir\build.make CMakeFiles/49-group-anagrams.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\49-group-anagrams.dir\build.make CMakeFiles/49-group-anagrams.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=55,56 "Built target 49-group-anagrams"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=57,58 "Built target 49-group-anagrams"
 .PHONY : CMakeFiles/49-group-anagrams.dir/all
 
 # Build rule for subdir invocation for target.
@@ -220,7 +222,7 @@ CMakeFiles/49-group-anagrams.dir/clean:
 CMakeFiles/75-color-sort.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\75-color-sort.dir\build.make CMakeFiles/75-color-sort.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\75-color-sort.dir\build.make CMakeFiles/75-color-sort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=71,72 "Built target 75-color-sort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=73,74 "Built target 75-color-sort"
 .PHONY : CMakeFiles/75-color-sort.dir/all
 
 # Build rule for subdir invocation for target.
@@ -272,7 +274,7 @@ CMakeFiles/179-largest-num.dir/clean:
 CMakeFiles/378-kth-smallest.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\378-kth-smallest.dir\build.make CMakeFiles/378-kth-smallest.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\378-kth-smallest.dir\build.make CMakeFiles/378-kth-smallest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=51,52 "Built target 378-kth-smallest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=53,54 "Built target 378-kth-smallest"
 .PHONY : CMakeFiles/378-kth-smallest.dir/all
 
 # Build rule for subdir invocation for target.
@@ -298,7 +300,7 @@ CMakeFiles/378-kth-smallest.dir/clean:
 CMakeFiles/98-verify-bst.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\98-verify-bst.dir\build.make CMakeFiles/98-verify-bst.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=81,82 "Built target 98-verify-bst"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=83,84 "Built target 98-verify-bst"
 .PHONY : CMakeFiles/98-verify-bst.dir/all
 
 # Build rule for subdir invocation for target.
@@ -324,7 +326,7 @@ CMakeFiles/98-verify-bst.dir/clean:
 CMakeFiles/419-count-ships.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\419-count-ships.dir\build.make CMakeFiles/419-count-ships.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=53,54 "Built target 419-count-ships"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=55,56 "Built target 419-count-ships"
 .PHONY : CMakeFiles/419-count-ships.dir/all
 
 # Build rule for subdir invocation for target.
@@ -350,7 +352,7 @@ CMakeFiles/419-count-ships.dir/clean:
 CMakeFiles/307-range-sum-query.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=45,46 "Built target 307-range-sum-query"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=47,48 "Built target 307-range-sum-query"
 .PHONY : CMakeFiles/307-range-sum-query.dir/all
 
 # Build rule for subdir invocation for target.
@@ -376,7 +378,7 @@ CMakeFiles/307-range-sum-query.dir/clean:
 CMakeFiles/315-count-smaller.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=47,48 "Built target 315-count-smaller"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=49,50 "Built target 315-count-smaller"
 .PHONY : CMakeFiles/315-count-smaller.dir/all
 
 # Build rule for subdir invocation for target.
@@ -402,7 +404,7 @@ CMakeFiles/315-count-smaller.dir/clean:
 CMakeFiles/327-count-range-sum.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=49,50 "Built target 327-count-range-sum"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=51,52 "Built target 327-count-range-sum"
 .PHONY : CMakeFiles/327-count-range-sum.dir/all
 
 # Build rule for subdir invocation for target.
@@ -454,7 +456,7 @@ CMakeFiles/1331-array-rank.dir/clean:
 CMakeFiles/493-reverse-pair.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=57,58 "Built target 493-reverse-pair"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=59,60 "Built target 493-reverse-pair"
 .PHONY : CMakeFiles/493-reverse-pair.dir/all
 
 # Build rule for subdir invocation for target.
@@ -480,7 +482,7 @@ CMakeFiles/493-reverse-pair.dir/clean:
 CMakeFiles/offer51-reverse-pair.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=89,90 "Built target offer51-reverse-pair"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=91,92 "Built target offer51-reverse-pair"
 .PHONY : CMakeFiles/offer51-reverse-pair.dir/all
 
 # Build rule for subdir invocation for target.
@@ -532,7 +534,7 @@ CMakeFiles/1450-busy-student.dir/clean:
 CMakeFiles/bit-template.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=83,84 "Built target bit-template"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=85,86 "Built target bit-template"
 .PHONY : CMakeFiles/bit-template.dir/all
 
 # Build rule for subdir invocation for target.
@@ -558,7 +560,7 @@ CMakeFiles/bit-template.dir/clean:
 CMakeFiles/307-range.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=43,44 "Built target 307-range"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=45,46 "Built target 307-range"
 .PHONY : CMakeFiles/307-range.dir/all
 
 # Build rule for subdir invocation for target.
@@ -662,7 +664,7 @@ CMakeFiles/1598-folder.dir/clean:
 CMakeFiles/667-construct-array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\667-construct-array.dir\build.make CMakeFiles/667-construct-array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\667-construct-array.dir\build.make CMakeFiles/667-construct-array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=59,60 "Built target 667-construct-array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=61,62 "Built target 667-construct-array"
 .PHONY : CMakeFiles/667-construct-array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -740,7 +742,7 @@ CMakeFiles/1582-min-cost.dir/clean:
 CMakeFiles/669-trim-bst.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\669-trim-bst.dir\build.make CMakeFiles/669-trim-bst.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\669-trim-bst.dir\build.make CMakeFiles/669-trim-bst.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=61,62 "Built target 669-trim-bst"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=63,64 "Built target 669-trim-bst"
 .PHONY : CMakeFiles/669-trim-bst.dir/all
 
 # Build rule for subdir invocation for target.
@@ -766,7 +768,7 @@ CMakeFiles/669-trim-bst.dir/clean:
 CMakeFiles/743-net-delay.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\743-net-delay.dir\build.make CMakeFiles/743-net-delay.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\743-net-delay.dir\build.make CMakeFiles/743-net-delay.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=69,70 "Built target 743-net-delay"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=71,72 "Built target 743-net-delay"
 .PHONY : CMakeFiles/743-net-delay.dir/all
 
 # Build rule for subdir invocation for target.
@@ -792,7 +794,7 @@ CMakeFiles/743-net-delay.dir/clean:
 CMakeFiles/857-min-cost.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\857-min-cost.dir\build.make CMakeFiles/857-min-cost.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\857-min-cost.dir\build.make CMakeFiles/857-min-cost.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=77,78 "Built target 857-min-cost"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=79,80 "Built target 857-min-cost"
 .PHONY : CMakeFiles/857-min-cost.dir/all
 
 # Build rule for subdir invocation for target.
@@ -818,7 +820,7 @@ CMakeFiles/857-min-cost.dir/clean:
 CMakeFiles/207-curricular.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\207-curricular.dir\build.make CMakeFiles/207-curricular.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\207-curricular.dir\build.make CMakeFiles/207-curricular.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=25,26 "Built target 207-curricular"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=27,28 "Built target 207-curricular"
 .PHONY : CMakeFiles/207-curricular.dir/all
 
 # Build rule for subdir invocation for target.
@@ -844,7 +846,7 @@ CMakeFiles/207-curricular.dir/clean:
 CMakeFiles/210-curricular.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\210-curricular.dir\build.make CMakeFiles/210-curricular.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\210-curricular.dir\build.make CMakeFiles/210-curricular.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=27,28 "Built target 210-curricular"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=29,30 "Built target 210-curricular"
 .PHONY : CMakeFiles/210-curricular.dir/all
 
 # Build rule for subdir invocation for target.
@@ -896,7 +898,7 @@ CMakeFiles/1608-special-val.dir/clean:
 CMakeFiles/684-redundant-connection.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection.dir\build.make CMakeFiles/684-redundant-connection.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection.dir\build.make CMakeFiles/684-redundant-connection.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=63,64 "Built target 684-redundant-connection"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=65,66 "Built target 684-redundant-connection"
 .PHONY : CMakeFiles/684-redundant-connection.dir/all
 
 # Build rule for subdir invocation for target.
@@ -922,7 +924,7 @@ CMakeFiles/684-redundant-connection.dir/clean:
 CMakeFiles/684-redundant-connection-2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection-2.dir\build.make CMakeFiles/684-redundant-connection-2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection-2.dir\build.make CMakeFiles/684-redundant-connection-2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=65,66 "Built target 684-redundant-connection-2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=67,68 "Built target 684-redundant-connection-2"
 .PHONY : CMakeFiles/684-redundant-connection-2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -974,7 +976,7 @@ CMakeFiles/1636-frequency.dir/clean:
 CMakeFiles/785-is-bipartite.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\785-is-bipartite.dir\build.make CMakeFiles/785-is-bipartite.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\785-is-bipartite.dir\build.make CMakeFiles/785-is-bipartite.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=73,74 "Built target 785-is-bipartite"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=75,76 "Built target 785-is-bipartite"
 .PHONY : CMakeFiles/785-is-bipartite.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1026,7 +1028,7 @@ CMakeFiles/1334-find-city.dir/clean:
 CMakeFiles/797-possible-paths.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\797-possible-paths.dir\build.make CMakeFiles/797-possible-paths.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\797-possible-paths.dir\build.make CMakeFiles/797-possible-paths.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=75,76 "Built target 797-possible-paths"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=77,78 "Built target 797-possible-paths"
 .PHONY : CMakeFiles/797-possible-paths.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1052,7 +1054,7 @@ CMakeFiles/797-possible-paths.dir/clean:
 CMakeFiles/2283-min-time.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2283-min-time.dir\build.make CMakeFiles/2283-min-time.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2283-min-time.dir\build.make CMakeFiles/2283-min-time.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=29,30 "Built target 2283-min-time"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=31,32 "Built target 2283-min-time"
 .PHONY : CMakeFiles/2283-min-time.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1078,7 +1080,7 @@ CMakeFiles/2283-min-time.dir/clean:
 CMakeFiles/2384-max-num.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-max-num.dir\build.make CMakeFiles/2384-max-num.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-max-num.dir\build.make CMakeFiles/2384-max-num.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=39,40 "Built target 2384-max-num"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=41,42 "Built target 2384-max-num"
 .PHONY : CMakeFiles/2384-max-num.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1104,7 +1106,7 @@ CMakeFiles/2384-max-num.dir/clean:
 CMakeFiles/2385-tree.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2385-tree.dir\build.make CMakeFiles/2385-tree.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2385-tree.dir\build.make CMakeFiles/2385-tree.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=41,42 "Built target 2385-tree"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=43,44 "Built target 2385-tree"
 .PHONY : CMakeFiles/2385-tree.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1130,7 +1132,7 @@ CMakeFiles/2385-tree.dir/clean:
 CMakeFiles/707_linked_list.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\707_linked_list.dir\build.make CMakeFiles/707_linked_list.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\707_linked_list.dir\build.make CMakeFiles/707_linked_list.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=67,68 "Built target 707_linked_list"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=69,70 "Built target 707_linked_list"
 .PHONY : CMakeFiles/707_linked_list.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1156,7 +1158,7 @@ CMakeFiles/707_linked_list.dir/clean:
 CMakeFiles/886-possible-bipartition.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\886-possible-bipartition.dir\build.make CMakeFiles/886-possible-bipartition.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\886-possible-bipartition.dir\build.make CMakeFiles/886-possible-bipartition.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=79,80 "Built target 886-possible-bipartition"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=81,82 "Built target 886-possible-bipartition"
 .PHONY : CMakeFiles/886-possible-bipartition.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1208,7 +1210,7 @@ CMakeFiles/1020-num-enclaves.dir/clean:
 CMakeFiles/circulating-decimal.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=85,86 "Built target circulating-decimal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=87,88 "Built target circulating-decimal"
 .PHONY : CMakeFiles/circulating-decimal.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1234,7 +1236,7 @@ CMakeFiles/circulating-decimal.dir/clean:
 CMakeFiles/2367-three-diff.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2367-three-diff.dir\build.make CMakeFiles/2367-three-diff.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2367-three-diff.dir\build.make CMakeFiles/2367-three-diff.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=31,32 "Built target 2367-three-diff"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=33,34 "Built target 2367-three-diff"
 .PHONY : CMakeFiles/2367-three-diff.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1260,7 +1262,7 @@ CMakeFiles/2367-three-diff.dir/clean:
 CMakeFiles/2368-nums-node.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2368-nums-node.dir\build.make CMakeFiles/2368-nums-node.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2368-nums-node.dir\build.make CMakeFiles/2368-nums-node.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=33,34 "Built target 2368-nums-node"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=35,36 "Built target 2368-nums-node"
 .PHONY : CMakeFiles/2368-nums-node.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1286,7 +1288,7 @@ CMakeFiles/2368-nums-node.dir/clean:
 CMakeFiles/2369-legal-partition.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2369-legal-partition.dir\build.make CMakeFiles/2369-legal-partition.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2369-legal-partition.dir\build.make CMakeFiles/2369-legal-partition.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=35,36 "Built target 2369-legal-partition"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=37,38 "Built target 2369-legal-partition"
 .PHONY : CMakeFiles/2369-legal-partition.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1312,7 +1314,7 @@ CMakeFiles/2369-legal-partition.dir/clean:
 CMakeFiles/2370-longest-ideal-sequence.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=37,38 "Built target 2370-longest-ideal-sequence"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=39,40 "Built target 2370-longest-ideal-sequence"
 .PHONY : CMakeFiles/2370-longest-ideal-sequence.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1330,6 +1332,32 @@ CMakeFiles/2370-longest-ideal-sequence.dir/rule: cmake_check_build_system
 CMakeFiles/2370-longest-ideal-sequence.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/clean
 .PHONY : CMakeFiles/2370-longest-ideal-sequence.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/187-duplicated-sequence.dir
+
+# All Build rule for target.
+CMakeFiles/187-duplicated-sequence.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=25,26 "Built target 187-duplicated-sequence"
+.PHONY : CMakeFiles/187-duplicated-sequence.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/187-duplicated-sequence.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/187-duplicated-sequence.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\program\cpp\leetcode\build\CMakeFiles 0
+.PHONY : CMakeFiles/187-duplicated-sequence.dir/rule
+
+# Convenience name for target.
+187-duplicated-sequence: CMakeFiles/187-duplicated-sequence.dir/rule
+.PHONY : 187-duplicated-sequence
+
+# clean rule for target.
+CMakeFiles/187-duplicated-sequence.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\187-duplicated-sequence.dir\build.make CMakeFiles/187-duplicated-sequence.dir/clean
+.PHONY : CMakeFiles/187-duplicated-sequence.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
