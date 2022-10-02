@@ -68,28 +68,28 @@ include CMakeFiles/307-range-sum-query.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/307-range-sum-query.dir/flags.make
 
-CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj: CMakeFiles/307-range-sum-query.dir/flags.make
-CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj: D:/program/cpp/leetcode/src/bit/307-range-sum-query.cpp
-CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj: CMakeFiles/307-range-sum-query.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj -MF CMakeFiles\307-range-sum-query.dir\src\bit\307-range-sum-query.cpp.obj.d -o CMakeFiles\307-range-sum-query.dir\src\bit\307-range-sum-query.cpp.obj -c D:\program\cpp\leetcode\src\bit\307-range-sum-query.cpp
+CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj: CMakeFiles/307-range-sum-query.dir/flags.make
+CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj: D:/program/cpp/leetcode/src/binary-index-tree/307-range-sum-query.cpp
+CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj: CMakeFiles/307-range-sum-query.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj -MF CMakeFiles\307-range-sum-query.dir\src\binary-index-tree\307-range-sum-query.cpp.obj.d -o CMakeFiles\307-range-sum-query.dir\src\binary-index-tree\307-range-sum-query.cpp.obj -c D:\program\cpp\leetcode\src\binary-index-tree\307-range-sum-query.cpp
 
-CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\bit\307-range-sum-query.cpp > CMakeFiles\307-range-sum-query.dir\src\bit\307-range-sum-query.cpp.i
+CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\binary-index-tree\307-range-sum-query.cpp > CMakeFiles\307-range-sum-query.dir\src\binary-index-tree\307-range-sum-query.cpp.i
 
-CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\bit\307-range-sum-query.cpp -o CMakeFiles\307-range-sum-query.dir\src\bit\307-range-sum-query.cpp.s
+CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\binary-index-tree\307-range-sum-query.cpp -o CMakeFiles\307-range-sum-query.dir\src\binary-index-tree\307-range-sum-query.cpp.s
 
 # Object files for target 307-range-sum-query
 307__range__sum__query_OBJECTS = \
-"CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj"
+"CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj"
 
 # External object files for target 307-range-sum-query
 307__range__sum__query_EXTERNAL_OBJECTS =
 
-307-range-sum-query.exe: CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj
+307-range-sum-query.exe: CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj
 307-range-sum-query.exe: CMakeFiles/307-range-sum-query.dir/build.make
 307-range-sum-query.exe: CMakeFiles/307-range-sum-query.dir/linklibs.rsp
 307-range-sum-query.exe: CMakeFiles/307-range-sum-query.dir/objects1.rsp

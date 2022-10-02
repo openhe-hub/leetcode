@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/program/cpp/leetcode/src/bit/315-count-smaller.cpp" "CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj" "gcc" "CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj.d"
+  "D:/program/cpp/leetcode/src/binary-index-tree/315-count-smaller.cpp" "CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj" "gcc" "CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj.d"
   )
 
 # Targets to which this target links.

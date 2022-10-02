@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/program/cpp/leetcode/src/bit/307-range-sum-query.cpp" "CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj" "gcc" "CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj.d"
+  "D:/program/cpp/leetcode/src/binary-index-tree/307-range-sum-query.cpp" "CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj" "gcc" "CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj.d"
   )
 
 # Targets to which this target links.

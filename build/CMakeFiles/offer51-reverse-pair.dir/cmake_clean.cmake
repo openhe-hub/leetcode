@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj"
-  "CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj.d"
+  "CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj"
+  "CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj.d"
   "liboffer51-reverse-pair.dll.a"
   "offer51-reverse-pair.exe"
   "offer51-reverse-pair.exe.manifest"

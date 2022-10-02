@@ -68,28 +68,28 @@ include CMakeFiles/bit-template.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/bit-template.dir/flags.make
 
-CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj: CMakeFiles/bit-template.dir/flags.make
-CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj: D:/program/cpp/leetcode/src/bit/bit-template.cpp
-CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj: CMakeFiles/bit-template.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj -MF CMakeFiles\bit-template.dir\src\bit\bit-template.cpp.obj.d -o CMakeFiles\bit-template.dir\src\bit\bit-template.cpp.obj -c D:\program\cpp\leetcode\src\bit\bit-template.cpp
+CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj: CMakeFiles/bit-template.dir/flags.make
+CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj: D:/program/cpp/leetcode/src/binary-index-tree/bit-template.cpp
+CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj: CMakeFiles/bit-template.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj -MF CMakeFiles\bit-template.dir\src\binary-index-tree\bit-template.cpp.obj.d -o CMakeFiles\bit-template.dir\src\binary-index-tree\bit-template.cpp.obj -c D:\program\cpp\leetcode\src\binary-index-tree\bit-template.cpp
 
-CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\bit\bit-template.cpp > CMakeFiles\bit-template.dir\src\bit\bit-template.cpp.i
+CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\binary-index-tree\bit-template.cpp > CMakeFiles\bit-template.dir\src\binary-index-tree\bit-template.cpp.i
 
-CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\bit\bit-template.cpp -o CMakeFiles\bit-template.dir\src\bit\bit-template.cpp.s
+CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\binary-index-tree\bit-template.cpp -o CMakeFiles\bit-template.dir\src\binary-index-tree\bit-template.cpp.s
 
 # Object files for target bit-template
 bit__template_OBJECTS = \
-"CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj"
+"CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj"
 
 # External object files for target bit-template
 bit__template_EXTERNAL_OBJECTS =
 
-bit-template.exe: CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj
+bit-template.exe: CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj
 bit-template.exe: CMakeFiles/bit-template.dir/build.make
 bit-template.exe: CMakeFiles/bit-template.dir/linklibs.rsp
 bit-template.exe: CMakeFiles/bit-template.dir/objects1.rsp

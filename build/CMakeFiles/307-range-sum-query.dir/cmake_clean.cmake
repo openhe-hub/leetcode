@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "307-range-sum-query.exe"
   "307-range-sum-query.exe.manifest"
   "307-range-sum-query.pdb"
-  "CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj"
-  "CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj.d"
+  "CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj"
+  "CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj.d"
   "lib307-range-sum-query.dll.a"
 )
 

@@ -328,7 +328,7 @@ offer51-reverse-pair/fast:
 .PHONY : 1450-busy-student/fast
 
 #=============================================================================
-# Target rules for targets named binary-index-tree-template
+# Target rules for targets named bit-template
 
 # Build rule for target.
 bit-template: cmake_check_build_system
@@ -379,6 +379,357 @@ bit-template/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1090-largest-num.dir\build.make CMakeFiles/1090-largest-num.dir/build
 .PHONY : 1090-largest-num/fast
 
+#=============================================================================
+# Target rules for targets named 1598-folder
+
+# Build rule for target.
+1598-folder: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1598-folder
+.PHONY : 1598-folder
+
+# fast build rule for target.
+1598-folder/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1598-folder.dir\build.make CMakeFiles/1598-folder.dir/build
+.PHONY : 1598-folder/fast
+
+#=============================================================================
+# Target rules for targets named 667-construct-array
+
+# Build rule for target.
+667-construct-array: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 667-construct-array
+.PHONY : 667-construct-array
+
+# fast build rule for target.
+667-construct-array/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\667-construct-array.dir\build.make CMakeFiles/667-construct-array.dir/build
+.PHONY : 667-construct-array/fast
+
+#=============================================================================
+# Target rules for targets named 16-closest-sum
+
+# Build rule for target.
+16-closest-sum: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 16-closest-sum
+.PHONY : 16-closest-sum
+
+# fast build rule for target.
+16-closest-sum/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\16-closest-sum.dir\build.make CMakeFiles/16-closest-sum.dir/build
+.PHONY : 16-closest-sum/fast
+
+#=============================================================================
+# Target rules for targets named 1582-min-cost
+
+# Build rule for target.
+1582-min-cost: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1582-min-cost
+.PHONY : 1582-min-cost
+
+# fast build rule for target.
+1582-min-cost/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1582-min-cost.dir\build.make CMakeFiles/1582-min-cost.dir/build
+.PHONY : 1582-min-cost/fast
+
+#=============================================================================
+# Target rules for targets named 669-trim-bst
+
+# Build rule for target.
+669-trim-bst: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 669-trim-bst
+.PHONY : 669-trim-bst
+
+# fast build rule for target.
+669-trim-bst/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\669-trim-bst.dir\build.make CMakeFiles/669-trim-bst.dir/build
+.PHONY : 669-trim-bst/fast
+
+#=============================================================================
+# Target rules for targets named 743-net-delay
+
+# Build rule for target.
+743-net-delay: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 743-net-delay
+.PHONY : 743-net-delay
+
+# fast build rule for target.
+743-net-delay/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\743-net-delay.dir\build.make CMakeFiles/743-net-delay.dir/build
+.PHONY : 743-net-delay/fast
+
+#=============================================================================
+# Target rules for targets named 857-min-cost
+
+# Build rule for target.
+857-min-cost: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 857-min-cost
+.PHONY : 857-min-cost
+
+# fast build rule for target.
+857-min-cost/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\857-min-cost.dir\build.make CMakeFiles/857-min-cost.dir/build
+.PHONY : 857-min-cost/fast
+
+#=============================================================================
+# Target rules for targets named 207-curricular
+
+# Build rule for target.
+207-curricular: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 207-curricular
+.PHONY : 207-curricular
+
+# fast build rule for target.
+207-curricular/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\207-curricular.dir\build.make CMakeFiles/207-curricular.dir/build
+.PHONY : 207-curricular/fast
+
+#=============================================================================
+# Target rules for targets named 210-curricular
+
+# Build rule for target.
+210-curricular: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 210-curricular
+.PHONY : 210-curricular
+
+# fast build rule for target.
+210-curricular/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\210-curricular.dir\build.make CMakeFiles/210-curricular.dir/build
+.PHONY : 210-curricular/fast
+
+#=============================================================================
+# Target rules for targets named 1608-special-val
+
+# Build rule for target.
+1608-special-val: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1608-special-val
+.PHONY : 1608-special-val
+
+# fast build rule for target.
+1608-special-val/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1608-special-val.dir\build.make CMakeFiles/1608-special-val.dir/build
+.PHONY : 1608-special-val/fast
+
+#=============================================================================
+# Target rules for targets named 684-redundant-connection
+
+# Build rule for target.
+684-redundant-connection: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 684-redundant-connection
+.PHONY : 684-redundant-connection
+
+# fast build rule for target.
+684-redundant-connection/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection.dir\build.make CMakeFiles/684-redundant-connection.dir/build
+.PHONY : 684-redundant-connection/fast
+
+#=============================================================================
+# Target rules for targets named 684-redundant-connection-2
+
+# Build rule for target.
+684-redundant-connection-2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 684-redundant-connection-2
+.PHONY : 684-redundant-connection-2
+
+# fast build rule for target.
+684-redundant-connection-2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection-2.dir\build.make CMakeFiles/684-redundant-connection-2.dir/build
+.PHONY : 684-redundant-connection-2/fast
+
+#=============================================================================
+# Target rules for targets named 1636-frequency
+
+# Build rule for target.
+1636-frequency: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1636-frequency
+.PHONY : 1636-frequency
+
+# fast build rule for target.
+1636-frequency/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1636-frequency.dir\build.make CMakeFiles/1636-frequency.dir/build
+.PHONY : 1636-frequency/fast
+
+#=============================================================================
+# Target rules for targets named 785-is-bipartite
+
+# Build rule for target.
+785-is-bipartite: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 785-is-bipartite
+.PHONY : 785-is-bipartite
+
+# fast build rule for target.
+785-is-bipartite/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\785-is-bipartite.dir\build.make CMakeFiles/785-is-bipartite.dir/build
+.PHONY : 785-is-bipartite/fast
+
+#=============================================================================
+# Target rules for targets named 1334-find-city
+
+# Build rule for target.
+1334-find-city: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1334-find-city
+.PHONY : 1334-find-city
+
+# fast build rule for target.
+1334-find-city/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1334-find-city.dir\build.make CMakeFiles/1334-find-city.dir/build
+.PHONY : 1334-find-city/fast
+
+#=============================================================================
+# Target rules for targets named 797-possible-paths
+
+# Build rule for target.
+797-possible-paths: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 797-possible-paths
+.PHONY : 797-possible-paths
+
+# fast build rule for target.
+797-possible-paths/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\797-possible-paths.dir\build.make CMakeFiles/797-possible-paths.dir/build
+.PHONY : 797-possible-paths/fast
+
+#=============================================================================
+# Target rules for targets named 2283-min-time
+
+# Build rule for target.
+2283-min-time: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2283-min-time
+.PHONY : 2283-min-time
+
+# fast build rule for target.
+2283-min-time/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2283-min-time.dir\build.make CMakeFiles/2283-min-time.dir/build
+.PHONY : 2283-min-time/fast
+
+#=============================================================================
+# Target rules for targets named 2384-max-num
+
+# Build rule for target.
+2384-max-num: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2384-max-num
+.PHONY : 2384-max-num
+
+# fast build rule for target.
+2384-max-num/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-max-num.dir\build.make CMakeFiles/2384-max-num.dir/build
+.PHONY : 2384-max-num/fast
+
+#=============================================================================
+# Target rules for targets named 2385-tree
+
+# Build rule for target.
+2385-tree: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2385-tree
+.PHONY : 2385-tree
+
+# fast build rule for target.
+2385-tree/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2385-tree.dir\build.make CMakeFiles/2385-tree.dir/build
+.PHONY : 2385-tree/fast
+
+#=============================================================================
+# Target rules for targets named 707_linked_list
+
+# Build rule for target.
+707_linked_list: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 707_linked_list
+.PHONY : 707_linked_list
+
+# fast build rule for target.
+707_linked_list/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\707_linked_list.dir\build.make CMakeFiles/707_linked_list.dir/build
+.PHONY : 707_linked_list/fast
+
+#=============================================================================
+# Target rules for targets named 886-possible-bipartition
+
+# Build rule for target.
+886-possible-bipartition: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 886-possible-bipartition
+.PHONY : 886-possible-bipartition
+
+# fast build rule for target.
+886-possible-bipartition/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\886-possible-bipartition.dir\build.make CMakeFiles/886-possible-bipartition.dir/build
+.PHONY : 886-possible-bipartition/fast
+
+#=============================================================================
+# Target rules for targets named 1020-num-enclaves
+
+# Build rule for target.
+1020-num-enclaves: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1020-num-enclaves
+.PHONY : 1020-num-enclaves
+
+# fast build rule for target.
+1020-num-enclaves/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1020-num-enclaves.dir\build.make CMakeFiles/1020-num-enclaves.dir/build
+.PHONY : 1020-num-enclaves/fast
+
+#=============================================================================
+# Target rules for targets named circulating-decimal
+
+# Build rule for target.
+circulating-decimal: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 circulating-decimal
+.PHONY : circulating-decimal
+
+# fast build rule for target.
+circulating-decimal/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/build
+.PHONY : circulating-decimal/fast
+
+#=============================================================================
+# Target rules for targets named 2367-three-diff
+
+# Build rule for target.
+2367-three-diff: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2367-three-diff
+.PHONY : 2367-three-diff
+
+# fast build rule for target.
+2367-three-diff/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2367-three-diff.dir\build.make CMakeFiles/2367-three-diff.dir/build
+.PHONY : 2367-three-diff/fast
+
+#=============================================================================
+# Target rules for targets named 2368-nums-node
+
+# Build rule for target.
+2368-nums-node: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2368-nums-node
+.PHONY : 2368-nums-node
+
+# fast build rule for target.
+2368-nums-node/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2368-nums-node.dir\build.make CMakeFiles/2368-nums-node.dir/build
+.PHONY : 2368-nums-node/fast
+
+#=============================================================================
+# Target rules for targets named 2369-legal-partition
+
+# Build rule for target.
+2369-legal-partition: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2369-legal-partition
+.PHONY : 2369-legal-partition
+
+# fast build rule for target.
+2369-legal-partition/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2369-legal-partition.dir\build.make CMakeFiles/2369-legal-partition.dir/build
+.PHONY : 2369-legal-partition/fast
+
+#=============================================================================
+# Target rules for targets named 2370-longest-ideal-sequence
+
+# Build rule for target.
+2370-longest-ideal-sequence: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2370-longest-ideal-sequence
+.PHONY : 2370-longest-ideal-sequence
+
+# fast build rule for target.
+2370-longest-ideal-sequence/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/build
+.PHONY : 2370-longest-ideal-sequence/fast
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -403,149 +754,437 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode.dir\build.make CMakeFiles/leetcode.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/bit/307-range-sum-query.obj: src/bit/307-range-sum-query.cpp.obj
-.PHONY : src/bit/307-range-sum-query.obj
+src/array/16-closest-sum.obj: src/array/16-closest-sum.cpp.obj
+.PHONY : src/array/16-closest-sum.obj
 
 # target to build an object file
-src/bit/307-range-sum-query.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.obj
-.PHONY : src/bit/307-range-sum-query.cpp.obj
+src/array/16-closest-sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\16-closest-sum.dir\build.make CMakeFiles/16-closest-sum.dir/src/array/16-closest-sum.cpp.obj
+.PHONY : src/array/16-closest-sum.cpp.obj
 
-src/bit/307-range-sum-query.i: src/bit/307-range-sum-query.cpp.i
-.PHONY : src/bit/307-range-sum-query.i
+src/array/16-closest-sum.i: src/array/16-closest-sum.cpp.i
+.PHONY : src/array/16-closest-sum.i
 
 # target to preprocess a source file
-src/bit/307-range-sum-query.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.i
-.PHONY : src/bit/307-range-sum-query.cpp.i
+src/array/16-closest-sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\16-closest-sum.dir\build.make CMakeFiles/16-closest-sum.dir/src/array/16-closest-sum.cpp.i
+.PHONY : src/array/16-closest-sum.cpp.i
 
-src/bit/307-range-sum-query.s: src/bit/307-range-sum-query.cpp.s
-.PHONY : src/bit/307-range-sum-query.s
+src/array/16-closest-sum.s: src/array/16-closest-sum.cpp.s
+.PHONY : src/array/16-closest-sum.s
 
 # target to generate assembly for a file
-src/bit/307-range-sum-query.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/bit/307-range-sum-query.cpp.s
-.PHONY : src/bit/307-range-sum-query.cpp.s
+src/array/16-closest-sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\16-closest-sum.dir\build.make CMakeFiles/16-closest-sum.dir/src/array/16-closest-sum.cpp.s
+.PHONY : src/array/16-closest-sum.cpp.s
 
-src/bit/315-count-smaller.obj: src/bit/315-count-smaller.cpp.obj
-.PHONY : src/bit/315-count-smaller.obj
+src/array/1608-special-val.obj: src/array/1608-special-val.cpp.obj
+.PHONY : src/array/1608-special-val.obj
 
 # target to build an object file
-src/bit/315-count-smaller.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj
-.PHONY : src/bit/315-count-smaller.cpp.obj
+src/array/1608-special-val.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1608-special-val.dir\build.make CMakeFiles/1608-special-val.dir/src/array/1608-special-val.cpp.obj
+.PHONY : src/array/1608-special-val.cpp.obj
 
-src/bit/315-count-smaller.i: src/bit/315-count-smaller.cpp.i
-.PHONY : src/bit/315-count-smaller.i
+src/array/1608-special-val.i: src/array/1608-special-val.cpp.i
+.PHONY : src/array/1608-special-val.i
 
 # target to preprocess a source file
-src/bit/315-count-smaller.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.i
-.PHONY : src/bit/315-count-smaller.cpp.i
+src/array/1608-special-val.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1608-special-val.dir\build.make CMakeFiles/1608-special-val.dir/src/array/1608-special-val.cpp.i
+.PHONY : src/array/1608-special-val.cpp.i
 
-src/bit/315-count-smaller.s: src/bit/315-count-smaller.cpp.s
-.PHONY : src/bit/315-count-smaller.s
+src/array/1608-special-val.s: src/array/1608-special-val.cpp.s
+.PHONY : src/array/1608-special-val.s
 
 # target to generate assembly for a file
-src/bit/315-count-smaller.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.s
-.PHONY : src/bit/315-count-smaller.cpp.s
+src/array/1608-special-val.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1608-special-val.dir\build.make CMakeFiles/1608-special-val.dir/src/array/1608-special-val.cpp.s
+.PHONY : src/array/1608-special-val.cpp.s
 
-src/bit/327-count-range-sum.obj: src/bit/327-count-range-sum.cpp.obj
-.PHONY : src/bit/327-count-range-sum.obj
+src/array/1636-frequency.obj: src/array/1636-frequency.cpp.obj
+.PHONY : src/array/1636-frequency.obj
 
 # target to build an object file
-src/bit/327-count-range-sum.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj
-.PHONY : src/bit/327-count-range-sum.cpp.obj
+src/array/1636-frequency.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1636-frequency.dir\build.make CMakeFiles/1636-frequency.dir/src/array/1636-frequency.cpp.obj
+.PHONY : src/array/1636-frequency.cpp.obj
 
-src/bit/327-count-range-sum.i: src/bit/327-count-range-sum.cpp.i
-.PHONY : src/bit/327-count-range-sum.i
+src/array/1636-frequency.i: src/array/1636-frequency.cpp.i
+.PHONY : src/array/1636-frequency.i
 
 # target to preprocess a source file
-src/bit/327-count-range-sum.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.i
-.PHONY : src/bit/327-count-range-sum.cpp.i
+src/array/1636-frequency.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1636-frequency.dir\build.make CMakeFiles/1636-frequency.dir/src/array/1636-frequency.cpp.i
+.PHONY : src/array/1636-frequency.cpp.i
 
-src/bit/327-count-range-sum.s: src/bit/327-count-range-sum.cpp.s
-.PHONY : src/bit/327-count-range-sum.s
+src/array/1636-frequency.s: src/array/1636-frequency.cpp.s
+.PHONY : src/array/1636-frequency.s
 
 # target to generate assembly for a file
-src/bit/327-count-range-sum.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.s
-.PHONY : src/bit/327-count-range-sum.cpp.s
+src/array/1636-frequency.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1636-frequency.dir\build.make CMakeFiles/1636-frequency.dir/src/array/1636-frequency.cpp.s
+.PHONY : src/array/1636-frequency.cpp.s
 
-src/bit/493-reverse-pair.obj: src/bit/493-reverse-pair.cpp.obj
-.PHONY : src/bit/493-reverse-pair.obj
+src/array/667-construct-array.obj: src/array/667-construct-array.cpp.obj
+.PHONY : src/array/667-construct-array.obj
 
 # target to build an object file
-src/bit/493-reverse-pair.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj
-.PHONY : src/bit/493-reverse-pair.cpp.obj
+src/array/667-construct-array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\667-construct-array.dir\build.make CMakeFiles/667-construct-array.dir/src/array/667-construct-array.cpp.obj
+.PHONY : src/array/667-construct-array.cpp.obj
 
-src/bit/493-reverse-pair.i: src/bit/493-reverse-pair.cpp.i
-.PHONY : src/bit/493-reverse-pair.i
+src/array/667-construct-array.i: src/array/667-construct-array.cpp.i
+.PHONY : src/array/667-construct-array.i
 
 # target to preprocess a source file
-src/bit/493-reverse-pair.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.i
-.PHONY : src/bit/493-reverse-pair.cpp.i
+src/array/667-construct-array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\667-construct-array.dir\build.make CMakeFiles/667-construct-array.dir/src/array/667-construct-array.cpp.i
+.PHONY : src/array/667-construct-array.cpp.i
 
-src/bit/493-reverse-pair.s: src/bit/493-reverse-pair.cpp.s
-.PHONY : src/bit/493-reverse-pair.s
+src/array/667-construct-array.s: src/array/667-construct-array.cpp.s
+.PHONY : src/array/667-construct-array.s
 
 # target to generate assembly for a file
-src/bit/493-reverse-pair.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.s
-.PHONY : src/bit/493-reverse-pair.cpp.s
+src/array/667-construct-array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\667-construct-array.dir\build.make CMakeFiles/667-construct-array.dir/src/array/667-construct-array.cpp.s
+.PHONY : src/array/667-construct-array.cpp.s
 
-src/bit/bit-template.obj: src/bit/bit-template.cpp.obj
-.PHONY : src/bit/bit-template.obj
+src/binary-index-tree/307-range-sum-query.obj: src/binary-index-tree/307-range-sum-query.cpp.obj
+.PHONY : src/binary-index-tree/307-range-sum-query.obj
 
 # target to build an object file
-src/bit/bit-template.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj
-.PHONY : src/bit/bit-template.cpp.obj
+src/binary-index-tree/307-range-sum-query.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.obj
+.PHONY : src/binary-index-tree/307-range-sum-query.cpp.obj
 
-src/bit/bit-template.i: src/bit/bit-template.cpp.i
-.PHONY : src/bit/bit-template.i
+src/binary-index-tree/307-range-sum-query.i: src/binary-index-tree/307-range-sum-query.cpp.i
+.PHONY : src/binary-index-tree/307-range-sum-query.i
 
 # target to preprocess a source file
-src/bit/bit-template.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.i
-.PHONY : src/bit/bit-template.cpp.i
+src/binary-index-tree/307-range-sum-query.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.i
+.PHONY : src/binary-index-tree/307-range-sum-query.cpp.i
 
-src/bit/bit-template.s: src/bit/bit-template.cpp.s
-.PHONY : src/bit/bit-template.s
+src/binary-index-tree/307-range-sum-query.s: src/binary-index-tree/307-range-sum-query.cpp.s
+.PHONY : src/binary-index-tree/307-range-sum-query.s
 
 # target to generate assembly for a file
-src/bit/bit-template.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.s
-.PHONY : src/bit/bit-template.cpp.s
+src/binary-index-tree/307-range-sum-query.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range-sum-query.dir\build.make CMakeFiles/307-range-sum-query.dir/src/binary-index-tree/307-range-sum-query.cpp.s
+.PHONY : src/binary-index-tree/307-range-sum-query.cpp.s
 
-src/bit/offer51-reverse-pair.obj: src/bit/offer51-reverse-pair.cpp.obj
-.PHONY : src/bit/offer51-reverse-pair.obj
+src/binary-index-tree/315-count-smaller.obj: src/binary-index-tree/315-count-smaller.cpp.obj
+.PHONY : src/binary-index-tree/315-count-smaller.obj
 
 # target to build an object file
-src/bit/offer51-reverse-pair.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj
-.PHONY : src/bit/offer51-reverse-pair.cpp.obj
+src/binary-index-tree/315-count-smaller.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj
+.PHONY : src/binary-index-tree/315-count-smaller.cpp.obj
 
-src/bit/offer51-reverse-pair.i: src/bit/offer51-reverse-pair.cpp.i
-.PHONY : src/bit/offer51-reverse-pair.i
+src/binary-index-tree/315-count-smaller.i: src/binary-index-tree/315-count-smaller.cpp.i
+.PHONY : src/binary-index-tree/315-count-smaller.i
 
 # target to preprocess a source file
-src/bit/offer51-reverse-pair.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.i
-.PHONY : src/bit/offer51-reverse-pair.cpp.i
+src/binary-index-tree/315-count-smaller.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.i
+.PHONY : src/binary-index-tree/315-count-smaller.cpp.i
 
-src/bit/offer51-reverse-pair.s: src/bit/offer51-reverse-pair.cpp.s
-.PHONY : src/bit/offer51-reverse-pair.s
+src/binary-index-tree/315-count-smaller.s: src/binary-index-tree/315-count-smaller.cpp.s
+.PHONY : src/binary-index-tree/315-count-smaller.s
 
 # target to generate assembly for a file
-src/bit/offer51-reverse-pair.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.s
-.PHONY : src/bit/offer51-reverse-pair.cpp.s
+src/binary-index-tree/315-count-smaller.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\315-count-smaller.dir\build.make CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.s
+.PHONY : src/binary-index-tree/315-count-smaller.cpp.s
+
+src/binary-index-tree/327-count-range-sum.obj: src/binary-index-tree/327-count-range-sum.cpp.obj
+.PHONY : src/binary-index-tree/327-count-range-sum.obj
+
+# target to build an object file
+src/binary-index-tree/327-count-range-sum.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj
+.PHONY : src/binary-index-tree/327-count-range-sum.cpp.obj
+
+src/binary-index-tree/327-count-range-sum.i: src/binary-index-tree/327-count-range-sum.cpp.i
+.PHONY : src/binary-index-tree/327-count-range-sum.i
+
+# target to preprocess a source file
+src/binary-index-tree/327-count-range-sum.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.i
+.PHONY : src/binary-index-tree/327-count-range-sum.cpp.i
+
+src/binary-index-tree/327-count-range-sum.s: src/binary-index-tree/327-count-range-sum.cpp.s
+.PHONY : src/binary-index-tree/327-count-range-sum.s
+
+# target to generate assembly for a file
+src/binary-index-tree/327-count-range-sum.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\327-count-range-sum.dir\build.make CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.s
+.PHONY : src/binary-index-tree/327-count-range-sum.cpp.s
+
+src/binary-index-tree/493-reverse-pair.obj: src/binary-index-tree/493-reverse-pair.cpp.obj
+.PHONY : src/binary-index-tree/493-reverse-pair.obj
+
+# target to build an object file
+src/binary-index-tree/493-reverse-pair.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj
+.PHONY : src/binary-index-tree/493-reverse-pair.cpp.obj
+
+src/binary-index-tree/493-reverse-pair.i: src/binary-index-tree/493-reverse-pair.cpp.i
+.PHONY : src/binary-index-tree/493-reverse-pair.i
+
+# target to preprocess a source file
+src/binary-index-tree/493-reverse-pair.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.i
+.PHONY : src/binary-index-tree/493-reverse-pair.cpp.i
+
+src/binary-index-tree/493-reverse-pair.s: src/binary-index-tree/493-reverse-pair.cpp.s
+.PHONY : src/binary-index-tree/493-reverse-pair.s
+
+# target to generate assembly for a file
+src/binary-index-tree/493-reverse-pair.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\493-reverse-pair.dir\build.make CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.s
+.PHONY : src/binary-index-tree/493-reverse-pair.cpp.s
+
+src/binary-index-tree/bit-template.obj: src/binary-index-tree/bit-template.cpp.obj
+.PHONY : src/binary-index-tree/bit-template.obj
+
+# target to build an object file
+src/binary-index-tree/bit-template.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj
+.PHONY : src/binary-index-tree/bit-template.cpp.obj
+
+src/binary-index-tree/bit-template.i: src/binary-index-tree/bit-template.cpp.i
+.PHONY : src/binary-index-tree/bit-template.i
+
+# target to preprocess a source file
+src/binary-index-tree/bit-template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.i
+.PHONY : src/binary-index-tree/bit-template.cpp.i
+
+src/binary-index-tree/bit-template.s: src/binary-index-tree/bit-template.cpp.s
+.PHONY : src/binary-index-tree/bit-template.s
+
+# target to generate assembly for a file
+src/binary-index-tree/bit-template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bit-template.dir\build.make CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.s
+.PHONY : src/binary-index-tree/bit-template.cpp.s
+
+src/binary-index-tree/offer51-reverse-pair.obj: src/binary-index-tree/offer51-reverse-pair.cpp.obj
+.PHONY : src/binary-index-tree/offer51-reverse-pair.obj
+
+# target to build an object file
+src/binary-index-tree/offer51-reverse-pair.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj
+.PHONY : src/binary-index-tree/offer51-reverse-pair.cpp.obj
+
+src/binary-index-tree/offer51-reverse-pair.i: src/binary-index-tree/offer51-reverse-pair.cpp.i
+.PHONY : src/binary-index-tree/offer51-reverse-pair.i
+
+# target to preprocess a source file
+src/binary-index-tree/offer51-reverse-pair.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.i
+.PHONY : src/binary-index-tree/offer51-reverse-pair.cpp.i
+
+src/binary-index-tree/offer51-reverse-pair.s: src/binary-index-tree/offer51-reverse-pair.cpp.s
+.PHONY : src/binary-index-tree/offer51-reverse-pair.s
+
+# target to generate assembly for a file
+src/binary-index-tree/offer51-reverse-pair.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\offer51-reverse-pair.dir\build.make CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.s
+.PHONY : src/binary-index-tree/offer51-reverse-pair.cpp.s
+
+src/contest/305/2367-three-diff.obj: src/contest/305/2367-three-diff.cpp.obj
+.PHONY : src/contest/305/2367-three-diff.obj
+
+# target to build an object file
+src/contest/305/2367-three-diff.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2367-three-diff.dir\build.make CMakeFiles/2367-three-diff.dir/src/contest/305/2367-three-diff.cpp.obj
+.PHONY : src/contest/305/2367-three-diff.cpp.obj
+
+src/contest/305/2367-three-diff.i: src/contest/305/2367-three-diff.cpp.i
+.PHONY : src/contest/305/2367-three-diff.i
+
+# target to preprocess a source file
+src/contest/305/2367-three-diff.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2367-three-diff.dir\build.make CMakeFiles/2367-three-diff.dir/src/contest/305/2367-three-diff.cpp.i
+.PHONY : src/contest/305/2367-three-diff.cpp.i
+
+src/contest/305/2367-three-diff.s: src/contest/305/2367-three-diff.cpp.s
+.PHONY : src/contest/305/2367-three-diff.s
+
+# target to generate assembly for a file
+src/contest/305/2367-three-diff.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2367-three-diff.dir\build.make CMakeFiles/2367-three-diff.dir/src/contest/305/2367-three-diff.cpp.s
+.PHONY : src/contest/305/2367-three-diff.cpp.s
+
+src/contest/305/2368-nums-node.obj: src/contest/305/2368-nums-node.cpp.obj
+.PHONY : src/contest/305/2368-nums-node.obj
+
+# target to build an object file
+src/contest/305/2368-nums-node.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2368-nums-node.dir\build.make CMakeFiles/2368-nums-node.dir/src/contest/305/2368-nums-node.cpp.obj
+.PHONY : src/contest/305/2368-nums-node.cpp.obj
+
+src/contest/305/2368-nums-node.i: src/contest/305/2368-nums-node.cpp.i
+.PHONY : src/contest/305/2368-nums-node.i
+
+# target to preprocess a source file
+src/contest/305/2368-nums-node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2368-nums-node.dir\build.make CMakeFiles/2368-nums-node.dir/src/contest/305/2368-nums-node.cpp.i
+.PHONY : src/contest/305/2368-nums-node.cpp.i
+
+src/contest/305/2368-nums-node.s: src/contest/305/2368-nums-node.cpp.s
+.PHONY : src/contest/305/2368-nums-node.s
+
+# target to generate assembly for a file
+src/contest/305/2368-nums-node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2368-nums-node.dir\build.make CMakeFiles/2368-nums-node.dir/src/contest/305/2368-nums-node.cpp.s
+.PHONY : src/contest/305/2368-nums-node.cpp.s
+
+src/contest/305/2369-legal-partition.obj: src/contest/305/2369-legal-partition.cpp.obj
+.PHONY : src/contest/305/2369-legal-partition.obj
+
+# target to build an object file
+src/contest/305/2369-legal-partition.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2369-legal-partition.dir\build.make CMakeFiles/2369-legal-partition.dir/src/contest/305/2369-legal-partition.cpp.obj
+.PHONY : src/contest/305/2369-legal-partition.cpp.obj
+
+src/contest/305/2369-legal-partition.i: src/contest/305/2369-legal-partition.cpp.i
+.PHONY : src/contest/305/2369-legal-partition.i
+
+# target to preprocess a source file
+src/contest/305/2369-legal-partition.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2369-legal-partition.dir\build.make CMakeFiles/2369-legal-partition.dir/src/contest/305/2369-legal-partition.cpp.i
+.PHONY : src/contest/305/2369-legal-partition.cpp.i
+
+src/contest/305/2369-legal-partition.s: src/contest/305/2369-legal-partition.cpp.s
+.PHONY : src/contest/305/2369-legal-partition.s
+
+# target to generate assembly for a file
+src/contest/305/2369-legal-partition.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2369-legal-partition.dir\build.make CMakeFiles/2369-legal-partition.dir/src/contest/305/2369-legal-partition.cpp.s
+.PHONY : src/contest/305/2369-legal-partition.cpp.s
+
+src/contest/305/2370-longest-ideal-sequence.obj: src/contest/305/2370-longest-ideal-sequence.cpp.obj
+.PHONY : src/contest/305/2370-longest-ideal-sequence.obj
+
+# target to build an object file
+src/contest/305/2370-longest-ideal-sequence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/src/contest/305/2370-longest-ideal-sequence.cpp.obj
+.PHONY : src/contest/305/2370-longest-ideal-sequence.cpp.obj
+
+src/contest/305/2370-longest-ideal-sequence.i: src/contest/305/2370-longest-ideal-sequence.cpp.i
+.PHONY : src/contest/305/2370-longest-ideal-sequence.i
+
+# target to preprocess a source file
+src/contest/305/2370-longest-ideal-sequence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/src/contest/305/2370-longest-ideal-sequence.cpp.i
+.PHONY : src/contest/305/2370-longest-ideal-sequence.cpp.i
+
+src/contest/305/2370-longest-ideal-sequence.s: src/contest/305/2370-longest-ideal-sequence.cpp.s
+.PHONY : src/contest/305/2370-longest-ideal-sequence.s
+
+# target to generate assembly for a file
+src/contest/305/2370-longest-ideal-sequence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2370-longest-ideal-sequence.dir\build.make CMakeFiles/2370-longest-ideal-sequence.dir/src/contest/305/2370-longest-ideal-sequence.cpp.s
+.PHONY : src/contest/305/2370-longest-ideal-sequence.cpp.s
+
+src/contest/307/2283-min-time.obj: src/contest/307/2283-min-time.cpp.obj
+.PHONY : src/contest/307/2283-min-time.obj
+
+# target to build an object file
+src/contest/307/2283-min-time.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2283-min-time.dir\build.make CMakeFiles/2283-min-time.dir/src/contest/307/2283-min-time.cpp.obj
+.PHONY : src/contest/307/2283-min-time.cpp.obj
+
+src/contest/307/2283-min-time.i: src/contest/307/2283-min-time.cpp.i
+.PHONY : src/contest/307/2283-min-time.i
+
+# target to preprocess a source file
+src/contest/307/2283-min-time.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2283-min-time.dir\build.make CMakeFiles/2283-min-time.dir/src/contest/307/2283-min-time.cpp.i
+.PHONY : src/contest/307/2283-min-time.cpp.i
+
+src/contest/307/2283-min-time.s: src/contest/307/2283-min-time.cpp.s
+.PHONY : src/contest/307/2283-min-time.s
+
+# target to generate assembly for a file
+src/contest/307/2283-min-time.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2283-min-time.dir\build.make CMakeFiles/2283-min-time.dir/src/contest/307/2283-min-time.cpp.s
+.PHONY : src/contest/307/2283-min-time.cpp.s
+
+src/contest/307/2384-max-num.obj: src/contest/307/2384-max-num.cpp.obj
+.PHONY : src/contest/307/2384-max-num.obj
+
+# target to build an object file
+src/contest/307/2384-max-num.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-max-num.dir\build.make CMakeFiles/2384-max-num.dir/src/contest/307/2384-max-num.cpp.obj
+.PHONY : src/contest/307/2384-max-num.cpp.obj
+
+src/contest/307/2384-max-num.i: src/contest/307/2384-max-num.cpp.i
+.PHONY : src/contest/307/2384-max-num.i
+
+# target to preprocess a source file
+src/contest/307/2384-max-num.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-max-num.dir\build.make CMakeFiles/2384-max-num.dir/src/contest/307/2384-max-num.cpp.i
+.PHONY : src/contest/307/2384-max-num.cpp.i
+
+src/contest/307/2384-max-num.s: src/contest/307/2384-max-num.cpp.s
+.PHONY : src/contest/307/2384-max-num.s
+
+# target to generate assembly for a file
+src/contest/307/2384-max-num.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2384-max-num.dir\build.make CMakeFiles/2384-max-num.dir/src/contest/307/2384-max-num.cpp.s
+.PHONY : src/contest/307/2384-max-num.cpp.s
+
+src/contest/307/2385-tree.obj: src/contest/307/2385-tree.cpp.obj
+.PHONY : src/contest/307/2385-tree.obj
+
+# target to build an object file
+src/contest/307/2385-tree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2385-tree.dir\build.make CMakeFiles/2385-tree.dir/src/contest/307/2385-tree.cpp.obj
+.PHONY : src/contest/307/2385-tree.cpp.obj
+
+src/contest/307/2385-tree.i: src/contest/307/2385-tree.cpp.i
+.PHONY : src/contest/307/2385-tree.i
+
+# target to preprocess a source file
+src/contest/307/2385-tree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2385-tree.dir\build.make CMakeFiles/2385-tree.dir/src/contest/307/2385-tree.cpp.i
+.PHONY : src/contest/307/2385-tree.cpp.i
+
+src/contest/307/2385-tree.s: src/contest/307/2385-tree.cpp.s
+.PHONY : src/contest/307/2385-tree.s
+
+# target to generate assembly for a file
+src/contest/307/2385-tree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2385-tree.dir\build.make CMakeFiles/2385-tree.dir/src/contest/307/2385-tree.cpp.s
+.PHONY : src/contest/307/2385-tree.cpp.s
+
+src/dfs/1020-num-enclaves.obj: src/dfs/1020-num-enclaves.cpp.obj
+.PHONY : src/dfs/1020-num-enclaves.obj
+
+# target to build an object file
+src/dfs/1020-num-enclaves.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1020-num-enclaves.dir\build.make CMakeFiles/1020-num-enclaves.dir/src/dfs/1020-num-enclaves.cpp.obj
+.PHONY : src/dfs/1020-num-enclaves.cpp.obj
+
+src/dfs/1020-num-enclaves.i: src/dfs/1020-num-enclaves.cpp.i
+.PHONY : src/dfs/1020-num-enclaves.i
+
+# target to preprocess a source file
+src/dfs/1020-num-enclaves.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1020-num-enclaves.dir\build.make CMakeFiles/1020-num-enclaves.dir/src/dfs/1020-num-enclaves.cpp.i
+.PHONY : src/dfs/1020-num-enclaves.cpp.i
+
+src/dfs/1020-num-enclaves.s: src/dfs/1020-num-enclaves.cpp.s
+.PHONY : src/dfs/1020-num-enclaves.s
+
+# target to generate assembly for a file
+src/dfs/1020-num-enclaves.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1020-num-enclaves.dir\build.make CMakeFiles/1020-num-enclaves.dir/src/dfs/1020-num-enclaves.cpp.s
+.PHONY : src/dfs/1020-num-enclaves.cpp.s
 
 src/dfs/419-count-ships.obj: src/dfs/419-count-ships.cpp.obj
 .PHONY : src/dfs/419-count-ships.obj
@@ -643,53 +1282,365 @@ src/discretization/1331-array-rank.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1331-array-rank.dir\build.make CMakeFiles/1331-array-rank.dir/src/discretization/1331-array-rank.cpp.s
 .PHONY : src/discretization/1331-array-rank.cpp.s
 
-src/sigment-tree/1450-busy-student-2.obj: src/sigment-tree/1450-busy-student-2.cpp.obj
-.PHONY : src/sigment-tree/1450-busy-student-2.obj
+src/graph/1334-find-city.obj: src/graph/1334-find-city.cpp.obj
+.PHONY : src/graph/1334-find-city.obj
 
 # target to build an object file
-src/sigment-tree/1450-busy-student-2.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj
-.PHONY : src/sigment-tree/1450-busy-student-2.cpp.obj
+src/graph/1334-find-city.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1334-find-city.dir\build.make CMakeFiles/1334-find-city.dir/src/graph/1334-find-city.cpp.obj
+.PHONY : src/graph/1334-find-city.cpp.obj
 
-src/sigment-tree/1450-busy-student-2.i: src/sigment-tree/1450-busy-student-2.cpp.i
-.PHONY : src/sigment-tree/1450-busy-student-2.i
+src/graph/1334-find-city.i: src/graph/1334-find-city.cpp.i
+.PHONY : src/graph/1334-find-city.i
 
 # target to preprocess a source file
-src/sigment-tree/1450-busy-student-2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.i
-.PHONY : src/sigment-tree/1450-busy-student-2.cpp.i
+src/graph/1334-find-city.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1334-find-city.dir\build.make CMakeFiles/1334-find-city.dir/src/graph/1334-find-city.cpp.i
+.PHONY : src/graph/1334-find-city.cpp.i
 
-src/sigment-tree/1450-busy-student-2.s: src/sigment-tree/1450-busy-student-2.cpp.s
-.PHONY : src/sigment-tree/1450-busy-student-2.s
+src/graph/1334-find-city.s: src/graph/1334-find-city.cpp.s
+.PHONY : src/graph/1334-find-city.s
 
 # target to generate assembly for a file
-src/sigment-tree/1450-busy-student-2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.s
-.PHONY : src/sigment-tree/1450-busy-student-2.cpp.s
+src/graph/1334-find-city.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1334-find-city.dir\build.make CMakeFiles/1334-find-city.dir/src/graph/1334-find-city.cpp.s
+.PHONY : src/graph/1334-find-city.cpp.s
 
-src/sigment-tree/307-range.obj: src/sigment-tree/307-range.cpp.obj
-.PHONY : src/sigment-tree/307-range.obj
+src/graph/1582-min-cost.obj: src/graph/1582-min-cost.cpp.obj
+.PHONY : src/graph/1582-min-cost.obj
 
 # target to build an object file
-src/sigment-tree/307-range.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj
-.PHONY : src/sigment-tree/307-range.cpp.obj
+src/graph/1582-min-cost.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1582-min-cost.dir\build.make CMakeFiles/1582-min-cost.dir/src/graph/1582-min-cost.cpp.obj
+.PHONY : src/graph/1582-min-cost.cpp.obj
 
-src/sigment-tree/307-range.i: src/sigment-tree/307-range.cpp.i
-.PHONY : src/sigment-tree/307-range.i
+src/graph/1582-min-cost.i: src/graph/1582-min-cost.cpp.i
+.PHONY : src/graph/1582-min-cost.i
 
 # target to preprocess a source file
-src/sigment-tree/307-range.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.i
-.PHONY : src/sigment-tree/307-range.cpp.i
+src/graph/1582-min-cost.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1582-min-cost.dir\build.make CMakeFiles/1582-min-cost.dir/src/graph/1582-min-cost.cpp.i
+.PHONY : src/graph/1582-min-cost.cpp.i
 
-src/sigment-tree/307-range.s: src/sigment-tree/307-range.cpp.s
-.PHONY : src/sigment-tree/307-range.s
+src/graph/1582-min-cost.s: src/graph/1582-min-cost.cpp.s
+.PHONY : src/graph/1582-min-cost.s
 
 # target to generate assembly for a file
-src/sigment-tree/307-range.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.s
-.PHONY : src/sigment-tree/307-range.cpp.s
+src/graph/1582-min-cost.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1582-min-cost.dir\build.make CMakeFiles/1582-min-cost.dir/src/graph/1582-min-cost.cpp.s
+.PHONY : src/graph/1582-min-cost.cpp.s
+
+src/graph/207-curricular.obj: src/graph/207-curricular.cpp.obj
+.PHONY : src/graph/207-curricular.obj
+
+# target to build an object file
+src/graph/207-curricular.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\207-curricular.dir\build.make CMakeFiles/207-curricular.dir/src/graph/207-curricular.cpp.obj
+.PHONY : src/graph/207-curricular.cpp.obj
+
+src/graph/207-curricular.i: src/graph/207-curricular.cpp.i
+.PHONY : src/graph/207-curricular.i
+
+# target to preprocess a source file
+src/graph/207-curricular.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\207-curricular.dir\build.make CMakeFiles/207-curricular.dir/src/graph/207-curricular.cpp.i
+.PHONY : src/graph/207-curricular.cpp.i
+
+src/graph/207-curricular.s: src/graph/207-curricular.cpp.s
+.PHONY : src/graph/207-curricular.s
+
+# target to generate assembly for a file
+src/graph/207-curricular.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\207-curricular.dir\build.make CMakeFiles/207-curricular.dir/src/graph/207-curricular.cpp.s
+.PHONY : src/graph/207-curricular.cpp.s
+
+src/graph/210-curricular.obj: src/graph/210-curricular.cpp.obj
+.PHONY : src/graph/210-curricular.obj
+
+# target to build an object file
+src/graph/210-curricular.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\210-curricular.dir\build.make CMakeFiles/210-curricular.dir/src/graph/210-curricular.cpp.obj
+.PHONY : src/graph/210-curricular.cpp.obj
+
+src/graph/210-curricular.i: src/graph/210-curricular.cpp.i
+.PHONY : src/graph/210-curricular.i
+
+# target to preprocess a source file
+src/graph/210-curricular.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\210-curricular.dir\build.make CMakeFiles/210-curricular.dir/src/graph/210-curricular.cpp.i
+.PHONY : src/graph/210-curricular.cpp.i
+
+src/graph/210-curricular.s: src/graph/210-curricular.cpp.s
+.PHONY : src/graph/210-curricular.s
+
+# target to generate assembly for a file
+src/graph/210-curricular.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\210-curricular.dir\build.make CMakeFiles/210-curricular.dir/src/graph/210-curricular.cpp.s
+.PHONY : src/graph/210-curricular.cpp.s
+
+src/graph/684-redundant-connection-2.obj: src/graph/684-redundant-connection-2.cpp.obj
+.PHONY : src/graph/684-redundant-connection-2.obj
+
+# target to build an object file
+src/graph/684-redundant-connection-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection-2.dir\build.make CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.obj
+.PHONY : src/graph/684-redundant-connection-2.cpp.obj
+
+src/graph/684-redundant-connection-2.i: src/graph/684-redundant-connection-2.cpp.i
+.PHONY : src/graph/684-redundant-connection-2.i
+
+# target to preprocess a source file
+src/graph/684-redundant-connection-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection-2.dir\build.make CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.i
+.PHONY : src/graph/684-redundant-connection-2.cpp.i
+
+src/graph/684-redundant-connection-2.s: src/graph/684-redundant-connection-2.cpp.s
+.PHONY : src/graph/684-redundant-connection-2.s
+
+# target to generate assembly for a file
+src/graph/684-redundant-connection-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection-2.dir\build.make CMakeFiles/684-redundant-connection-2.dir/src/graph/684-redundant-connection-2.cpp.s
+.PHONY : src/graph/684-redundant-connection-2.cpp.s
+
+src/graph/684-redundant-connection.obj: src/graph/684-redundant-connection.cpp.obj
+.PHONY : src/graph/684-redundant-connection.obj
+
+# target to build an object file
+src/graph/684-redundant-connection.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection.dir\build.make CMakeFiles/684-redundant-connection.dir/src/graph/684-redundant-connection.cpp.obj
+.PHONY : src/graph/684-redundant-connection.cpp.obj
+
+src/graph/684-redundant-connection.i: src/graph/684-redundant-connection.cpp.i
+.PHONY : src/graph/684-redundant-connection.i
+
+# target to preprocess a source file
+src/graph/684-redundant-connection.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection.dir\build.make CMakeFiles/684-redundant-connection.dir/src/graph/684-redundant-connection.cpp.i
+.PHONY : src/graph/684-redundant-connection.cpp.i
+
+src/graph/684-redundant-connection.s: src/graph/684-redundant-connection.cpp.s
+.PHONY : src/graph/684-redundant-connection.s
+
+# target to generate assembly for a file
+src/graph/684-redundant-connection.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\684-redundant-connection.dir\build.make CMakeFiles/684-redundant-connection.dir/src/graph/684-redundant-connection.cpp.s
+.PHONY : src/graph/684-redundant-connection.cpp.s
+
+src/graph/785-is-bipartite.obj: src/graph/785-is-bipartite.cpp.obj
+.PHONY : src/graph/785-is-bipartite.obj
+
+# target to build an object file
+src/graph/785-is-bipartite.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\785-is-bipartite.dir\build.make CMakeFiles/785-is-bipartite.dir/src/graph/785-is-bipartite.cpp.obj
+.PHONY : src/graph/785-is-bipartite.cpp.obj
+
+src/graph/785-is-bipartite.i: src/graph/785-is-bipartite.cpp.i
+.PHONY : src/graph/785-is-bipartite.i
+
+# target to preprocess a source file
+src/graph/785-is-bipartite.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\785-is-bipartite.dir\build.make CMakeFiles/785-is-bipartite.dir/src/graph/785-is-bipartite.cpp.i
+.PHONY : src/graph/785-is-bipartite.cpp.i
+
+src/graph/785-is-bipartite.s: src/graph/785-is-bipartite.cpp.s
+.PHONY : src/graph/785-is-bipartite.s
+
+# target to generate assembly for a file
+src/graph/785-is-bipartite.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\785-is-bipartite.dir\build.make CMakeFiles/785-is-bipartite.dir/src/graph/785-is-bipartite.cpp.s
+.PHONY : src/graph/785-is-bipartite.cpp.s
+
+src/graph/797-possible-paths.obj: src/graph/797-possible-paths.cpp.obj
+.PHONY : src/graph/797-possible-paths.obj
+
+# target to build an object file
+src/graph/797-possible-paths.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\797-possible-paths.dir\build.make CMakeFiles/797-possible-paths.dir/src/graph/797-possible-paths.cpp.obj
+.PHONY : src/graph/797-possible-paths.cpp.obj
+
+src/graph/797-possible-paths.i: src/graph/797-possible-paths.cpp.i
+.PHONY : src/graph/797-possible-paths.i
+
+# target to preprocess a source file
+src/graph/797-possible-paths.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\797-possible-paths.dir\build.make CMakeFiles/797-possible-paths.dir/src/graph/797-possible-paths.cpp.i
+.PHONY : src/graph/797-possible-paths.cpp.i
+
+src/graph/797-possible-paths.s: src/graph/797-possible-paths.cpp.s
+.PHONY : src/graph/797-possible-paths.s
+
+# target to generate assembly for a file
+src/graph/797-possible-paths.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\797-possible-paths.dir\build.make CMakeFiles/797-possible-paths.dir/src/graph/797-possible-paths.cpp.s
+.PHONY : src/graph/797-possible-paths.cpp.s
+
+src/graph/886-possible-bipartition.obj: src/graph/886-possible-bipartition.cpp.obj
+.PHONY : src/graph/886-possible-bipartition.obj
+
+# target to build an object file
+src/graph/886-possible-bipartition.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\886-possible-bipartition.dir\build.make CMakeFiles/886-possible-bipartition.dir/src/graph/886-possible-bipartition.cpp.obj
+.PHONY : src/graph/886-possible-bipartition.cpp.obj
+
+src/graph/886-possible-bipartition.i: src/graph/886-possible-bipartition.cpp.i
+.PHONY : src/graph/886-possible-bipartition.i
+
+# target to preprocess a source file
+src/graph/886-possible-bipartition.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\886-possible-bipartition.dir\build.make CMakeFiles/886-possible-bipartition.dir/src/graph/886-possible-bipartition.cpp.i
+.PHONY : src/graph/886-possible-bipartition.cpp.i
+
+src/graph/886-possible-bipartition.s: src/graph/886-possible-bipartition.cpp.s
+.PHONY : src/graph/886-possible-bipartition.s
+
+# target to generate assembly for a file
+src/graph/886-possible-bipartition.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\886-possible-bipartition.dir\build.make CMakeFiles/886-possible-bipartition.dir/src/graph/886-possible-bipartition.cpp.s
+.PHONY : src/graph/886-possible-bipartition.cpp.s
+
+src/greedy/857-min-cost.obj: src/greedy/857-min-cost.cpp.obj
+.PHONY : src/greedy/857-min-cost.obj
+
+# target to build an object file
+src/greedy/857-min-cost.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\857-min-cost.dir\build.make CMakeFiles/857-min-cost.dir/src/greedy/857-min-cost.cpp.obj
+.PHONY : src/greedy/857-min-cost.cpp.obj
+
+src/greedy/857-min-cost.i: src/greedy/857-min-cost.cpp.i
+.PHONY : src/greedy/857-min-cost.i
+
+# target to preprocess a source file
+src/greedy/857-min-cost.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\857-min-cost.dir\build.make CMakeFiles/857-min-cost.dir/src/greedy/857-min-cost.cpp.i
+.PHONY : src/greedy/857-min-cost.cpp.i
+
+src/greedy/857-min-cost.s: src/greedy/857-min-cost.cpp.s
+.PHONY : src/greedy/857-min-cost.s
+
+# target to generate assembly for a file
+src/greedy/857-min-cost.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\857-min-cost.dir\build.make CMakeFiles/857-min-cost.dir/src/greedy/857-min-cost.cpp.s
+.PHONY : src/greedy/857-min-cost.cpp.s
+
+src/linked-list/707_linked_list.obj: src/linked-list/707_linked_list.cpp.obj
+.PHONY : src/linked-list/707_linked_list.obj
+
+# target to build an object file
+src/linked-list/707_linked_list.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\707_linked_list.dir\build.make CMakeFiles/707_linked_list.dir/src/linked-list/707_linked_list.cpp.obj
+.PHONY : src/linked-list/707_linked_list.cpp.obj
+
+src/linked-list/707_linked_list.i: src/linked-list/707_linked_list.cpp.i
+.PHONY : src/linked-list/707_linked_list.i
+
+# target to preprocess a source file
+src/linked-list/707_linked_list.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\707_linked_list.dir\build.make CMakeFiles/707_linked_list.dir/src/linked-list/707_linked_list.cpp.i
+.PHONY : src/linked-list/707_linked_list.cpp.i
+
+src/linked-list/707_linked_list.s: src/linked-list/707_linked_list.cpp.s
+.PHONY : src/linked-list/707_linked_list.s
+
+# target to generate assembly for a file
+src/linked-list/707_linked_list.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\707_linked_list.dir\build.make CMakeFiles/707_linked_list.dir/src/linked-list/707_linked_list.cpp.s
+.PHONY : src/linked-list/707_linked_list.cpp.s
+
+src/segment-tree/1450-busy-student-2.obj: src/segment-tree/1450-busy-student-2.cpp.obj
+.PHONY : src/segment-tree/1450-busy-student-2.obj
+
+# target to build an object file
+src/segment-tree/1450-busy-student-2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj
+.PHONY : src/segment-tree/1450-busy-student-2.cpp.obj
+
+src/segment-tree/1450-busy-student-2.i: src/segment-tree/1450-busy-student-2.cpp.i
+.PHONY : src/segment-tree/1450-busy-student-2.i
+
+# target to preprocess a source file
+src/segment-tree/1450-busy-student-2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.i
+.PHONY : src/segment-tree/1450-busy-student-2.cpp.i
+
+src/segment-tree/1450-busy-student-2.s: src/segment-tree/1450-busy-student-2.cpp.s
+.PHONY : src/segment-tree/1450-busy-student-2.s
+
+# target to generate assembly for a file
+src/segment-tree/1450-busy-student-2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1450-busy-student-2.dir\build.make CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.s
+.PHONY : src/segment-tree/1450-busy-student-2.cpp.s
+
+src/segment-tree/307-range.obj: src/segment-tree/307-range.cpp.obj
+.PHONY : src/segment-tree/307-range.obj
+
+# target to build an object file
+src/segment-tree/307-range.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj
+.PHONY : src/segment-tree/307-range.cpp.obj
+
+src/segment-tree/307-range.i: src/segment-tree/307-range.cpp.i
+.PHONY : src/segment-tree/307-range.i
+
+# target to preprocess a source file
+src/segment-tree/307-range.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.i
+.PHONY : src/segment-tree/307-range.cpp.i
+
+src/segment-tree/307-range.s: src/segment-tree/307-range.cpp.s
+.PHONY : src/segment-tree/307-range.s
+
+# target to generate assembly for a file
+src/segment-tree/307-range.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\307-range.dir\build.make CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.s
+.PHONY : src/segment-tree/307-range.cpp.s
+
+src/simulation/1598-folder.obj: src/simulation/1598-folder.cpp.obj
+.PHONY : src/simulation/1598-folder.obj
+
+# target to build an object file
+src/simulation/1598-folder.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1598-folder.dir\build.make CMakeFiles/1598-folder.dir/src/simulation/1598-folder.cpp.obj
+.PHONY : src/simulation/1598-folder.cpp.obj
+
+src/simulation/1598-folder.i: src/simulation/1598-folder.cpp.i
+.PHONY : src/simulation/1598-folder.i
+
+# target to preprocess a source file
+src/simulation/1598-folder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1598-folder.dir\build.make CMakeFiles/1598-folder.dir/src/simulation/1598-folder.cpp.i
+.PHONY : src/simulation/1598-folder.cpp.i
+
+src/simulation/1598-folder.s: src/simulation/1598-folder.cpp.s
+.PHONY : src/simulation/1598-folder.s
+
+# target to generate assembly for a file
+src/simulation/1598-folder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1598-folder.dir\build.make CMakeFiles/1598-folder.dir/src/simulation/1598-folder.cpp.s
+.PHONY : src/simulation/1598-folder.cpp.s
+
+src/simulation/circulating-decimal.obj: src/simulation/circulating-decimal.cpp.obj
+.PHONY : src/simulation/circulating-decimal.obj
+
+# target to build an object file
+src/simulation/circulating-decimal.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/src/simulation/circulating-decimal.cpp.obj
+.PHONY : src/simulation/circulating-decimal.cpp.obj
+
+src/simulation/circulating-decimal.i: src/simulation/circulating-decimal.cpp.i
+.PHONY : src/simulation/circulating-decimal.i
+
+# target to preprocess a source file
+src/simulation/circulating-decimal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/src/simulation/circulating-decimal.cpp.i
+.PHONY : src/simulation/circulating-decimal.cpp.i
+
+src/simulation/circulating-decimal.s: src/simulation/circulating-decimal.cpp.s
+.PHONY : src/simulation/circulating-decimal.s
+
+# target to generate assembly for a file
+src/simulation/circulating-decimal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\circulating-decimal.dir\build.make CMakeFiles/circulating-decimal.dir/src/simulation/circulating-decimal.cpp.s
+.PHONY : src/simulation/circulating-decimal.cpp.s
 
 src/sort/1090-largest-num.obj: src/sort/1090-largest-num.cpp.obj
 .PHONY : src/sort/1090-largest-num.obj
@@ -811,6 +1762,54 @@ src/sort/75-sort-color.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\75-color-sort.dir\build.make CMakeFiles/75-color-sort.dir/src/sort/75-sort-color.cpp.s
 .PHONY : src/sort/75-sort-color.cpp.s
 
+src/tree/669-trim-bst.obj: src/tree/669-trim-bst.cpp.obj
+.PHONY : src/tree/669-trim-bst.obj
+
+# target to build an object file
+src/tree/669-trim-bst.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\669-trim-bst.dir\build.make CMakeFiles/669-trim-bst.dir/src/tree/669-trim-bst.cpp.obj
+.PHONY : src/tree/669-trim-bst.cpp.obj
+
+src/tree/669-trim-bst.i: src/tree/669-trim-bst.cpp.i
+.PHONY : src/tree/669-trim-bst.i
+
+# target to preprocess a source file
+src/tree/669-trim-bst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\669-trim-bst.dir\build.make CMakeFiles/669-trim-bst.dir/src/tree/669-trim-bst.cpp.i
+.PHONY : src/tree/669-trim-bst.cpp.i
+
+src/tree/669-trim-bst.s: src/tree/669-trim-bst.cpp.s
+.PHONY : src/tree/669-trim-bst.s
+
+# target to generate assembly for a file
+src/tree/669-trim-bst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\669-trim-bst.dir\build.make CMakeFiles/669-trim-bst.dir/src/tree/669-trim-bst.cpp.s
+.PHONY : src/tree/669-trim-bst.cpp.s
+
+src/tree/743-net-delay.obj: src/tree/743-net-delay.cpp.obj
+.PHONY : src/tree/743-net-delay.obj
+
+# target to build an object file
+src/tree/743-net-delay.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\743-net-delay.dir\build.make CMakeFiles/743-net-delay.dir/src/tree/743-net-delay.cpp.obj
+.PHONY : src/tree/743-net-delay.cpp.obj
+
+src/tree/743-net-delay.i: src/tree/743-net-delay.cpp.i
+.PHONY : src/tree/743-net-delay.i
+
+# target to preprocess a source file
+src/tree/743-net-delay.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\743-net-delay.dir\build.make CMakeFiles/743-net-delay.dir/src/tree/743-net-delay.cpp.i
+.PHONY : src/tree/743-net-delay.cpp.i
+
+src/tree/743-net-delay.s: src/tree/743-net-delay.cpp.s
+.PHONY : src/tree/743-net-delay.s
+
+# target to generate assembly for a file
+src/tree/743-net-delay.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\743-net-delay.dir\build.make CMakeFiles/743-net-delay.dir/src/tree/743-net-delay.cpp.s
+.PHONY : src/tree/743-net-delay.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -822,11 +1821,27 @@ help:
 	@echo ... package_source
 	@echo ... rebuild_cache
 	@echo ... test
+	@echo ... 1020-num-enclaves
 	@echo ... 1090-largest-num
 	@echo ... 1331-array-rank
+	@echo ... 1334-find-city
 	@echo ... 1450-busy-student
 	@echo ... 1450-busy-student-2
+	@echo ... 1582-min-cost
+	@echo ... 1598-folder
+	@echo ... 16-closest-sum
+	@echo ... 1608-special-val
+	@echo ... 1636-frequency
 	@echo ... 179-largest-num
+	@echo ... 207-curricular
+	@echo ... 210-curricular
+	@echo ... 2283-min-time
+	@echo ... 2367-three-diff
+	@echo ... 2368-nums-node
+	@echo ... 2369-legal-partition
+	@echo ... 2370-longest-ideal-sequence
+	@echo ... 2384-max-num
+	@echo ... 2385-tree
 	@echo ... 307-range
 	@echo ... 307-range-sum-query
 	@echo ... 315-count-smaller
@@ -835,32 +1850,79 @@ help:
 	@echo ... 419-count-ships
 	@echo ... 49-group-anagrams
 	@echo ... 493-reverse-pair
+	@echo ... 667-construct-array
+	@echo ... 669-trim-bst
+	@echo ... 684-redundant-connection
+	@echo ... 684-redundant-connection-2
+	@echo ... 707_linked_list
+	@echo ... 743-net-delay
 	@echo ... 75-color-sort
+	@echo ... 785-is-bipartite
+	@echo ... 797-possible-paths
+	@echo ... 857-min-cost
+	@echo ... 886-possible-bipartition
 	@echo ... 98-verify-bst
 	@echo ... bit-template
+	@echo ... circulating-decimal
 	@echo ... leetcode
 	@echo ... offer51-reverse-pair
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... src/bit/307-range-sum-query.obj
-	@echo ... src/bit/307-range-sum-query.i
-	@echo ... src/bit/307-range-sum-query.s
-	@echo ... src/bit/315-count-smaller.obj
-	@echo ... src/bit/315-count-smaller.i
-	@echo ... src/bit/315-count-smaller.s
-	@echo ... src/bit/327-count-range-sum.obj
-	@echo ... src/bit/327-count-range-sum.i
-	@echo ... src/bit/327-count-range-sum.s
-	@echo ... src/bit/493-reverse-pair.obj
-	@echo ... src/bit/493-reverse-pair.i
-	@echo ... src/bit/493-reverse-pair.s
-	@echo ... src/bit/bit-template.obj
-	@echo ... src/bit/bit-template.i
-	@echo ... src/bit/bit-template.s
-	@echo ... src/bit/offer51-reverse-pair.obj
-	@echo ... src/bit/offer51-reverse-pair.i
-	@echo ... src/bit/offer51-reverse-pair.s
+	@echo ... src/array/16-closest-sum.obj
+	@echo ... src/array/16-closest-sum.i
+	@echo ... src/array/16-closest-sum.s
+	@echo ... src/array/1608-special-val.obj
+	@echo ... src/array/1608-special-val.i
+	@echo ... src/array/1608-special-val.s
+	@echo ... src/array/1636-frequency.obj
+	@echo ... src/array/1636-frequency.i
+	@echo ... src/array/1636-frequency.s
+	@echo ... src/array/667-construct-array.obj
+	@echo ... src/array/667-construct-array.i
+	@echo ... src/array/667-construct-array.s
+	@echo ... src/binary-index-tree/307-range-sum-query.obj
+	@echo ... src/binary-index-tree/307-range-sum-query.i
+	@echo ... src/binary-index-tree/307-range-sum-query.s
+	@echo ... src/binary-index-tree/315-count-smaller.obj
+	@echo ... src/binary-index-tree/315-count-smaller.i
+	@echo ... src/binary-index-tree/315-count-smaller.s
+	@echo ... src/binary-index-tree/327-count-range-sum.obj
+	@echo ... src/binary-index-tree/327-count-range-sum.i
+	@echo ... src/binary-index-tree/327-count-range-sum.s
+	@echo ... src/binary-index-tree/493-reverse-pair.obj
+	@echo ... src/binary-index-tree/493-reverse-pair.i
+	@echo ... src/binary-index-tree/493-reverse-pair.s
+	@echo ... src/binary-index-tree/bit-template.obj
+	@echo ... src/binary-index-tree/bit-template.i
+	@echo ... src/binary-index-tree/bit-template.s
+	@echo ... src/binary-index-tree/offer51-reverse-pair.obj
+	@echo ... src/binary-index-tree/offer51-reverse-pair.i
+	@echo ... src/binary-index-tree/offer51-reverse-pair.s
+	@echo ... src/contest/305/2367-three-diff.obj
+	@echo ... src/contest/305/2367-three-diff.i
+	@echo ... src/contest/305/2367-three-diff.s
+	@echo ... src/contest/305/2368-nums-node.obj
+	@echo ... src/contest/305/2368-nums-node.i
+	@echo ... src/contest/305/2368-nums-node.s
+	@echo ... src/contest/305/2369-legal-partition.obj
+	@echo ... src/contest/305/2369-legal-partition.i
+	@echo ... src/contest/305/2369-legal-partition.s
+	@echo ... src/contest/305/2370-longest-ideal-sequence.obj
+	@echo ... src/contest/305/2370-longest-ideal-sequence.i
+	@echo ... src/contest/305/2370-longest-ideal-sequence.s
+	@echo ... src/contest/307/2283-min-time.obj
+	@echo ... src/contest/307/2283-min-time.i
+	@echo ... src/contest/307/2283-min-time.s
+	@echo ... src/contest/307/2384-max-num.obj
+	@echo ... src/contest/307/2384-max-num.i
+	@echo ... src/contest/307/2384-max-num.s
+	@echo ... src/contest/307/2385-tree.obj
+	@echo ... src/contest/307/2385-tree.i
+	@echo ... src/contest/307/2385-tree.s
+	@echo ... src/dfs/1020-num-enclaves.obj
+	@echo ... src/dfs/1020-num-enclaves.i
+	@echo ... src/dfs/1020-num-enclaves.s
 	@echo ... src/dfs/419-count-ships.obj
 	@echo ... src/dfs/419-count-ships.i
 	@echo ... src/dfs/419-count-ships.s
@@ -873,12 +1935,51 @@ help:
 	@echo ... src/discretization/1331-array-rank.obj
 	@echo ... src/discretization/1331-array-rank.i
 	@echo ... src/discretization/1331-array-rank.s
-	@echo ... src/sigment-tree/1450-busy-student-2.obj
-	@echo ... src/sigment-tree/1450-busy-student-2.i
-	@echo ... src/sigment-tree/1450-busy-student-2.s
-	@echo ... src/sigment-tree/307-range.obj
-	@echo ... src/sigment-tree/307-range.i
-	@echo ... src/sigment-tree/307-range.s
+	@echo ... src/graph/1334-find-city.obj
+	@echo ... src/graph/1334-find-city.i
+	@echo ... src/graph/1334-find-city.s
+	@echo ... src/graph/1582-min-cost.obj
+	@echo ... src/graph/1582-min-cost.i
+	@echo ... src/graph/1582-min-cost.s
+	@echo ... src/graph/207-curricular.obj
+	@echo ... src/graph/207-curricular.i
+	@echo ... src/graph/207-curricular.s
+	@echo ... src/graph/210-curricular.obj
+	@echo ... src/graph/210-curricular.i
+	@echo ... src/graph/210-curricular.s
+	@echo ... src/graph/684-redundant-connection-2.obj
+	@echo ... src/graph/684-redundant-connection-2.i
+	@echo ... src/graph/684-redundant-connection-2.s
+	@echo ... src/graph/684-redundant-connection.obj
+	@echo ... src/graph/684-redundant-connection.i
+	@echo ... src/graph/684-redundant-connection.s
+	@echo ... src/graph/785-is-bipartite.obj
+	@echo ... src/graph/785-is-bipartite.i
+	@echo ... src/graph/785-is-bipartite.s
+	@echo ... src/graph/797-possible-paths.obj
+	@echo ... src/graph/797-possible-paths.i
+	@echo ... src/graph/797-possible-paths.s
+	@echo ... src/graph/886-possible-bipartition.obj
+	@echo ... src/graph/886-possible-bipartition.i
+	@echo ... src/graph/886-possible-bipartition.s
+	@echo ... src/greedy/857-min-cost.obj
+	@echo ... src/greedy/857-min-cost.i
+	@echo ... src/greedy/857-min-cost.s
+	@echo ... src/linked-list/707_linked_list.obj
+	@echo ... src/linked-list/707_linked_list.i
+	@echo ... src/linked-list/707_linked_list.s
+	@echo ... src/segment-tree/1450-busy-student-2.obj
+	@echo ... src/segment-tree/1450-busy-student-2.i
+	@echo ... src/segment-tree/1450-busy-student-2.s
+	@echo ... src/segment-tree/307-range.obj
+	@echo ... src/segment-tree/307-range.i
+	@echo ... src/segment-tree/307-range.s
+	@echo ... src/simulation/1598-folder.obj
+	@echo ... src/simulation/1598-folder.i
+	@echo ... src/simulation/1598-folder.s
+	@echo ... src/simulation/circulating-decimal.obj
+	@echo ... src/simulation/circulating-decimal.i
+	@echo ... src/simulation/circulating-decimal.s
 	@echo ... src/sort/1090-largest-num.obj
 	@echo ... src/sort/1090-largest-num.i
 	@echo ... src/sort/1090-largest-num.s
@@ -894,6 +1995,12 @@ help:
 	@echo ... src/sort/75-sort-color.obj
 	@echo ... src/sort/75-sort-color.i
 	@echo ... src/sort/75-sort-color.s
+	@echo ... src/tree/669-trim-bst.obj
+	@echo ... src/tree/669-trim-bst.i
+	@echo ... src/tree/669-trim-bst.s
+	@echo ... src/tree/743-net-delay.obj
+	@echo ... src/tree/743-net-delay.i
+	@echo ... src/tree/743-net-delay.s
 .PHONY : help
 
 

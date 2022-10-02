@@ -68,28 +68,28 @@ include CMakeFiles/307-range.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/307-range.dir/flags.make
 
-CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj: CMakeFiles/307-range.dir/flags.make
-CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj: D:/program/cpp/leetcode/src/sigment-tree/307-range.cpp
-CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj: CMakeFiles/307-range.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj -MF CMakeFiles\307-range.dir\src\sigment-tree\307-range.cpp.obj.d -o CMakeFiles\307-range.dir\src\sigment-tree\307-range.cpp.obj -c D:\program\cpp\leetcode\src\sigment-tree\307-range.cpp
+CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj: CMakeFiles/307-range.dir/flags.make
+CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj: D:/program/cpp/leetcode/src/segment-tree/307-range.cpp
+CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj: CMakeFiles/307-range.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj -MF CMakeFiles\307-range.dir\src\segment-tree\307-range.cpp.obj.d -o CMakeFiles\307-range.dir\src\segment-tree\307-range.cpp.obj -c D:\program\cpp\leetcode\src\segment-tree\307-range.cpp
 
-CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\sigment-tree\307-range.cpp > CMakeFiles\307-range.dir\src\sigment-tree\307-range.cpp.i
+CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\segment-tree\307-range.cpp > CMakeFiles\307-range.dir\src\segment-tree\307-range.cpp.i
 
-CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\sigment-tree\307-range.cpp -o CMakeFiles\307-range.dir\src\sigment-tree\307-range.cpp.s
+CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\segment-tree\307-range.cpp -o CMakeFiles\307-range.dir\src\segment-tree\307-range.cpp.s
 
 # Object files for target 307-range
 307__range_OBJECTS = \
-"CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj"
+"CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj"
 
 # External object files for target 307-range
 307__range_EXTERNAL_OBJECTS =
 
-307-range.exe: CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj
+307-range.exe: CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj
 307-range.exe: CMakeFiles/307-range.dir/build.make
 307-range.exe: CMakeFiles/307-range.dir/linklibs.rsp
 307-range.exe: CMakeFiles/307-range.dir/objects1.rsp

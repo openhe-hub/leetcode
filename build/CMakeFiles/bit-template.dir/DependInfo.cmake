@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/program/cpp/leetcode/src/bit/bit-template.cpp" "CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj" "gcc" "CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj.d"
+  "D:/program/cpp/leetcode/src/binary-index-tree/bit-template.cpp" "CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj" "gcc" "CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj.d"
   )
 
 # Targets to which this target links.

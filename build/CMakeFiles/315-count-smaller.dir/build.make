@@ -68,28 +68,28 @@ include CMakeFiles/315-count-smaller.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/315-count-smaller.dir/flags.make
 
-CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj: CMakeFiles/315-count-smaller.dir/flags.make
-CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj: D:/program/cpp/leetcode/src/bit/315-count-smaller.cpp
-CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj: CMakeFiles/315-count-smaller.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj -MF CMakeFiles\315-count-smaller.dir\src\bit\315-count-smaller.cpp.obj.d -o CMakeFiles\315-count-smaller.dir\src\bit\315-count-smaller.cpp.obj -c D:\program\cpp\leetcode\src\bit\315-count-smaller.cpp
+CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj: CMakeFiles/315-count-smaller.dir/flags.make
+CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj: D:/program/cpp/leetcode/src/binary-index-tree/315-count-smaller.cpp
+CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj: CMakeFiles/315-count-smaller.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj -MF CMakeFiles\315-count-smaller.dir\src\binary-index-tree\315-count-smaller.cpp.obj.d -o CMakeFiles\315-count-smaller.dir\src\binary-index-tree\315-count-smaller.cpp.obj -c D:\program\cpp\leetcode\src\binary-index-tree\315-count-smaller.cpp
 
-CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\bit\315-count-smaller.cpp > CMakeFiles\315-count-smaller.dir\src\bit\315-count-smaller.cpp.i
+CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\binary-index-tree\315-count-smaller.cpp > CMakeFiles\315-count-smaller.dir\src\binary-index-tree\315-count-smaller.cpp.i
 
-CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\bit\315-count-smaller.cpp -o CMakeFiles\315-count-smaller.dir\src\bit\315-count-smaller.cpp.s
+CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\binary-index-tree\315-count-smaller.cpp -o CMakeFiles\315-count-smaller.dir\src\binary-index-tree\315-count-smaller.cpp.s
 
 # Object files for target 315-count-smaller
 315__count__smaller_OBJECTS = \
-"CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj"
+"CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj"
 
 # External object files for target 315-count-smaller
 315__count__smaller_EXTERNAL_OBJECTS =
 
-315-count-smaller.exe: CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj
+315-count-smaller.exe: CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj
 315-count-smaller.exe: CMakeFiles/315-count-smaller.dir/build.make
 315-count-smaller.exe: CMakeFiles/315-count-smaller.dir/linklibs.rsp
 315-count-smaller.exe: CMakeFiles/315-count-smaller.dir/objects1.rsp

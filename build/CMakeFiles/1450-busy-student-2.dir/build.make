@@ -68,28 +68,28 @@ include CMakeFiles/1450-busy-student-2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/1450-busy-student-2.dir/flags.make
 
-CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj: CMakeFiles/1450-busy-student-2.dir/flags.make
-CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj: D:/program/cpp/leetcode/src/sigment-tree/1450-busy-student-2.cpp
-CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj: CMakeFiles/1450-busy-student-2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj -MF CMakeFiles\1450-busy-student-2.dir\src\sigment-tree\1450-busy-student-2.cpp.obj.d -o CMakeFiles\1450-busy-student-2.dir\src\sigment-tree\1450-busy-student-2.cpp.obj -c D:\program\cpp\leetcode\src\sigment-tree\1450-busy-student-2.cpp
+CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj: CMakeFiles/1450-busy-student-2.dir/flags.make
+CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj: D:/program/cpp/leetcode/src/segment-tree/1450-busy-student-2.cpp
+CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj: CMakeFiles/1450-busy-student-2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj -MF CMakeFiles\1450-busy-student-2.dir\src\segment-tree\1450-busy-student-2.cpp.obj.d -o CMakeFiles\1450-busy-student-2.dir\src\segment-tree\1450-busy-student-2.cpp.obj -c D:\program\cpp\leetcode\src\segment-tree\1450-busy-student-2.cpp
 
-CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\sigment-tree\1450-busy-student-2.cpp > CMakeFiles\1450-busy-student-2.dir\src\sigment-tree\1450-busy-student-2.cpp.i
+CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\segment-tree\1450-busy-student-2.cpp > CMakeFiles\1450-busy-student-2.dir\src\segment-tree\1450-busy-student-2.cpp.i
 
-CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\sigment-tree\1450-busy-student-2.cpp -o CMakeFiles\1450-busy-student-2.dir\src\sigment-tree\1450-busy-student-2.cpp.s
+CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\segment-tree\1450-busy-student-2.cpp -o CMakeFiles\1450-busy-student-2.dir\src\segment-tree\1450-busy-student-2.cpp.s
 
 # Object files for target 1450-busy-student-2
 1450__busy__student__2_OBJECTS = \
-"CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj"
+"CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj"
 
 # External object files for target 1450-busy-student-2
 1450__busy__student__2_EXTERNAL_OBJECTS =
 
-1450-busy-student-2.exe: CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj
+1450-busy-student-2.exe: CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj
 1450-busy-student-2.exe: CMakeFiles/1450-busy-student-2.dir/build.make
 1450-busy-student-2.exe: CMakeFiles/1450-busy-student-2.dir/linklibs.rsp
 1450-busy-student-2.exe: CMakeFiles/1450-busy-student-2.dir/objects1.rsp

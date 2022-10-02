@@ -68,28 +68,28 @@ include CMakeFiles/327-count-range-sum.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/327-count-range-sum.dir/flags.make
 
-CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj: CMakeFiles/327-count-range-sum.dir/flags.make
-CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj: D:/program/cpp/leetcode/src/bit/327-count-range-sum.cpp
-CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj: CMakeFiles/327-count-range-sum.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj -MF CMakeFiles\327-count-range-sum.dir\src\bit\327-count-range-sum.cpp.obj.d -o CMakeFiles\327-count-range-sum.dir\src\bit\327-count-range-sum.cpp.obj -c D:\program\cpp\leetcode\src\bit\327-count-range-sum.cpp
+CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj: CMakeFiles/327-count-range-sum.dir/flags.make
+CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj: D:/program/cpp/leetcode/src/binary-index-tree/327-count-range-sum.cpp
+CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj: CMakeFiles/327-count-range-sum.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj -MF CMakeFiles\327-count-range-sum.dir\src\binary-index-tree\327-count-range-sum.cpp.obj.d -o CMakeFiles\327-count-range-sum.dir\src\binary-index-tree\327-count-range-sum.cpp.obj -c D:\program\cpp\leetcode\src\binary-index-tree\327-count-range-sum.cpp
 
-CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\bit\327-count-range-sum.cpp > CMakeFiles\327-count-range-sum.dir\src\bit\327-count-range-sum.cpp.i
+CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\binary-index-tree\327-count-range-sum.cpp > CMakeFiles\327-count-range-sum.dir\src\binary-index-tree\327-count-range-sum.cpp.i
 
-CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\bit\327-count-range-sum.cpp -o CMakeFiles\327-count-range-sum.dir\src\bit\327-count-range-sum.cpp.s
+CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\binary-index-tree\327-count-range-sum.cpp -o CMakeFiles\327-count-range-sum.dir\src\binary-index-tree\327-count-range-sum.cpp.s
 
 # Object files for target 327-count-range-sum
 327__count__range__sum_OBJECTS = \
-"CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj"
+"CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj"
 
 # External object files for target 327-count-range-sum
 327__count__range__sum_EXTERNAL_OBJECTS =
 
-327-count-range-sum.exe: CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj
+327-count-range-sum.exe: CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj
 327-count-range-sum.exe: CMakeFiles/327-count-range-sum.dir/build.make
 327-count-range-sum.exe: CMakeFiles/327-count-range-sum.dir/linklibs.rsp
 327-count-range-sum.exe: CMakeFiles/327-count-range-sum.dir/objects1.rsp

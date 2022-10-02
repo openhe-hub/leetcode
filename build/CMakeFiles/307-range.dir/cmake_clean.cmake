@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "307-range.exe"
   "307-range.exe.manifest"
   "307-range.pdb"
-  "CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj"
-  "CMakeFiles/307-range.dir/src/sigment-tree/307-range.cpp.obj.d"
+  "CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj"
+  "CMakeFiles/307-range.dir/src/segment-tree/307-range.cpp.obj.d"
   "lib307-range.dll.a"
 )
 

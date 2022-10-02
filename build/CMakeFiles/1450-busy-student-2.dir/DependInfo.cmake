@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/program/cpp/leetcode/src/sigment-tree/1450-busy-student-2.cpp" "CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj" "gcc" "CMakeFiles/1450-busy-student-2.dir/src/sigment-tree/1450-busy-student-2.cpp.obj.d"
+  "D:/program/cpp/leetcode/src/segment-tree/1450-busy-student-2.cpp" "CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj" "gcc" "CMakeFiles/1450-busy-student-2.dir/src/segment-tree/1450-busy-student-2.cpp.obj.d"
   )
 
 # Targets to which this target links.

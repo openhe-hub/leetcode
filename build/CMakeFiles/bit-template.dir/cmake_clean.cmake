@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj"
-  "CMakeFiles/bit-template.dir/src/bit/bit-template.cpp.obj.d"
+  "CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj"
+  "CMakeFiles/bit-template.dir/src/binary-index-tree/bit-template.cpp.obj.d"
   "bit-template.exe"
   "bit-template.exe.manifest"
   "bit-template.pdb"

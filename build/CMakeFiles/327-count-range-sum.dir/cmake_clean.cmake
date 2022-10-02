@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "327-count-range-sum.exe"
   "327-count-range-sum.exe.manifest"
   "327-count-range-sum.pdb"
-  "CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj"
-  "CMakeFiles/327-count-range-sum.dir/src/bit/327-count-range-sum.cpp.obj.d"
+  "CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj"
+  "CMakeFiles/327-count-range-sum.dir/src/binary-index-tree/327-count-range-sum.cpp.obj.d"
   "lib327-count-range-sum.dll.a"
 )
 

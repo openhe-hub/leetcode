@@ -68,28 +68,28 @@ include CMakeFiles/offer51-reverse-pair.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/offer51-reverse-pair.dir/flags.make
 
-CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj: CMakeFiles/offer51-reverse-pair.dir/flags.make
-CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj: D:/program/cpp/leetcode/src/bit/offer51-reverse-pair.cpp
-CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj: CMakeFiles/offer51-reverse-pair.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj -MF CMakeFiles\offer51-reverse-pair.dir\src\bit\offer51-reverse-pair.cpp.obj.d -o CMakeFiles\offer51-reverse-pair.dir\src\bit\offer51-reverse-pair.cpp.obj -c D:\program\cpp\leetcode\src\bit\offer51-reverse-pair.cpp
+CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj: CMakeFiles/offer51-reverse-pair.dir/flags.make
+CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj: D:/program/cpp/leetcode/src/binary-index-tree/offer51-reverse-pair.cpp
+CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj: CMakeFiles/offer51-reverse-pair.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj -MF CMakeFiles\offer51-reverse-pair.dir\src\binary-index-tree\offer51-reverse-pair.cpp.obj.d -o CMakeFiles\offer51-reverse-pair.dir\src\binary-index-tree\offer51-reverse-pair.cpp.obj -c D:\program\cpp\leetcode\src\binary-index-tree\offer51-reverse-pair.cpp
 
-CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\bit\offer51-reverse-pair.cpp > CMakeFiles\offer51-reverse-pair.dir\src\bit\offer51-reverse-pair.cpp.i
+CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\binary-index-tree\offer51-reverse-pair.cpp > CMakeFiles\offer51-reverse-pair.dir\src\binary-index-tree\offer51-reverse-pair.cpp.i
 
-CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\bit\offer51-reverse-pair.cpp -o CMakeFiles\offer51-reverse-pair.dir\src\bit\offer51-reverse-pair.cpp.s
+CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\binary-index-tree\offer51-reverse-pair.cpp -o CMakeFiles\offer51-reverse-pair.dir\src\binary-index-tree\offer51-reverse-pair.cpp.s
 
 # Object files for target offer51-reverse-pair
 offer51__reverse__pair_OBJECTS = \
-"CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj"
+"CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj"
 
 # External object files for target offer51-reverse-pair
 offer51__reverse__pair_EXTERNAL_OBJECTS =
 
-offer51-reverse-pair.exe: CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj
+offer51-reverse-pair.exe: CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj
 offer51-reverse-pair.exe: CMakeFiles/offer51-reverse-pair.dir/build.make
 offer51-reverse-pair.exe: CMakeFiles/offer51-reverse-pair.dir/linklibs.rsp
 offer51-reverse-pair.exe: CMakeFiles/offer51-reverse-pair.dir/objects1.rsp

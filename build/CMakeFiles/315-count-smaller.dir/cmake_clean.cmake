@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "315-count-smaller.exe"
   "315-count-smaller.exe.manifest"
   "315-count-smaller.pdb"
-  "CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj"
-  "CMakeFiles/315-count-smaller.dir/src/bit/315-count-smaller.cpp.obj.d"
+  "CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj"
+  "CMakeFiles/315-count-smaller.dir/src/binary-index-tree/315-count-smaller.cpp.obj.d"
   "lib315-count-smaller.dll.a"
 )
 

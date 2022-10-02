@@ -68,28 +68,28 @@ include CMakeFiles/493-reverse-pair.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/493-reverse-pair.dir/flags.make
 
-CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj: CMakeFiles/493-reverse-pair.dir/flags.make
-CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj: D:/program/cpp/leetcode/src/bit/493-reverse-pair.cpp
-CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj: CMakeFiles/493-reverse-pair.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj -MF CMakeFiles\493-reverse-pair.dir\src\bit\493-reverse-pair.cpp.obj.d -o CMakeFiles\493-reverse-pair.dir\src\bit\493-reverse-pair.cpp.obj -c D:\program\cpp\leetcode\src\bit\493-reverse-pair.cpp
+CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj: CMakeFiles/493-reverse-pair.dir/flags.make
+CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj: D:/program/cpp/leetcode/src/binary-index-tree/493-reverse-pair.cpp
+CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj: CMakeFiles/493-reverse-pair.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\program\cpp\leetcode\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj -MF CMakeFiles\493-reverse-pair.dir\src\binary-index-tree\493-reverse-pair.cpp.obj.d -o CMakeFiles\493-reverse-pair.dir\src\binary-index-tree\493-reverse-pair.cpp.obj -c D:\program\cpp\leetcode\src\binary-index-tree\493-reverse-pair.cpp
 
-CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.i"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\bit\493-reverse-pair.cpp > CMakeFiles\493-reverse-pair.dir\src\bit\493-reverse-pair.cpp.i
+CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.i"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\program\cpp\leetcode\src\binary-index-tree\493-reverse-pair.cpp > CMakeFiles\493-reverse-pair.dir\src\binary-index-tree\493-reverse-pair.cpp.i
 
-CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.s"
-	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\bit\493-reverse-pair.cpp -o CMakeFiles\493-reverse-pair.dir\src\bit\493-reverse-pair.cpp.s
+CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.s"
+	D:\software\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\program\cpp\leetcode\src\binary-index-tree\493-reverse-pair.cpp -o CMakeFiles\493-reverse-pair.dir\src\binary-index-tree\493-reverse-pair.cpp.s
 
 # Object files for target 493-reverse-pair
 493__reverse__pair_OBJECTS = \
-"CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj"
+"CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj"
 
 # External object files for target 493-reverse-pair
 493__reverse__pair_EXTERNAL_OBJECTS =
 
-493-reverse-pair.exe: CMakeFiles/493-reverse-pair.dir/src/bit/493-reverse-pair.cpp.obj
+493-reverse-pair.exe: CMakeFiles/493-reverse-pair.dir/src/binary-index-tree/493-reverse-pair.cpp.obj
 493-reverse-pair.exe: CMakeFiles/493-reverse-pair.dir/build.make
 493-reverse-pair.exe: CMakeFiles/493-reverse-pair.dir/linklibs.rsp
 493-reverse-pair.exe: CMakeFiles/493-reverse-pair.dir/objects1.rsp

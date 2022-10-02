@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/program/cpp/leetcode/src/bit/offer51-reverse-pair.cpp" "CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj" "gcc" "CMakeFiles/offer51-reverse-pair.dir/src/bit/offer51-reverse-pair.cpp.obj.d"
+  "D:/program/cpp/leetcode/src/binary-index-tree/offer51-reverse-pair.cpp" "CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj" "gcc" "CMakeFiles/offer51-reverse-pair.dir/src/binary-index-tree/offer51-reverse-pair.cpp.obj.d"
   )
 
 # Targets to which this target links.
