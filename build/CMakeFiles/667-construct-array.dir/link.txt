@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\667-construct-array.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\667-construct-array.dir/objects.a @CMakeFiles\667-construct-array.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\667-construct-array.dir/objects.a -Wl,--no-whole-archive -o 667-construct-array.exe -Wl,--out-implib,lib667-construct-array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\667-construct-array.dir\linklibs.rsp

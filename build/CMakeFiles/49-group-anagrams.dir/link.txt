@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\49-group-anagrams.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\49-group-anagrams.dir/objects.a @CMakeFiles\49-group-anagrams.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\49-group-anagrams.dir/objects.a -Wl,--no-whole-archive -o 49-group-anagrams.exe -Wl,--out-implib,lib49-group-anagrams.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\49-group-anagrams.dir\linklibs.rsp

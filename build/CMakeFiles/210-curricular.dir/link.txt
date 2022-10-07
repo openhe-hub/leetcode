@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\210-curricular.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\210-curricular.dir/objects.a @CMakeFiles\210-curricular.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\210-curricular.dir/objects.a -Wl,--no-whole-archive -o 210-curricular.exe -Wl,--out-implib,lib210-curricular.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\210-curricular.dir\linklibs.rsp

@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\315-count-smaller.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\315-count-smaller.dir/objects.a @CMakeFiles\315-count-smaller.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\315-count-smaller.dir/objects.a -Wl,--no-whole-archive -o 315-count-smaller.exe -Wl,--out-implib,lib315-count-smaller.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\315-count-smaller.dir\linklibs.rsp

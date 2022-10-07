@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\2283-min-time.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\2283-min-time.dir/objects.a @CMakeFiles\2283-min-time.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\2283-min-time.dir/objects.a -Wl,--no-whole-archive -o 2283-min-time.exe -Wl,--out-implib,lib2283-min-time.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2283-min-time.dir\linklibs.rsp

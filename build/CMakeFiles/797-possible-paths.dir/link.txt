@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\797-possible-paths.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\797-possible-paths.dir/objects.a @CMakeFiles\797-possible-paths.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\797-possible-paths.dir/objects.a -Wl,--no-whole-archive -o 797-possible-paths.exe -Wl,--out-implib,lib797-possible-paths.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\797-possible-paths.dir\linklibs.rsp

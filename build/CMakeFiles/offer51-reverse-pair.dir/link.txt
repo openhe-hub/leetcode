@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\offer51-reverse-pair.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\offer51-reverse-pair.dir/objects.a @CMakeFiles\offer51-reverse-pair.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\offer51-reverse-pair.dir/objects.a -Wl,--no-whole-archive -o offer51-reverse-pair.exe -Wl,--out-implib,liboffer51-reverse-pair.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\offer51-reverse-pair.dir\linklibs.rsp

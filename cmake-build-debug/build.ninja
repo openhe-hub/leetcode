@@ -1756,6 +1756,369 @@ build 220-duplicated-elements-3.exe: CXX_EXECUTABLE_LINKER__220-duplicated-eleme
   TARGET_IMPLIB = lib220-duplicated-elements-3.dll.a
   TARGET_PDB = 220-duplicated-elements-3.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 1784-check-binary
+
+
+#############################################
+# Order-only phony target for 1784-check-binary
+
+build cmake_object_order_depends_target_1784-check-binary: phony || CMakeFiles/1784-check-binary.dir
+
+build CMakeFiles/1784-check-binary.dir/src/array/1784-check-binary.cpp.obj: CXX_COMPILER__1784-check-binary_Debug D$:/program/cpp/leetcode/src/array/1784-check-binary.cpp || cmake_object_order_depends_target_1784-check-binary
+  DEP_FILE = CMakeFiles\1784-check-binary.dir\src\array\1784-check-binary.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1784-check-binary.dir
+  OBJECT_FILE_DIR = CMakeFiles\1784-check-binary.dir\src\array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1784-check-binary
+
+
+#############################################
+# Link the executable 1784-check-binary.exe
+
+build 1784-check-binary.exe: CXX_EXECUTABLE_LINKER__1784-check-binary_Debug CMakeFiles/1784-check-binary.dir/src/array/1784-check-binary.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1784-check-binary.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1784-check-binary.exe
+  TARGET_IMPLIB = lib1784-check-binary.dll.a
+  TARGET_PDB = 1784-check-binary.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target acwing-2-01bag
+
+
+#############################################
+# Order-only phony target for acwing-2-01bag
+
+build cmake_object_order_depends_target_acwing-2-01bag: phony || CMakeFiles/acwing-2-01bag.dir
+
+build CMakeFiles/acwing-2-01bag.dir/src/dp/bag/acwing-2-01bag.cpp.obj: CXX_COMPILER__acwing-2-01bag_Debug D$:/program/cpp/leetcode/src/dp/bag/acwing-2-01bag.cpp || cmake_object_order_depends_target_acwing-2-01bag
+  DEP_FILE = CMakeFiles\acwing-2-01bag.dir\src\dp\bag\acwing-2-01bag.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\acwing-2-01bag.dir
+  OBJECT_FILE_DIR = CMakeFiles\acwing-2-01bag.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target acwing-2-01bag
+
+
+#############################################
+# Link the executable acwing-2-01bag.exe
+
+build acwing-2-01bag.exe: CXX_EXECUTABLE_LINKER__acwing-2-01bag_Debug CMakeFiles/acwing-2-01bag.dir/src/dp/bag/acwing-2-01bag.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\acwing-2-01bag.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = acwing-2-01bag.exe
+  TARGET_IMPLIB = libacwing-2-01bag.dll.a
+  TARGET_PDB = acwing-2-01bag.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target acwing-2-01bag-1d
+
+
+#############################################
+# Order-only phony target for acwing-2-01bag-1d
+
+build cmake_object_order_depends_target_acwing-2-01bag-1d: phony || CMakeFiles/acwing-2-01bag-1d.dir
+
+build CMakeFiles/acwing-2-01bag-1d.dir/src/dp/bag/acwing-2-01bag-1d.cpp.obj: CXX_COMPILER__acwing-2-01bag-1d_Debug D$:/program/cpp/leetcode/src/dp/bag/acwing-2-01bag-1d.cpp || cmake_object_order_depends_target_acwing-2-01bag-1d
+  DEP_FILE = CMakeFiles\acwing-2-01bag-1d.dir\src\dp\bag\acwing-2-01bag-1d.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\acwing-2-01bag-1d.dir
+  OBJECT_FILE_DIR = CMakeFiles\acwing-2-01bag-1d.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target acwing-2-01bag-1d
+
+
+#############################################
+# Link the executable acwing-2-01bag-1d.exe
+
+build acwing-2-01bag-1d.exe: CXX_EXECUTABLE_LINKER__acwing-2-01bag-1d_Debug CMakeFiles/acwing-2-01bag-1d.dir/src/dp/bag/acwing-2-01bag-1d.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\acwing-2-01bag-1d.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = acwing-2-01bag-1d.exe
+  TARGET_IMPLIB = libacwing-2-01bag-1d.dll.a
+  TARGET_PDB = acwing-2-01bag-1d.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 494-target-sum
+
+
+#############################################
+# Order-only phony target for 494-target-sum
+
+build cmake_object_order_depends_target_494-target-sum: phony || CMakeFiles/494-target-sum.dir
+
+build CMakeFiles/494-target-sum.dir/src/dp/bag/494-target-sum.cpp.obj: CXX_COMPILER__494-target-sum_Debug D$:/program/cpp/leetcode/src/dp/bag/494-target-sum.cpp || cmake_object_order_depends_target_494-target-sum
+  DEP_FILE = CMakeFiles\494-target-sum.dir\src\dp\bag\494-target-sum.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\494-target-sum.dir
+  OBJECT_FILE_DIR = CMakeFiles\494-target-sum.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 494-target-sum
+
+
+#############################################
+# Link the executable 494-target-sum.exe
+
+build 494-target-sum.exe: CXX_EXECUTABLE_LINKER__494-target-sum_Debug CMakeFiles/494-target-sum.dir/src/dp/bag/494-target-sum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\494-target-sum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 494-target-sum.exe
+  TARGET_IMPLIB = lib494-target-sum.dll.a
+  TARGET_PDB = 494-target-sum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 416-seperate-subset
+
+
+#############################################
+# Order-only phony target for 416-seperate-subset
+
+build cmake_object_order_depends_target_416-seperate-subset: phony || CMakeFiles/416-seperate-subset.dir
+
+build CMakeFiles/416-seperate-subset.dir/src/dp/bag/416-seperate-subset.cpp.obj: CXX_COMPILER__416-seperate-subset_Debug D$:/program/cpp/leetcode/src/dp/bag/416-seperate-subset.cpp || cmake_object_order_depends_target_416-seperate-subset
+  DEP_FILE = CMakeFiles\416-seperate-subset.dir\src\dp\bag\416-seperate-subset.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\416-seperate-subset.dir
+  OBJECT_FILE_DIR = CMakeFiles\416-seperate-subset.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 416-seperate-subset
+
+
+#############################################
+# Link the executable 416-seperate-subset.exe
+
+build 416-seperate-subset.exe: CXX_EXECUTABLE_LINKER__416-seperate-subset_Debug CMakeFiles/416-seperate-subset.dir/src/dp/bag/416-seperate-subset.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\416-seperate-subset.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 416-seperate-subset.exe
+  TARGET_IMPLIB = lib416-seperate-subset.dll.a
+  TARGET_PDB = 416-seperate-subset.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1049-last-stone
+
+
+#############################################
+# Order-only phony target for 1049-last-stone
+
+build cmake_object_order_depends_target_1049-last-stone: phony || CMakeFiles/1049-last-stone.dir
+
+build CMakeFiles/1049-last-stone.dir/src/dp/bag/1049-last-stone.cpp.obj: CXX_COMPILER__1049-last-stone_Debug D$:/program/cpp/leetcode/src/dp/bag/1049-last-stone.cpp || cmake_object_order_depends_target_1049-last-stone
+  DEP_FILE = CMakeFiles\1049-last-stone.dir\src\dp\bag\1049-last-stone.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1049-last-stone.dir
+  OBJECT_FILE_DIR = CMakeFiles\1049-last-stone.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1049-last-stone
+
+
+#############################################
+# Link the executable 1049-last-stone.exe
+
+build 1049-last-stone.exe: CXX_EXECUTABLE_LINKER__1049-last-stone_Debug CMakeFiles/1049-last-stone.dir/src/dp/bag/1049-last-stone.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1049-last-stone.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1049-last-stone.exe
+  TARGET_IMPLIB = lib1049-last-stone.dll.a
+  TARGET_PDB = 1049-last-stone.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target my-test
+
+
+#############################################
+# Order-only phony target for my-test
+
+build cmake_object_order_depends_target_my-test: phony || CMakeFiles/my-test.dir
+
+build CMakeFiles/my-test.dir/src/test.cpp.obj: CXX_COMPILER__my-test_Debug D$:/program/cpp/leetcode/src/test.cpp || cmake_object_order_depends_target_my-test
+  DEP_FILE = CMakeFiles\my-test.dir\src\test.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\my-test.dir
+  OBJECT_FILE_DIR = CMakeFiles\my-test.dir\src
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target my-test
+
+
+#############################################
+# Link the executable my-test.exe
+
+build my-test.exe: CXX_EXECUTABLE_LINKER__my-test_Debug CMakeFiles/my-test.dir/src/test.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\my-test.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = my-test.exe
+  TARGET_IMPLIB = libmy-test.dll.a
+  TARGET_PDB = my-test.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 1800-max-ascending
+
+
+#############################################
+# Order-only phony target for 1800-max-ascending
+
+build cmake_object_order_depends_target_1800-max-ascending: phony || CMakeFiles/1800-max-ascending.dir
+
+build CMakeFiles/1800-max-ascending.dir/src/array/1800-max-ascending.cpp.obj: CXX_COMPILER__1800-max-ascending_Debug D$:/program/cpp/leetcode/src/array/1800-max-ascending.cpp || cmake_object_order_depends_target_1800-max-ascending
+  DEP_FILE = CMakeFiles\1800-max-ascending.dir\src\array\1800-max-ascending.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\1800-max-ascending.dir
+  OBJECT_FILE_DIR = CMakeFiles\1800-max-ascending.dir\src\array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 1800-max-ascending
+
+
+#############################################
+# Link the executable 1800-max-ascending.exe
+
+build 1800-max-ascending.exe: CXX_EXECUTABLE_LINKER__1800-max-ascending_Debug CMakeFiles/1800-max-ascending.dir/src/array/1800-max-ascending.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\1800-max-ascending.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 1800-max-ascending.exe
+  TARGET_IMPLIB = lib1800-max-ascending.dll.a
+  TARGET_PDB = 1800-max-ascending.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target acwing-complete-bag
+
+
+#############################################
+# Order-only phony target for acwing-complete-bag
+
+build cmake_object_order_depends_target_acwing-complete-bag: phony || CMakeFiles/acwing-complete-bag.dir
+
+build CMakeFiles/acwing-complete-bag.dir/src/dp/bag/acwing-complete-bag.cpp.obj: CXX_COMPILER__acwing-complete-bag_Debug D$:/program/cpp/leetcode/src/dp/bag/acwing-complete-bag.cpp || cmake_object_order_depends_target_acwing-complete-bag
+  DEP_FILE = CMakeFiles\acwing-complete-bag.dir\src\dp\bag\acwing-complete-bag.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\acwing-complete-bag.dir
+  OBJECT_FILE_DIR = CMakeFiles\acwing-complete-bag.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target acwing-complete-bag
+
+
+#############################################
+# Link the executable acwing-complete-bag.exe
+
+build acwing-complete-bag.exe: CXX_EXECUTABLE_LINKER__acwing-complete-bag_Debug CMakeFiles/acwing-complete-bag.dir/src/dp/bag/acwing-complete-bag.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\acwing-complete-bag.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = acwing-complete-bag.exe
+  TARGET_IMPLIB = libacwing-complete-bag.dll.a
+  TARGET_PDB = acwing-complete-bag.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target acwing-complete-bag-1d
+
+
+#############################################
+# Order-only phony target for acwing-complete-bag-1d
+
+build cmake_object_order_depends_target_acwing-complete-bag-1d: phony || CMakeFiles/acwing-complete-bag-1d.dir
+
+build CMakeFiles/acwing-complete-bag-1d.dir/src/dp/bag/acwing-complete-bag-1d.cpp.obj: CXX_COMPILER__acwing-complete-bag-1d_Debug D$:/program/cpp/leetcode/src/dp/bag/acwing-complete-bag-1d.cpp || cmake_object_order_depends_target_acwing-complete-bag-1d
+  DEP_FILE = CMakeFiles\acwing-complete-bag-1d.dir\src\dp\bag\acwing-complete-bag-1d.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\acwing-complete-bag-1d.dir
+  OBJECT_FILE_DIR = CMakeFiles\acwing-complete-bag-1d.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target acwing-complete-bag-1d
+
+
+#############################################
+# Link the executable acwing-complete-bag-1d.exe
+
+build acwing-complete-bag-1d.exe: CXX_EXECUTABLE_LINKER__acwing-complete-bag-1d_Debug CMakeFiles/acwing-complete-bag-1d.dir/src/dp/bag/acwing-complete-bag-1d.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\acwing-complete-bag-1d.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = acwing-complete-bag-1d.exe
+  TARGET_IMPLIB = libacwing-complete-bag-1d.dll.a
+  TARGET_PDB = acwing-complete-bag-1d.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target acwing-4-multibag1
+
+
+#############################################
+# Order-only phony target for acwing-4-multibag1
+
+build cmake_object_order_depends_target_acwing-4-multibag1: phony || CMakeFiles/acwing-4-multibag1.dir
+
+build CMakeFiles/acwing-4-multibag1.dir/src/dp/bag/acwing-4-multibag1.cpp.obj: CXX_COMPILER__acwing-4-multibag1_Debug D$:/program/cpp/leetcode/src/dp/bag/acwing-4-multibag1.cpp || cmake_object_order_depends_target_acwing-4-multibag1
+  DEP_FILE = CMakeFiles\acwing-4-multibag1.dir\src\dp\bag\acwing-4-multibag1.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\acwing-4-multibag1.dir
+  OBJECT_FILE_DIR = CMakeFiles\acwing-4-multibag1.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target acwing-4-multibag1
+
+
+#############################################
+# Link the executable acwing-4-multibag1.exe
+
+build acwing-4-multibag1.exe: CXX_EXECUTABLE_LINKER__acwing-4-multibag1_Debug CMakeFiles/acwing-4-multibag1.dir/src/dp/bag/acwing-4-multibag1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\acwing-4-multibag1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = acwing-4-multibag1.exe
+  TARGET_IMPLIB = libacwing-4-multibag1.dll.a
+  TARGET_PDB = acwing-4-multibag1.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -1820,6 +2183,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 1020-num-enclaves: phony 1020-num-enclaves.exe
 
+build 1049-last-stone: phony 1049-last-stone.exe
+
 build 1090-largest-num: phony 1090-largest-num.exe
 
 build 1331-array-rank: phony 1331-array-rank.exe
@@ -1842,7 +2207,11 @@ build 1636-frequency: phony 1636-frequency.exe
 
 build 1695-max-subarray: phony 1695-max-subarray.exe
 
+build 1784-check-binary: phony 1784-check-binary.exe
+
 build 179-largest-num: phony 179-largest-num.exe
+
+build 1800-max-ascending: phony 1800-max-ascending.exe
 
 build 187-duplicated-sequence: phony 187-duplicated-sequence.exe
 
@@ -1882,11 +2251,15 @@ build 327-count-range-sum: phony 327-count-range-sum.exe
 
 build 378-kth-smallest: phony 378-kth-smallest.exe
 
+build 416-seperate-subset: phony 416-seperate-subset.exe
+
 build 419-count-ships: phony 419-count-ships.exe
 
 build 49-group-anagrams: phony 49-group-anagrams.exe
 
 build 493-reverse-pair: phony 493-reverse-pair.exe
+
+build 494-target-sum: phony 494-target-sum.exe
 
 build 667-construct-array: phony 667-construct-array.exe
 
@@ -1914,11 +2287,23 @@ build 886-possible-bipartition: phony 886-possible-bipartition.exe
 
 build 98-verify-bst: phony 98-verify-bst.exe
 
+build acwing-2-01bag: phony acwing-2-01bag.exe
+
+build acwing-2-01bag-1d: phony acwing-2-01bag-1d.exe
+
+build acwing-4-multibag1: phony acwing-4-multibag1.exe
+
+build acwing-complete-bag: phony acwing-complete-bag.exe
+
+build acwing-complete-bag-1d: phony acwing-complete-bag-1d.exe
+
 build bit-template: phony bit-template.exe
 
 build circulating-decimal: phony circulating-decimal.exe
 
 build leetcode: phony leetcode.exe
+
+build my-test: phony my-test.exe
 
 build offer51-reverse-pair: phony offer51-reverse-pair.exe
 
@@ -1930,7 +2315,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe 187-duplicated-sequence.exe 777-move-string.exe 1876-good-substring.exe 3-longest-substr.exe 1695-max-subarray.exe 219-duplicated-element.exe 220-duplicated-elements-3.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe 187-duplicated-sequence.exe 777-move-string.exe 1876-good-substring.exe 3-longest-substr.exe 1695-max-subarray.exe 219-duplicated-element.exe 220-duplicated-elements-3.exe 1784-check-binary.exe acwing-2-01bag.exe acwing-2-01bag-1d.exe 494-target-sum.exe 416-seperate-subset.exe 1049-last-stone.exe my-test.exe 1800-max-ascending.exe acwing-complete-bag.exe acwing-complete-bag-1d.exe acwing-4-multibag1.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

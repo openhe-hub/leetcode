@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\circulating-decimal.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\circulating-decimal.dir/objects.a @CMakeFiles\circulating-decimal.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\circulating-decimal.dir/objects.a -Wl,--no-whole-archive -o circulating-decimal.exe -Wl,--out-implib,libcirculating-decimal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\circulating-decimal.dir\linklibs.rsp

@@ -50,6 +50,17 @@ D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/3-longest-substr.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1695-max-subarray.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/219-duplicated-element.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/220-duplicated-elements-3.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1784-check-binary.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-2-01bag.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-2-01bag-1d.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/494-target-sum.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/416-seperate-subset.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1049-last-stone.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/my-test.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1800-max-ascending.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-complete-bag.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-complete-bag-1d.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-4-multibag1.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/package.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/package_source.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/test.dir

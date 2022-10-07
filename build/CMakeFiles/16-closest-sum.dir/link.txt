@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\16-closest-sum.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\16-closest-sum.dir/objects.a @CMakeFiles\16-closest-sum.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\16-closest-sum.dir/objects.a -Wl,--no-whole-archive -o 16-closest-sum.exe -Wl,--out-implib,lib16-closest-sum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\16-closest-sum.dir\linklibs.rsp

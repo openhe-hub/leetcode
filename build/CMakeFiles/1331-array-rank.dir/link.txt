@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\1331-array-rank.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\1331-array-rank.dir/objects.a @CMakeFiles\1331-array-rank.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\1331-array-rank.dir/objects.a -Wl,--no-whole-archive -o 1331-array-rank.exe -Wl,--out-implib,lib1331-array-rank.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1331-array-rank.dir\linklibs.rsp

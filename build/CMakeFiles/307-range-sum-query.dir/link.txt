@@ -1,3 +1,0 @@
-D:\software\cmake\bin\cmake.exe -E rm -f CMakeFiles\307-range-sum-query.dir/objects.a
-D:\software\mingw64\bin\ar.exe qc CMakeFiles\307-range-sum-query.dir/objects.a @CMakeFiles\307-range-sum-query.dir\objects1.rsp
-D:\software\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\307-range-sum-query.dir/objects.a -Wl,--no-whole-archive -o 307-range-sum-query.exe -Wl,--out-implib,lib307-range-sum-query.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\307-range-sum-query.dir\linklibs.rsp
