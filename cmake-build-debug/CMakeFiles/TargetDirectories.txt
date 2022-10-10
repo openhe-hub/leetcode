@@ -61,6 +61,11 @@ D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/1800-max-ascending.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-complete-bag.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-complete-bag-1d.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-4-multibag1.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/322-dollar-exchange.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/279-square-sum.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/518-dollar-exchange-2.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/377-combination-4.dir
+D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/acwing-group-bag.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/package.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/package_source.dir
 D:/program/cpp/leetcode/cmake-build-debug/CMakeFiles/test.dir

@@ -2119,6 +2119,171 @@ build acwing-4-multibag1.exe: CXX_EXECUTABLE_LINKER__acwing-4-multibag1_Debug CM
   TARGET_IMPLIB = libacwing-4-multibag1.dll.a
   TARGET_PDB = acwing-4-multibag1.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 322-dollar-exchange
+
+
+#############################################
+# Order-only phony target for 322-dollar-exchange
+
+build cmake_object_order_depends_target_322-dollar-exchange: phony || CMakeFiles/322-dollar-exchange.dir
+
+build CMakeFiles/322-dollar-exchange.dir/src/dp/bag/322-dollar-exchange.cpp.obj: CXX_COMPILER__322-dollar-exchange_Debug D$:/program/cpp/leetcode/src/dp/bag/322-dollar-exchange.cpp || cmake_object_order_depends_target_322-dollar-exchange
+  DEP_FILE = CMakeFiles\322-dollar-exchange.dir\src\dp\bag\322-dollar-exchange.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\322-dollar-exchange.dir
+  OBJECT_FILE_DIR = CMakeFiles\322-dollar-exchange.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 322-dollar-exchange
+
+
+#############################################
+# Link the executable 322-dollar-exchange.exe
+
+build 322-dollar-exchange.exe: CXX_EXECUTABLE_LINKER__322-dollar-exchange_Debug CMakeFiles/322-dollar-exchange.dir/src/dp/bag/322-dollar-exchange.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\322-dollar-exchange.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 322-dollar-exchange.exe
+  TARGET_IMPLIB = lib322-dollar-exchange.dll.a
+  TARGET_PDB = 322-dollar-exchange.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 279-square-sum
+
+
+#############################################
+# Order-only phony target for 279-square-sum
+
+build cmake_object_order_depends_target_279-square-sum: phony || CMakeFiles/279-square-sum.dir
+
+build CMakeFiles/279-square-sum.dir/src/dp/bag/279-square-sum.cpp.obj: CXX_COMPILER__279-square-sum_Debug D$:/program/cpp/leetcode/src/dp/bag/279-square-sum.cpp || cmake_object_order_depends_target_279-square-sum
+  DEP_FILE = CMakeFiles\279-square-sum.dir\src\dp\bag\279-square-sum.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\279-square-sum.dir
+  OBJECT_FILE_DIR = CMakeFiles\279-square-sum.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 279-square-sum
+
+
+#############################################
+# Link the executable 279-square-sum.exe
+
+build 279-square-sum.exe: CXX_EXECUTABLE_LINKER__279-square-sum_Debug CMakeFiles/279-square-sum.dir/src/dp/bag/279-square-sum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\279-square-sum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 279-square-sum.exe
+  TARGET_IMPLIB = lib279-square-sum.dll.a
+  TARGET_PDB = 279-square-sum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 518-dollar-exchange-2
+
+
+#############################################
+# Order-only phony target for 518-dollar-exchange-2
+
+build cmake_object_order_depends_target_518-dollar-exchange-2: phony || CMakeFiles/518-dollar-exchange-2.dir
+
+build CMakeFiles/518-dollar-exchange-2.dir/src/dp/bag/518-dollar-exchange-2.cpp.obj: CXX_COMPILER__518-dollar-exchange-2_Debug D$:/program/cpp/leetcode/src/dp/bag/518-dollar-exchange-2.cpp || cmake_object_order_depends_target_518-dollar-exchange-2
+  DEP_FILE = CMakeFiles\518-dollar-exchange-2.dir\src\dp\bag\518-dollar-exchange-2.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\518-dollar-exchange-2.dir
+  OBJECT_FILE_DIR = CMakeFiles\518-dollar-exchange-2.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 518-dollar-exchange-2
+
+
+#############################################
+# Link the executable 518-dollar-exchange-2.exe
+
+build 518-dollar-exchange-2.exe: CXX_EXECUTABLE_LINKER__518-dollar-exchange-2_Debug CMakeFiles/518-dollar-exchange-2.dir/src/dp/bag/518-dollar-exchange-2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\518-dollar-exchange-2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 518-dollar-exchange-2.exe
+  TARGET_IMPLIB = lib518-dollar-exchange-2.dll.a
+  TARGET_PDB = 518-dollar-exchange-2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 377-combination-4
+
+
+#############################################
+# Order-only phony target for 377-combination-4
+
+build cmake_object_order_depends_target_377-combination-4: phony || CMakeFiles/377-combination-4.dir
+
+build CMakeFiles/377-combination-4.dir/src/dp/bag/377-combination-4.cpp.obj: CXX_COMPILER__377-combination-4_Debug D$:/program/cpp/leetcode/src/dp/bag/377-combination-4.cpp || cmake_object_order_depends_target_377-combination-4
+  DEP_FILE = CMakeFiles\377-combination-4.dir\src\dp\bag\377-combination-4.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\377-combination-4.dir
+  OBJECT_FILE_DIR = CMakeFiles\377-combination-4.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 377-combination-4
+
+
+#############################################
+# Link the executable 377-combination-4.exe
+
+build 377-combination-4.exe: CXX_EXECUTABLE_LINKER__377-combination-4_Debug CMakeFiles/377-combination-4.dir/src/dp/bag/377-combination-4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\377-combination-4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 377-combination-4.exe
+  TARGET_IMPLIB = lib377-combination-4.dll.a
+  TARGET_PDB = 377-combination-4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target acwing-group-bag
+
+
+#############################################
+# Order-only phony target for acwing-group-bag
+
+build cmake_object_order_depends_target_acwing-group-bag: phony || CMakeFiles/acwing-group-bag.dir
+
+build CMakeFiles/acwing-group-bag.dir/src/dp/bag/acwing-group-bag.cpp.obj: CXX_COMPILER__acwing-group-bag_Debug D$:/program/cpp/leetcode/src/dp/bag/acwing-group-bag.cpp || cmake_object_order_depends_target_acwing-group-bag
+  DEP_FILE = CMakeFiles\acwing-group-bag.dir\src\dp\bag\acwing-group-bag.cpp.obj.d
+  FLAGS = -g -std=gnu++11
+  OBJECT_DIR = CMakeFiles\acwing-group-bag.dir
+  OBJECT_FILE_DIR = CMakeFiles\acwing-group-bag.dir\src\dp\bag
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target acwing-group-bag
+
+
+#############################################
+# Link the executable acwing-group-bag.exe
+
+build acwing-group-bag.exe: CXX_EXECUTABLE_LINKER__acwing-group-bag_Debug CMakeFiles/acwing-group-bag.dir/src/dp/bag/acwing-group-bag.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\acwing-group-bag.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = acwing-group-bag.exe
+  TARGET_IMPLIB = libacwing-group-bag.dll.a
+  TARGET_PDB = acwing-group-bag.exe.dbg
+
 
 #############################################
 # Utility command for package
@@ -2239,6 +2404,8 @@ build 2384-max-num: phony 2384-max-num.exe
 
 build 2385-tree: phony 2385-tree.exe
 
+build 279-square-sum: phony 279-square-sum.exe
+
 build 3-longest-substr: phony 3-longest-substr.exe
 
 build 307-range: phony 307-range.exe
@@ -2247,7 +2414,11 @@ build 307-range-sum-query: phony 307-range-sum-query.exe
 
 build 315-count-smaller: phony 315-count-smaller.exe
 
+build 322-dollar-exchange: phony 322-dollar-exchange.exe
+
 build 327-count-range-sum: phony 327-count-range-sum.exe
+
+build 377-combination-4: phony 377-combination-4.exe
 
 build 378-kth-smallest: phony 378-kth-smallest.exe
 
@@ -2260,6 +2431,8 @@ build 49-group-anagrams: phony 49-group-anagrams.exe
 build 493-reverse-pair: phony 493-reverse-pair.exe
 
 build 494-target-sum: phony 494-target-sum.exe
+
+build 518-dollar-exchange-2: phony 518-dollar-exchange-2.exe
 
 build 667-construct-array: phony 667-construct-array.exe
 
@@ -2297,6 +2470,8 @@ build acwing-complete-bag: phony acwing-complete-bag.exe
 
 build acwing-complete-bag-1d: phony acwing-complete-bag-1d.exe
 
+build acwing-group-bag: phony acwing-group-bag.exe
+
 build bit-template: phony bit-template.exe
 
 build circulating-decimal: phony circulating-decimal.exe
@@ -2315,7 +2490,7 @@ build offer51-reverse-pair: phony offer51-reverse-pair.exe
 #############################################
 # Folder: D:/program/cpp/leetcode/cmake-build-debug
 
-build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe 187-duplicated-sequence.exe 777-move-string.exe 1876-good-substring.exe 3-longest-substr.exe 1695-max-subarray.exe 219-duplicated-element.exe 220-duplicated-elements-3.exe 1784-check-binary.exe acwing-2-01bag.exe acwing-2-01bag-1d.exe 494-target-sum.exe 416-seperate-subset.exe 1049-last-stone.exe my-test.exe 1800-max-ascending.exe acwing-complete-bag.exe acwing-complete-bag-1d.exe acwing-4-multibag1.exe
+build all: phony leetcode.exe 49-group-anagrams.exe 75-color-sort.exe 179-largest-num.exe 378-kth-smallest.exe 98-verify-bst.exe 419-count-ships.exe 307-range-sum-query.exe 315-count-smaller.exe 327-count-range-sum.exe 1331-array-rank.exe 493-reverse-pair.exe offer51-reverse-pair.exe 1450-busy-student.exe bit-template.exe 307-range.exe 1450-busy-student-2.exe 1090-largest-num.exe 1598-folder.exe 667-construct-array.exe 16-closest-sum.exe 1582-min-cost.exe 669-trim-bst.exe 743-net-delay.exe 857-min-cost.exe 207-curricular.exe 210-curricular.exe 1608-special-val.exe 684-redundant-connection.exe 684-redundant-connection-2.exe 1636-frequency.exe 785-is-bipartite.exe 1334-find-city.exe 797-possible-paths.exe 2283-min-time.exe 2384-max-num.exe 2385-tree.exe 707_linked_list.exe 886-possible-bipartition.exe 1020-num-enclaves.exe circulating-decimal.exe 2367-three-diff.exe 2368-nums-node.exe 2369-legal-partition.exe 2370-longest-ideal-sequence.exe 187-duplicated-sequence.exe 777-move-string.exe 1876-good-substring.exe 3-longest-substr.exe 1695-max-subarray.exe 219-duplicated-element.exe 220-duplicated-elements-3.exe 1784-check-binary.exe acwing-2-01bag.exe acwing-2-01bag-1d.exe 494-target-sum.exe 416-seperate-subset.exe 1049-last-stone.exe my-test.exe 1800-max-ascending.exe acwing-complete-bag.exe acwing-complete-bag-1d.exe acwing-4-multibag1.exe 322-dollar-exchange.exe 279-square-sum.exe 518-dollar-exchange-2.exe 377-combination-4.exe acwing-group-bag.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
